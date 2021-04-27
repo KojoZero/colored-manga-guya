@@ -5,7 +5,7 @@
   "author": "Eiichiro Oda",
   "cover": "https://cdn.discordapp.com/attachments/827576781191381035/836673657693798400/1-01.jpg",
   "chapters": {
-    "1": {
+    "Chapitre 1": {
       "title": "Romance Dawn : A l'aube d'une grande aventure",
       "volume": "1",
       "groups": {
@@ -13,7 +13,7 @@
       },
       "last_updated": "1619547098"
     },
-    "2": {
+    "Chapitre 2": {
       "title": "Luffy, l'homme au chapeau de paille",
       "volume": "1",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1619547098"
     },
-    "3": {
+    "Chapitre 3": {
       "title": "Zoro le chasseur de pirates",
       "volume": "1",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1619547098"
     },
-    "941": {
+    "Chapitre 941": {
       "title": "La coqueluche du village d'Ebisu",
       "volume": "93",
       "groups": {
@@ -37,7 +37,7 @@
       },
       "last_updated": "1619561162"
     },
-    "942": {
+    "Chapitre 942": {
       "title": "Yasuie Shimotsuki, seigneur de la region de Hakumai",
       "volume": "93",
       "groups": {
