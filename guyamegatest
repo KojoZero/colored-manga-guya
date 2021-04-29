@@ -1,0 +1,18 @@
+{
+  "title": ""Bleach - Digital Colored Comics",
+  "description": "MegaTest",
+  "artist": "Tite Kubo",
+  "author": "Tite Kubo",
+  "cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08873555873213325501/1200/08873555873213325501.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "KojoZero": [
+   
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
