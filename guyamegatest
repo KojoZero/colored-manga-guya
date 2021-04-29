@@ -1,21 +1,21 @@
 {
-  "title": ""Bleach - Digital Colored Comics",
-  "description": "MegaTest",
-  "artist": "Tite Kubo",
-  "author": "Tite Kubo",
-  "cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08873555873213325501/1200/08873555873213325501.jpg",
-  "chapters": {
-    "1": {
-      "title": "Chapter 2",
-      "volume": "1",
-      "groups": {
-        "KojoZero": [
-        "https://mega.nz/file/O3Bg2biC#3EoG5TCK9ApV-ghwiXt4zBb3-t2OZ5vYC99CsQshDWc",
-        "https://mega.nz/file/qrRCFDRT#2u1wmYp9KErNUKTBV-qluATQemOh1nZES_BnvWiyi5c",
-        "https://mega.nz/file/q2QiiDRB#IM35IdMnsEaV_ZE7XoWOW2HKlHBFQS13-1x6htqbqFc"
-        ]
-      },
-      "last_updated": "1616368746"
-    }
-  }
+	"title": "Bleach - Digital COlored Test",
+	"description": "MegaTest",
+	"artist": "Tite Kubo",
+	"author": "Tite Kubo",
+	"cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08873555873213325501/1200/08873555873213325501.jpg",
+	"chapters": {
+		"1": {
+			"title": "Chapter 2",
+			"volume": "1",
+			"groups": {
+				"KojoZero": [
+					"https://mega.nz/file/O3Bg2biC#3EoG5TCK9ApV-ghwiXt4zBb3-t2OZ5vYC99CsQshDWc",
+					"https://mega.nz/file/qrRCFDRT#2u1wmYp9KErNUKTBV-qluATQemOh1nZES_BnvWiyi5c",
+					"https://mega.nz/file/q2QiiDRB#IM35IdMnsEaV_ZE7XoWOW2HKlHBFQS13-1x6htqbqFc"
+				]
+			},
+			"last_updated": "1616368746"
+		}
+	}
 }
