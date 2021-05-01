@@ -6,245 +6,3383 @@
   "author": "Watsuki Nobuhiro",
   "cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08872282871499325501/1200/08872282871499325501.jpg",
   "chapters": {
-    "82": {
-      "title": "Chapter 82",
-      "volume": "10",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/6qlGuI8/"
-      },
-      "last_updated": "1616368746"
-    },
-     "83": {
-      "title": "Chapter 83",
-      "volume": "10",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/s4KD95E/"
-      },
-      "last_updated": "1616368746"
-    },
-     "84": {
-      "title": "Chapter 84",
-      "volume": "10",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/wZtA37m/"
-      },
-      "last_updated": "1616368746"
-    },
-         "85": {
-      "title": "Chapter 85",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/VQFdoue/"
-      },
-      "last_updated": "1616707283"
-    },
-         "86": {
-      "title": "Chapter 86",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/edwLATT/"
-      },
-      "last_updated": "1616707283"
-    },
-         "87": {
-      "title": "Chapter 87",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/jMBKioc/"
-      },
-      "last_updated": "1616707283"
-    },
-         "88": {
-      "title": "Chapter 88",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/uck5ma4/"
-      },
-      "last_updated": "1616707283"
-    },
-         "89": {
-      "title": "Chapter 89",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/Wl5G5Vy/"
-      },
-      "last_updated": "1616707283"
-    },
-         "90": {
-      "title": "Chapter 90",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/4gNJub8/"
-      },
-      "last_updated": "1616707283"
-    },
-       "91": {
-      "title": "Chapter 91",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/s1xrjEn/"
-      },
-      "last_updated": "1616800426"
-    },
-       "92": {
-      "title": "Chapter 92",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/i1BEBua/"
-      },
-      "last_updated": "1616800426"
-    },
-       "93": {
-      "title": "Chapter 93",
-      "volume": "11",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/YXoITQE/"
-      },
-      "last_updated": "1616800426"
-    },
-       "94": {
-      "title": "Chapter 94",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/P4chAOj/"
-      },
-      "last_updated": "1616980551"
-    },
-       "95": {
-      "title": "Chapter 95",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/Rt7FY9y/"
-      },
-      "last_updated": "1616980551"
-    },
-       "96": {
-      "title": "Chapter 96",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/mXDWk7I/"
-      },
-      "last_updated": "1616980551"
-    },
-       "97": {
-      "title": "Chapter 97",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/2fUsK56/"
-      },
-      "last_updated": "1616980551"
-    },
-       "98": {
-      "title": "Chapter 98",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/tzYG9dB/"
-      },
-      "last_updated": "1617160681"
-    },
-       "99": {
-      "title": "Chapter 99",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/2lF7naL/"
-      },
-      "last_updated": "1617160681"
-    },
-       "100": {
-      "title": "Chapter 100",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/aOiePc0/"
-      },
-      "last_updated": "1617160681"
-    },
-       "101": {
-      "title": "Chapter 101",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/T95p12C/"
-      },
-      "last_updated": "1617160681"
-    },
-       "102": {
-      "title": "Chapter 102",
-      "volume": "12",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/yGJIlhV/"
-      },
-      "last_updated": "1617160681"
-    },
-       "103": {
-      "title": "Chapter 103",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/2usCTWd/"
-      },
-      "last_updated": "1618284495"
-    },
-       "104": {
-      "title": "Chapter 104",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/nF9pZKT/"
-      },
-      "last_updated": "1618284495"
-    },
-       "105": {
-      "title": "Chapter 105",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/WubwYRx/"
-      },
-      "last_updated": "1618284495"
-    },
-       "106": {
-      "title": "Chapter 106",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/b0badmG/"
-      },
-      "last_updated": "1618284495"
-    },
-       "107": {
-      "title": "Chapter 107",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/3M1AFlY/"
-      },
-      "last_updated": "1618284495"
-    },
-       "108": {
-      "title": "Chapter 108",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/brHVeRk/"
-      },
-      "last_updated": "1618284495"
-    },
-       "109": {
-      "title": "Chapter 109",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/V9eHwNJ/"
-      },
-      "last_updated": "1618284495"
-    },
-       "110": {
-      "title": "Chapter 110",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/yiuavOd/"
-      },
-      "last_updated": "1618284495"
-    },
-       "111": {
-      "title": "Chapter 111",
-      "volume": "13",
-      "groups": {
-        "KojoZero": "/proxy/api/imgur/chapter/v9eS1P6/"
-      },
-      "last_updated": "1618284495"
-    }
-  }
+    "1": {
+			"title": "Chapter 001",
+			"volume": "1",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1EDc0CQn1ByDN5__Z-PdNLa--ruA2SSEk",
+					"https://drive.google.com/uc?id=1izu8MbaLjUIM0APtG8m1Axxoj6vqTYNd",
+					"https://drive.google.com/uc?id=1B3qmN4vg5EonmdbuiCeBQQR23VqDoaJj",
+					"https://drive.google.com/uc?id=1cCCIvNwYeN-YdppdS7YzeI0d3Q7mYTXA",
+					"https://drive.google.com/uc?id=1uPzfhD1g63C0BcUcVwa6pRgM8npsaFbT",
+					"https://drive.google.com/uc?id=16oD--iPjWJgAhM4sIZbiXfT3oN16_jYy",
+					"https://drive.google.com/uc?id=1VRydNNl41ZbWdFlYELmvDmYqQIc6Uglm",
+					"https://drive.google.com/uc?id=1JsJ86pLZZ98-O8cTyrLS5933GuNru7ic",
+					"https://drive.google.com/uc?id=1WIOAtu9ZxzG8kH14dKAlBqQOU_cAm6dI",
+					"https://drive.google.com/uc?id=1vulAZjS_dk-Qx_cMdLXT1c0CZRwcHs2Q",
+					"https://drive.google.com/uc?id=1Trh4ahhOEYIi2nlLfD4QImEDX8pZWvjY",
+					"https://drive.google.com/uc?id=1_n0MKmtEIV36VfMVLrlhBIDen7MQU5C5",
+					"https://drive.google.com/uc?id=1RJEzc7nybb5TrVrD3UieAbkNkwkIUgpO",
+					"https://drive.google.com/uc?id=1u8Yq_milAqKkYnIrySC_KIwBSu-Fdjj5",
+					"https://drive.google.com/uc?id=1IKSQQLekXJ6zHbwYOjxI0KbmrseWkxlc",
+					"https://drive.google.com/uc?id=1an7ZhVSoMWw0oQqIvrkPg1dH64xdBGMY",
+					"https://drive.google.com/uc?id=1cvF_VPFf0rGqT4yMwVAs2Rwx0YuDo7SN",
+					"https://drive.google.com/uc?id=19NPQhrIqDa6Q43PAIvxr30HMRxj6p6G1",
+					"https://drive.google.com/uc?id=1Epaxh-8waGaskKdwmgZXP8V06yo-3XDF",
+					"https://drive.google.com/uc?id=1dQcjVcimgaaUw3PO1fL3myKDLQ3uiXV1",
+					"https://drive.google.com/uc?id=1e6tZNAnLEBRNIN3pABNOJSXrb_PFA-Jo",
+					"https://drive.google.com/uc?id=1AwrA7muuuS6GMwV0qsI8mFUTb5dGHzQZ",
+					"https://drive.google.com/uc?id=17rATK5SB5VKiSaTd4m8zr911oihnsbgT",
+					"https://drive.google.com/uc?id=1eoYZ8r8ylhrcCVjuvTBOOnH4UrgWcFvV",
+					"https://drive.google.com/uc?id=1SFqo7FUgLEDU1p4wNUGAvsY8tvPvJeu2",
+					"https://drive.google.com/uc?id=1N66PPj_so4BZlfXd9ForExbKp2I2rRuF",
+					"https://drive.google.com/uc?id=1IzikOtlnTve6JQX9S0UwRfvmIoOS4GM7",
+					"https://drive.google.com/uc?id=1OZDLshKAHv4HaoW70SK9S6BkmyXo03Oc",
+					"https://drive.google.com/uc?id=1oUJ6mzPnM7NqGtEXwE3CqlZbAvniaA2i",
+					"https://drive.google.com/uc?id=1cAlZGH7mZ2BptbzE6AjNZUqyU1SZ_O6E",
+					"https://drive.google.com/uc?id=1EfQEywsFm-Ua0bAWlHVhIQ0j9nZaEvze",
+					"https://drive.google.com/uc?id=1i_x4NP-OuN8iAK9r0Pb1qwmh0DdI2ic7",
+					"https://drive.google.com/uc?id=1c1-i_xKET4MoVGIFpvIeYM1VSmzm39sm",
+					"https://drive.google.com/uc?id=14Ub3ADe3QuxFFzxZc1mIMm7OtFdHyhRs",
+					"https://drive.google.com/uc?id=1rpGWqRflEHHdeYQmy1qbhqKFFaH41Kt_",
+					"https://drive.google.com/uc?id=1EF0gBN9NshNq3AZ46XHRkJSDiF65fO93",
+					"https://drive.google.com/uc?id=1wsePoGHNaDbFh-hdE7CJrMu56oVZRa6_",
+					"https://drive.google.com/uc?id=13Hu17x3jtz54e6k-aHbOtpXNO7JwxhK9",
+					"https://drive.google.com/uc?id=1rFLqhr23Bdj5jpJicgA2UO_KY0ec5v2S",
+					"https://drive.google.com/uc?id=1liNyM0KXTkMprs0wJp0dc-Gb2HC3sGF3",
+					"https://drive.google.com/uc?id=1QS2jmyrovHhz3MVtW9AMlmDhf6IEStEw",
+					"https://drive.google.com/uc?id=1508cQEKkGRNM2_vczruiflXEJ445xvR2",
+					"https://drive.google.com/uc?id=1B7AFuQFsZvi3DCcQ0MXRkEz-3fEN2QNl",
+					"https://drive.google.com/uc?id=1VXr41znO5t3silGJwjXRHFPVHeDy4S2Y",
+					"https://drive.google.com/uc?id=16x0lIRBmGZAhH20kZJJFRfmuf9dOcPk0",
+					"https://drive.google.com/uc?id=1KkteP5D-UHXYkMm_pVCU03v5H75yMb3i",
+					"https://drive.google.com/uc?id=1kpUNFMbUTThe2mlZp_WBob2ver9bpS9o",
+					"https://drive.google.com/uc?id=1NDa3uHHBqyrm5ZQflVCk4QV59KqqSty-",
+					"https://drive.google.com/uc?id=11N9I73M0q3aslUxJ_RKGxwYjpq0K2Ja0",
+					"https://drive.google.com/uc?id=1r-E0dz0IsoKr7N9UG-Auu02jsowt5ylr",
+					"https://drive.google.com/uc?id=1KSLOo9OJMppDVMmDfvGHDO6bBFGeEPUB",
+					"https://drive.google.com/uc?id=1qKTXmBNusTAU6ys7pCan5Gp-9ydamYl8",
+					"https://drive.google.com/uc?id=1RyzAy90iyiE-lCfPmEvy6MEB5PBETxVK",
+					"https://drive.google.com/uc?id=16JsUaLb7QtHBQYxudiEXt6ObUUJ1wrYW",
+					"https://drive.google.com/uc?id=1B4VL4ifyicM0_PRgRWiVIc1emoemSHNr",
+					"https://drive.google.com/uc?id=1jxJFJ5XrfepPf3OsoekbBGOS8qYM_k-x"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"2": {
+			"title": "Chapter 002",
+			"volume": "1",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=19b3RCAeefWtWkdHHj38cN8jpDDX63u2a",
+					"https://drive.google.com/uc?id=1lijx4W4ESYud4wq8hzVxpyWrFW0FFlC8",
+					"https://drive.google.com/uc?id=1JtHsRUB1yMcbldDj5Sl3d9uVvkYAi26H",
+					"https://drive.google.com/uc?id=1p3bZAPiVEO0as3R3cjj_tVc7Ab5JsjK0",
+					"https://drive.google.com/uc?id=1hobh6M2RTYY_UjrO_c9cfrpeVdmDSUsn",
+					"https://drive.google.com/uc?id=14DMtFpfloiLZ4TkJKbrRJWJgSgAjld3t",
+					"https://drive.google.com/uc?id=1lty-WQOtxAma7cl-09PzoQpBEXt-boN9",
+					"https://drive.google.com/uc?id=190yjHzLsWyUTq3vPUgBaK73nJjPvXWLH",
+					"https://drive.google.com/uc?id=12X83Dx61D465y5Rgii4RguUhgG-PrMtA",
+					"https://drive.google.com/uc?id=1_znasv0l2K5AUEAAdQoo-LiECaXtt3wJ",
+					"https://drive.google.com/uc?id=1yI_gtEx0t6ILwE5J8xze-rQWFrsjnfyf",
+					"https://drive.google.com/uc?id=1NYSFfGPHis-K-rgcrYP6lIi9GNcQzjur",
+					"https://drive.google.com/uc?id=1ACP-1kT7_51QsD3Lclmv8r6Li6AbECNM",
+					"https://drive.google.com/uc?id=11vV86aDP4xcVpVaWU9hh5SRk5m1bFyqz",
+					"https://drive.google.com/uc?id=1dm__AUj_vRLNVZdS6Id5gblyADzXLIQV",
+					"https://drive.google.com/uc?id=12Zfo_n5-sSSaUmvaWA5JmYO4j_YDLC3I",
+					"https://drive.google.com/uc?id=1y-63HXAWXYUxeuzkJ1jQyyTKxOaqvdWr",
+					"https://drive.google.com/uc?id=1ZjtuiFn3qg5YMteDUxj3cigZwoEpGIDA",
+					"https://drive.google.com/uc?id=1Fv2tIjeJ2CR9Vkt_QoBo3V4Wj42XDASB",
+					"https://drive.google.com/uc?id=1Yyxj8asU4kAJ6CelHzLPNAOrDcCuEvt6",
+					"https://drive.google.com/uc?id=1NXU4RC0DcK_EH-0RkBJGD11FXQ6fhufc",
+					"https://drive.google.com/uc?id=1RuCAilFfNeyryJeo9jKpB0O9gL5gkE8g",
+					"https://drive.google.com/uc?id=1yx4WijieY5g4Bf8zgX5WhIKXdq8av-7J",
+					"https://drive.google.com/uc?id=1YuMjz8HNnM639uYtdgoNLuzrZmKCt1wT"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"3": {
+			"title": "Chapter 003",
+			"volume": "1",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1nwLYHULa7IHslJhkHnBFqy7jy6oJPHJ8",
+					"https://drive.google.com/uc?id=1n0xGo0wGzhB8vAHiV-cJ7qyrskkOeiWD",
+					"https://drive.google.com/uc?id=1ujvofPucL59zhSz3sJbPSlFv8ePMwJvx",
+					"https://drive.google.com/uc?id=1Y6G34XdFxtvA-rCK1Pe2YLWwgb4MXQCU",
+					"https://drive.google.com/uc?id=1yqGLaHucEY_JD3TnEMtyM7C34ZpON8RL",
+					"https://drive.google.com/uc?id=1JGfreGLa4MOvCkCoU0fyvPycqf3waffr",
+					"https://drive.google.com/uc?id=1GIVix3wfSSujHkEIU110z3wkJ3XQ0yE_",
+					"https://drive.google.com/uc?id=1tkYy00giA_gtzpeXXdLh3aqPnVIxVGmv",
+					"https://drive.google.com/uc?id=1JfDDVzKQtcqYZkXLgybhQTZKsaHpVMg7",
+					"https://drive.google.com/uc?id=1oqIl5sf5Ouf0whxGieuIj-fKVaxARPDr",
+					"https://drive.google.com/uc?id=1gEpaxhWc2_hAIwaPBb6xtceNZM7Ynh41",
+					"https://drive.google.com/uc?id=1zZa1yo0bXIVVECtjY5iTEMgGJ9cTLCjk",
+					"https://drive.google.com/uc?id=19EVz_snlqWPiaigxmniF0dNN7qWOCrzU",
+					"https://drive.google.com/uc?id=1x928LRQmFNLYC8IFuvvy484alCLkkMBX",
+					"https://drive.google.com/uc?id=1IxbtBCc2zEP8K65Lwl-4lBSzz1znalDx",
+					"https://drive.google.com/uc?id=1sMzl6WxA1dB88c8Z4WoAwMdyEH3f8XOS",
+					"https://drive.google.com/uc?id=1s-UXk90O2rYar7AL90QtHQvunPX0EOhh",
+					"https://drive.google.com/uc?id=1pU7IeqlDxDChu8P_L6vfNl3U4D5Iu3k4",
+					"https://drive.google.com/uc?id=1ImOURdX3vetyNIN6HAGwleHgg6nb8vTS",
+					"https://drive.google.com/uc?id=14r_S82fXd5hZ89FzucTkSK88hhbXQuKv",
+					"https://drive.google.com/uc?id=1xNFrie21YF5YZo4bCKzLCLOotEMY6SlJ",
+					"https://drive.google.com/uc?id=1Hx9G5i9nTaa9ywST7EKui7bNK_CbjkBE",
+					"https://drive.google.com/uc?id=1yY9ZhAd4X1BrBU2VNcOvB0nm5pQ5kgnh"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"4": {
+			"title": "Chapter 004",
+			"volume": "1",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=12tE5t_wX2onctGYs6HvuXqzwhhVd1JvM",
+					"https://drive.google.com/uc?id=1PLhsc7Ex0dgz78SEtI-gFusxBKn6aYlU",
+					"https://drive.google.com/uc?id=1VghhVuREcrmaFCIMixn0oQJCP4eJTzwI",
+					"https://drive.google.com/uc?id=1lSMddcYFCIzYG46KXAxpyjnCJQW-yVCa",
+					"https://drive.google.com/uc?id=1XdDB44o9336dZGxXVM1uzwTD3NWJgVlw",
+					"https://drive.google.com/uc?id=1MPjPjocWVYaURVlj3QCvpIfTz6rBZ2wA",
+					"https://drive.google.com/uc?id=1OAqg5NolA1qCn0a_7HZthOKPQq4Ar3CE",
+					"https://drive.google.com/uc?id=1i5ic_D9iLQfLkS61kdDvu4cdcXjxD1h6",
+					"https://drive.google.com/uc?id=1zqnfXArjn4FCHgYZk4M7rQ3CIEzUbJdl",
+					"https://drive.google.com/uc?id=1-WGJKLDGf4KG0mzZ3Db0dw3c8W-ST5Zj",
+					"https://drive.google.com/uc?id=1H8ofOU2kvUCYV_GX7vZZn3FrnYu9bWBh",
+					"https://drive.google.com/uc?id=1wkw_jQDCSzi76vjBt2HrHVbMNhEpKOI9",
+					"https://drive.google.com/uc?id=1Ei7mSA4uifl8t2nYz3V4gzZ7oOhcMbaT",
+					"https://drive.google.com/uc?id=1NpZ1hcP4-wQuMxxp1gbSv2fiW2vi8Dfd",
+					"https://drive.google.com/uc?id=1CFszZ7-Q-NksPlwmi3BLcOpPd7PrQ51J",
+					"https://drive.google.com/uc?id=1Hnf2nAKJj2mdykZqs5RnUj6rR4uJkuS4",
+					"https://drive.google.com/uc?id=1_eDmEIPHaoD3PoXfube9LcN4B4P2VFA9",
+					"https://drive.google.com/uc?id=10RK_nPRyJ9NlyDd4FmMqwOjRhJjiZyJr",
+					"https://drive.google.com/uc?id=19ouotJab9atHtAqGkq0y0DXNvmH9HdRz",
+					"https://drive.google.com/uc?id=1OY6lOingOb3pw6IpryXZnA52WLOVRh7t",
+					"https://drive.google.com/uc?id=1-lOU9qUjXegWjOKC0t6gYq7NgpfzZp32"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"5": {
+			"title": "Chapter 005",
+			"volume": "1",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1bG5xGfC5OGVcvVVRVuuJwnxLGk4C2x7X",
+					"https://drive.google.com/uc?id=1DZW0llUsHAdlzcsVCzkZrZj1w7qu58yz",
+					"https://drive.google.com/uc?id=1n1vUuhwAsSSP3ccJY6IUShR_oTEZS-zp",
+					"https://drive.google.com/uc?id=1x0Y4vjwSSLpPhkAOKGv5cqUZs5HwDVcP",
+					"https://drive.google.com/uc?id=1ZK8pJFIGPr4ticvJaBzGrC3FGIMS8K0l",
+					"https://drive.google.com/uc?id=1M6Ah60ERTr5EeCiwtFNWY97YrwxSoPEI",
+					"https://drive.google.com/uc?id=1s5qSMGixTBp5Dj2AjWenFudqvXHWt8sU",
+					"https://drive.google.com/uc?id=1rpkIMeCvpMxw7eN8uSx42YD-wH7ppIu_",
+					"https://drive.google.com/uc?id=1N2iWLIeFZA0g9WcnRE93X3uqvgQSYZYg",
+					"https://drive.google.com/uc?id=1feTYmhT0FcbkquDArnZ3rpr08oKze8Cc",
+					"https://drive.google.com/uc?id=1OrFXESkKzf7XS3NKMgY6uyFTCQ5ZkuK-",
+					"https://drive.google.com/uc?id=1KqcCbuQw9k5k3m_jt44UKPlbEoC3LOpg",
+					"https://drive.google.com/uc?id=1ULVtjTPMVAQCqYKwogOxxChCG-5e8f9o",
+					"https://drive.google.com/uc?id=190YafeKrnhCNIUB0_kDtA0J6F58YwYNz",
+					"https://drive.google.com/uc?id=1S6uDeJgAgaf0IooUOz5jttpITzwFFw6T",
+					"https://drive.google.com/uc?id=14yh5GlF4DnCHk6nlJmFFdvTcWolYSjJw",
+					"https://drive.google.com/uc?id=1R5IKsd64DtSHkHCWKpmJIy2RCZOtEPd1",
+					"https://drive.google.com/uc?id=1n-UwM-4Lmapwy4W3EZ2IOHYXT9AszRTH",
+					"https://drive.google.com/uc?id=1SXzNYwkWtvsxyNDL1iay7KKnp3jJ8WvI",
+					"https://drive.google.com/uc?id=1jviIxOcw71kBt7TSk1IFyhhZf2oVQslz"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"6": {
+			"title": "Chapter 006",
+			"volume": "1",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1TB-5fObDoDwX_XB-LAnom9MZjrvyj9gk",
+					"https://drive.google.com/uc?id=1KO6IJEO_qnf7a1W1IdawTiDchSvd1nvh",
+					"https://drive.google.com/uc?id=14zWpUO0e4MYU7sRM7SxVk6av1jBVPZyd",
+					"https://drive.google.com/uc?id=1MhoHuIz2R7K45nTQuauZeAzRuCr7Ppnh",
+					"https://drive.google.com/uc?id=1lcM-TzKEvS7FYsqzICzf922cOq-dfSo_",
+					"https://drive.google.com/uc?id=1Kwr7j-g7-bPU86q4oKYB201n2TOjtvOu",
+					"https://drive.google.com/uc?id=1USD7kpRHwFuvPL8YTRe-wT7LcwopnwtA",
+					"https://drive.google.com/uc?id=1V_KYA1gY2_Q9usV18xm1SCeCwdP6CXWw",
+					"https://drive.google.com/uc?id=17I_uDpqX_9X0qoJdnQ_BsyQe4NiKwv4J",
+					"https://drive.google.com/uc?id=1niJ73KsElyd8GfS0excKs3t6DmJcGf4-",
+					"https://drive.google.com/uc?id=1AU9h7XhOHS-6DIdByKgCzx70tH8DUXTB",
+					"https://drive.google.com/uc?id=1odTZi-y2XSMAz1adgf0x4PSr84sqnKwh",
+					"https://drive.google.com/uc?id=1fbmt0jwM6R7yz8EFF3E4eUbzOWWkluGX",
+					"https://drive.google.com/uc?id=1Hv0VNT8XOCqtEH3dluFfRWUM7fAiB9oj",
+					"https://drive.google.com/uc?id=190jmDZ2VQ5gxLGteHF_zzhNgn6MLtaQh",
+					"https://drive.google.com/uc?id=1POSYgl8vKJ1puzPk96LvLSEbhwRYVzCZ",
+					"https://drive.google.com/uc?id=1vJSBEw_VW5kYNVWrYAfi5XM_qWrmJB11",
+					"https://drive.google.com/uc?id=1JG-fCT0aPo52laKZ44KjafVBeb8E2HhY",
+					"https://drive.google.com/uc?id=1MrT8gZFNowb5FYS90Z-fqszao-BfjGBH",
+					"https://drive.google.com/uc?id=1J5kBFetkWw5GBqb7FDD02Ns_t1PzkMDk",
+					"https://drive.google.com/uc?id=1PtMllhvaBx0scBqJJRJsgNKVCPmgPPOg",
+					"https://drive.google.com/uc?id=1MFv4xpGCjY1MhVijNROlRRAHzC2c8ohP",
+					"https://drive.google.com/uc?id=1fGw8Ez1FF23p0EdrRKEae5xjtOJwt7LS",
+					"https://drive.google.com/uc?id=1Q_5V6UauGpnQOLodw5QrzFRbq2Up2MA9"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"7": {
+			"title": "Chapter 007",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1wleY2wz-b8SaRiYrDI4h503gdnq0hrqW",
+					"https://drive.google.com/uc?id=1DRdoq5kZg_jI6xJkJDH8EuHHNlokQo9v",
+					"https://drive.google.com/uc?id=1TVkPVz5O6Ivh23gllNWzYn4aUeR8mSZQ",
+					"https://drive.google.com/uc?id=1WjDLt1XO2f1kGBXeaw_0NOlH_PqFl5zu",
+					"https://drive.google.com/uc?id=1apeKk0cIm-ErvaChwy6eJt5OrGQKfhPb",
+					"https://drive.google.com/uc?id=1dw-8BksvfKsp-7rA0gP12AHmtEAIJmmr",
+					"https://drive.google.com/uc?id=1mwN9blSZ-whxZ-SY0w_Xbuvpz7jfSB9Z",
+					"https://drive.google.com/uc?id=1yrP_URTgR-vH7QvOVppm6bW7jO9GBRAR",
+					"https://drive.google.com/uc?id=1lagiHk8t4Wv5YRbjWvVEZUtmE6GqEohm",
+					"https://drive.google.com/uc?id=1ZtHo5plGRuSFswjB5llDT1XictjZ1KjC",
+					"https://drive.google.com/uc?id=1ijKTpkFjHVQMmI_Z-b8Xjg3FPewypNb5",
+					"https://drive.google.com/uc?id=1Wly_4NBogDYmYxwg22Rw8F9bY8r1cZIM",
+					"https://drive.google.com/uc?id=1gjH0-LuMHvknV7EJ5pww3Zv_qgR4StpV",
+					"https://drive.google.com/uc?id=1dLi2P1eJo7b9SZqtURHHpzA8O5-cyqPb",
+					"https://drive.google.com/uc?id=12hzldPr7cQVxx4Urx8EKQZls4zIOpT5u",
+					"https://drive.google.com/uc?id=1hjOxNxl8DUxJbDNODG6xUEwZFMPtrj21",
+					"https://drive.google.com/uc?id=1iMN3HFaTwHZ8ZTJ_vByCM54y7OyDoo3y",
+					"https://drive.google.com/uc?id=1jDRynvViM-QFwwFYDTPMxbSEeqBvI0lI",
+					"https://drive.google.com/uc?id=1ha5-1s57f7UMLzkBoL7ePczp83eWnCaY",
+					"https://drive.google.com/uc?id=1pzdqRbzo6jvEJZAKZwktY2ZZe-qMKsIR",
+					"https://drive.google.com/uc?id=1Lz4ut0ka22FFy0IczggFFUS5LGGnlx_E",
+					"https://drive.google.com/uc?id=1an7Me3Nlh2McgWcbvNFFb0tyT_mScy8q",
+					"https://drive.google.com/uc?id=18fTAlyF-Zk7Yxq-3tZ5XALHbXb7TzpXG",
+					"https://drive.google.com/uc?id=1ia0rrVJ_CVaJO3TWaf9ZiUV4V7T7JOrc",
+					"https://drive.google.com/uc?id=1mtWDmxGKvtaSg_VI5WpzwspcAxe_hrgb",
+					"https://drive.google.com/uc?id=1KqxhoO8UgKkgey3VTIeBqXIrMfXss771",
+					"https://drive.google.com/uc?id=1QKCNpYWXMQby7rgUpbFjFiYh_FdZGloY"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"8": {
+			"title": "Chapter 008",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1x3PI0eAUkcx9V0pDXNdXebRnjMsYtWGb",
+					"https://drive.google.com/uc?id=1MWwGwA_WwLRcoVi_6Re--XsItgXlXxxk",
+					"https://drive.google.com/uc?id=1gEduVifxhxmciolANZ6VObHekZGtztTQ",
+					"https://drive.google.com/uc?id=1WawGZXjhJxbUzZYW95INAvPMmaKAIOjX",
+					"https://drive.google.com/uc?id=1zcJIqxaNpQQWd8CNlp7lmsXCAZ6k3Vmi",
+					"https://drive.google.com/uc?id=1nRYpKuNsm7YNugAoXjKQfgLBM6zcj3Fj",
+					"https://drive.google.com/uc?id=15I1O24sv0fSq6mbTzZ41E9865pXO_gqZ",
+					"https://drive.google.com/uc?id=1_qFAm3Kfkbj3cUkwOjs5iqbefyf6ovGo",
+					"https://drive.google.com/uc?id=1R9cxbxCQEb26YTHC0KqXzskKp2ZzIzJB",
+					"https://drive.google.com/uc?id=19tA5M7JsddrulVQBc28NNjUTf53vZkw3",
+					"https://drive.google.com/uc?id=1fy2YTzlcTb7Zv8XeQC-ON68A_qrxRRb1",
+					"https://drive.google.com/uc?id=1tPDWEpiNcLg3LcT0nIbHeV6-CKH8dK-l",
+					"https://drive.google.com/uc?id=1jnSsJac8R-w35E3JkIEarNCAhYGNi1t_",
+					"https://drive.google.com/uc?id=1p_eMZ7ISfV7RXOhADeWmOASyyzhoboFq",
+					"https://drive.google.com/uc?id=1XaaenNu61OlcpxH00qnmsmOs5v0xo7WP",
+					"https://drive.google.com/uc?id=1uQarkCYRfw7qHtbih6rf20NbwxSgV2U3",
+					"https://drive.google.com/uc?id=1PC4tnky4A9R4avP6eA12oyqdZeRA2zp7",
+					"https://drive.google.com/uc?id=1DKVbb1iEeuk2ehnQAXlotlI1I5NmYZoJ",
+					"https://drive.google.com/uc?id=1TGWjURyoKbAOJqeMc-qlHcDbrOf0oLhG",
+					"https://drive.google.com/uc?id=1ZqirtfsO7CVMRyZFNLfJgjaEoTiT4KQ5"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"9": {
+			"title": "Chapter 009",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1un7_Mjl6NSO6aqoMfdNhgCvrZewAzPHD",
+					"https://drive.google.com/uc?id=1HAFBwqD7GmOCRLnJY-JPMI8mHrnts6nN",
+					"https://drive.google.com/uc?id=1B_d_xS7CHcLoUWGy7IpeiQk3S6RuzgLl",
+					"https://drive.google.com/uc?id=1DnA_S7v6gUCwIOEDGSZ1drQKwdiLx42p",
+					"https://drive.google.com/uc?id=1Y8v-zqvTV3GJKjlq2s-Se57c7hhCuJmG",
+					"https://drive.google.com/uc?id=18QN36n0U3DYwVf8tUmS2rxByHLBq5f0U",
+					"https://drive.google.com/uc?id=19a7TEf9oOE26yzNalBh8Nc1dwydkN0RB",
+					"https://drive.google.com/uc?id=1f3hyN5oXDNFvCPECVZgjFqux7N-c7Bjy",
+					"https://drive.google.com/uc?id=1Nsi9rgmPZkxvWSSIjz1iaf_QLgeFBYIh",
+					"https://drive.google.com/uc?id=1Wz1siBNLrMcLUaebau6JVN7TX3w4ppH_",
+					"https://drive.google.com/uc?id=1uAcsH3GbXZku743QQvag8ArCynEcq3m4",
+					"https://drive.google.com/uc?id=1IGRCu8MY5dhTgoHU3Q_uJgCa_fkF4oSv",
+					"https://drive.google.com/uc?id=1tPsO0mNS4u3u9W5zJcBOHcDcM2PhME8u",
+					"https://drive.google.com/uc?id=1tzo2lw6hj0Hm3OZ9RsAVUYHS44Up47lc",
+					"https://drive.google.com/uc?id=1Kr6bCHZI798YYC8EBZtsMGrpDXUvlK3S",
+					"https://drive.google.com/uc?id=1SmXObzOw6RghQe9O7wuRFzpzJMzauwd1",
+					"https://drive.google.com/uc?id=1_rvLHZvBC6hZgjvvtOjY4jmQ_cOu_L_5",
+					"https://drive.google.com/uc?id=19tCiEB9blIAOzriUg8O_KdaQ4uBj4lS8",
+					"https://drive.google.com/uc?id=100V1OdrP23rFYY8uqZZHDlsbOE8f1mNH",
+					"https://drive.google.com/uc?id=1PidL8m_rPq7weBJeK9JuWSnGma2IjezC",
+					"https://drive.google.com/uc?id=1uROXJL-npGf_tufR5zYLdHjjnSxyoZoq",
+					"https://drive.google.com/uc?id=1jf161Sbqahd9cx_1ciVnm_7Owng4Dhv6"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"10": {
+			"title": "Chapter 010",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1DOc3UNHzuuL58lAd61pCdwnrFEzo2CMh",
+					"https://drive.google.com/uc?id=1CQRGWNCJQb4OeYro2UB4hgj5uhOEiDVV",
+					"https://drive.google.com/uc?id=15ujmoNO-4VD1WsE2ny2fPinScWJQEvl4",
+					"https://drive.google.com/uc?id=1YjNxe6-qjpeqDS6S79_jW_aUMnd6ZWZ2",
+					"https://drive.google.com/uc?id=19xcpINxD6xmBqpRdI9xQHqoqQkFRv70v",
+					"https://drive.google.com/uc?id=1zNkHhMFSnTZmsG1FSpXPs0Of3v1wCBiH",
+					"https://drive.google.com/uc?id=1w32w6AAIbUf7W3JhpW1p9WO388lOQmgB",
+					"https://drive.google.com/uc?id=1NXnwOyr2990ns0nGfeSsgb6idwISzugz",
+					"https://drive.google.com/uc?id=1l7NEXycH2Jb0QmiNN-hRoBy6jNxuNGtg",
+					"https://drive.google.com/uc?id=1jD6Fw4y651lT3TogqqNfS5kkMqjmTsFO",
+					"https://drive.google.com/uc?id=1yW6iGhUqtJVTGQ0qvuNtFm6G0J_y5JTM",
+					"https://drive.google.com/uc?id=16bm8LnOdivkr-TAefqB91rLpuBWTrpWh",
+					"https://drive.google.com/uc?id=1EMgUH6uT8N4eCXlZ-HOTFbCRdgZ4EbNd",
+					"https://drive.google.com/uc?id=1GdHRSN5DtHKjVBhzHlPtpZv915tlbsJE",
+					"https://drive.google.com/uc?id=1IyXaMuUxb__A-L_OtDlAyj6eErdwTMIl",
+					"https://drive.google.com/uc?id=19DlFaaaICOCdXACttjekxIfb3QI0dYno",
+					"https://drive.google.com/uc?id=1aVSnr7AuL0Ve5VQMYHpeGihHMw1_BKqk",
+					"https://drive.google.com/uc?id=1vJ1u3vQqo_TtD_w8prtYje23-3wAF10B",
+					"https://drive.google.com/uc?id=1cGyl8cac8UNkdRu1LQWv3eXCke_Sq-Wu",
+					"https://drive.google.com/uc?id=1zW3Yccq8_DKrRDOLYkf76d37lS1cQ_Sh"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"11": {
+			"title": "Chapter 011",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1872wu49NyN8fxF6UDDiElj3KPOV-eYnt",
+					"https://drive.google.com/uc?id=1wgyKRWVCgjjH6cidwiRrTzMRgrSUe55e",
+					"https://drive.google.com/uc?id=1Wr2hjy05bBfF59cymVXwhbddFYVa2tlQ",
+					"https://drive.google.com/uc?id=1GdpHPjZdmvdb6x5SMlg3kRHUD0n9lEB7",
+					"https://drive.google.com/uc?id=15TpQOLpTQ_06TvpM6nYGeAQIUjSplyuw",
+					"https://drive.google.com/uc?id=1H9EeD5e2dWI7KZiOMJU8Js3GURqhVdqs",
+					"https://drive.google.com/uc?id=1MWS2kh_X466l9e9xeFjbTw3BGkJNh7dL",
+					"https://drive.google.com/uc?id=1BrU9aOb_LwEA9MUu2PiKxwlUB0sCoEso",
+					"https://drive.google.com/uc?id=1fxWgTDjJVpjwxSL-W6nXWNJtADIwvD00",
+					"https://drive.google.com/uc?id=1qhuvYvCVoHD2F52yFjkhGXqWV5uiF7_6",
+					"https://drive.google.com/uc?id=1EGRkiGARfLLPEo3aweqHomJejy7mdQOj",
+					"https://drive.google.com/uc?id=1Zij_OC-W3mNqc9yq-v4oYSS9gQfwP7Km",
+					"https://drive.google.com/uc?id=1XpqOVMyKa3bYXhCUo9g4z-DMnkfVCoGo",
+					"https://drive.google.com/uc?id=1gmTGtoTshiAeKY3PofPEnWsHSCTLTwL2",
+					"https://drive.google.com/uc?id=1IPCUO78AjjfWxBh0PmQcN4lgqDXso-N0",
+					"https://drive.google.com/uc?id=1zBwkD9UWs3oFC1AM9ftZsxn2LRe9ArQ5",
+					"https://drive.google.com/uc?id=1BTcKrU5vzCX0-dkGxNvt21jepXbrU6aa",
+					"https://drive.google.com/uc?id=1_rk_kJ5R_ZjbLSn0Wr4pdF-4RbLQyDda",
+					"https://drive.google.com/uc?id=1CH0KheJhk5K27RtXkzYjJWKdyUdH6ChD",
+					"https://drive.google.com/uc?id=1M5qvbL4HykKH5K3YnqrGUgcrqbKNwTEl",
+					"https://drive.google.com/uc?id=1mokYOvsTeYTqaIBiRiUlf9bgEk56UVei",
+					"https://drive.google.com/uc?id=1I0T8oMWnBONy2UrTCUUQvbZFTS1z8qQH",
+					"https://drive.google.com/uc?id=1DLSeGsBRayc6ef3Z8Mp1nNpWihRtonhq",
+					"https://drive.google.com/uc?id=18Q756llYqcAO1YcMg22h8qYaV4-Z0mc4"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"12": {
+			"title": "Chapter 012",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1avYIrcCUX17AnBwnbgQ_-IpEAcAendQ0",
+					"https://drive.google.com/uc?id=1Y4bsai0yAc75yHJA9BQU_g9K86rkx4gH",
+					"https://drive.google.com/uc?id=13EHcYJ3wrfMlIX5B4X10m-TwC-1NCX1o",
+					"https://drive.google.com/uc?id=1Oggk34idu8k7-TK4EBQQQcw3Ao7XGykc",
+					"https://drive.google.com/uc?id=1T4ezrJ7yhBdC1a88GFoNKItVl9IzR5gT",
+					"https://drive.google.com/uc?id=1Q_IF_J0ejMNA--pz6ppnMSdvjePj96E5",
+					"https://drive.google.com/uc?id=1wH96HzCXRgIrNhPaJ3rpSMCMaO39PjMU",
+					"https://drive.google.com/uc?id=12WQlg7P3UJTJLisJq9XyIPZ41Lbmf_YU",
+					"https://drive.google.com/uc?id=1QyLJ-d2E-p3_iy0wC2INv32DcPf95ziU",
+					"https://drive.google.com/uc?id=1Npybbo6UHAzVIvYBHEQ01aUh7kAsolwH",
+					"https://drive.google.com/uc?id=1cypdpHvY0FRBW8oaWavHGoQJI5FXztI9",
+					"https://drive.google.com/uc?id=1y2aJ_bdRMBNu_aWzmib7srjtvnpci4XE",
+					"https://drive.google.com/uc?id=1Ir9Tpyqv9lWj1EEkkE27Q4tqqGy7vB6V",
+					"https://drive.google.com/uc?id=1TTdaTOsrbF27SoXniXWuiD5koxCnjSix",
+					"https://drive.google.com/uc?id=1UuzSBfUkMCLjxnFe9nO0lnBtOOy0WIHV",
+					"https://drive.google.com/uc?id=1DjEopqv8S8AFEzYo_bMVY1XpUVUPjwjS",
+					"https://drive.google.com/uc?id=1sPfBUGr0UehTS7KcGTk1EbhNezGPo-Ne",
+					"https://drive.google.com/uc?id=1tDI280q31LfBrlWfSEC84lGZ4fnzXFH2",
+					"https://drive.google.com/uc?id=1Gkx4NL_yJgTyx7_JTwGMGEVoAVmPSkBt",
+					"https://drive.google.com/uc?id=1DjQzTV6PPmwuBoDkRXNcNIv_mJ-F-_wg",
+					"https://drive.google.com/uc?id=18wM5s6z3AyOh7-KnB878mRjeMArMEkN6",
+					"https://drive.google.com/uc?id=12tvXVXVnf5xnI-Tp07DP-_DzwkMp-fla"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"13": {
+			"title": "Chapter 013",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1b1cfqJpERZ3nGR-OpxFzMK3XX3TB6qEo",
+					"https://drive.google.com/uc?id=1066zhAf8FsqHAygG2-Vsn3pFTthWwmsN",
+					"https://drive.google.com/uc?id=1W6nrRFxv7tzuKDwJVKaLcqXGyzCor92g",
+					"https://drive.google.com/uc?id=1Eqcs55uL-Il1-xObT4bfsqSE0vEKAmry",
+					"https://drive.google.com/uc?id=1-q5-yTvEHVWHnd6atcTHx-9OWn_1NCIL",
+					"https://drive.google.com/uc?id=1cCdX9M3qXzz-9NlDW3e0Mdu5INa90trT",
+					"https://drive.google.com/uc?id=1zZkvN6yA5IQFmShP7WVc5iRJSJCIR-ss",
+					"https://drive.google.com/uc?id=1pX045qZ3vZOaOC2jN-s2V86t-bWInTQf",
+					"https://drive.google.com/uc?id=1aEiCfJQh32XrtwgvNJ7kGO6o6Oe-HYSB",
+					"https://drive.google.com/uc?id=11AUWKjQjYAAKH0X7_IVlhrOAH-zXv7eZ",
+					"https://drive.google.com/uc?id=1Rtg89GjTE6BdABNUlodUweYk0wD4SJn-",
+					"https://drive.google.com/uc?id=18QMLlzycX56Iu6RJXWCz74FJ9JwnqlXx",
+					"https://drive.google.com/uc?id=1ykwjrCXAiSIvmdNdOOOkLuTYQl-mHVt4",
+					"https://drive.google.com/uc?id=1oRC7nPwV14PSVpCS7aXqo6GTeTUYzA6f",
+					"https://drive.google.com/uc?id=19bqANFPb9gV2w39eRTpR9xBbA6Otsupp",
+					"https://drive.google.com/uc?id=14ZngipRFKyAOc13XldRzbkFLfNDnUvOY",
+					"https://drive.google.com/uc?id=1OmCzlrgU-9cttZek_lsoPkqGLZPCMkSN",
+					"https://drive.google.com/uc?id=19Gtkhf9MK-SpWpJtCm3i4btI2tNJb3ym",
+					"https://drive.google.com/uc?id=1cmGwplXmMz0qwdPgiqSjSx7xt9MMU_tP"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"14": {
+			"title": "Chapter 014",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1jQKXeJIe25D7i3KxPnNIy4NcbDFcohmo",
+					"https://drive.google.com/uc?id=1mmGzdAa-eoRFbmsIv4ZfqS1DH-rUXV5a",
+					"https://drive.google.com/uc?id=1iepibvHERaAIHfcJZq_LmhLad_UFuwY6",
+					"https://drive.google.com/uc?id=1bta-v27_v8G5BT24VAtdoVLStohRAAY2",
+					"https://drive.google.com/uc?id=1yIzkWTU_RjYKkD8iWumFH8vVcu6jj8YB",
+					"https://drive.google.com/uc?id=160moT1hQ4f4bov_1aF47V9asHaxivPji",
+					"https://drive.google.com/uc?id=1nJ1KG8p6yINetjxJ-uxLw2HbP8Fc6eQI",
+					"https://drive.google.com/uc?id=1hP8GIpTwOh2GEzob62J8pa-HZU_6p3sy",
+					"https://drive.google.com/uc?id=1fYuEd8nOtN9YL6CPljVVFJcRnTsenoyA",
+					"https://drive.google.com/uc?id=1UK0-1_O5rvTsy8Yomlxbj6SCcGDA-_oQ",
+					"https://drive.google.com/uc?id=1kVooM4MRq7p3qS8MJZDwJBToFhlZn0Uf",
+					"https://drive.google.com/uc?id=13xzqdYefgIdWhqiySkn0bx6af8BdGYgD",
+					"https://drive.google.com/uc?id=1PePbS8soW2UTyKH6ad2P5xxmxdefJTaE",
+					"https://drive.google.com/uc?id=1qsePLR0Fe_W8CSOZpSRp-LFZn4ApLusx",
+					"https://drive.google.com/uc?id=1FnEhEx0khIQEzeNErd5tFIJ6Cv2A2LIR",
+					"https://drive.google.com/uc?id=1VwzKgeB7z_c0LfnC8hVgsZoDH1b7GfWG",
+					"https://drive.google.com/uc?id=1P3SfDO4fbWGfFgOUmVPIHhfjc9El2NGa",
+					"https://drive.google.com/uc?id=1TYZgk9DOG4f7qSsIpY0nMZwwkN-eEmDx",
+					"https://drive.google.com/uc?id=1HydlJmPl9yLlpp24Vm_DyzXV1HBsS_BO",
+					"https://drive.google.com/uc?id=1YLCiNfUp2k3LCFehj_M_ohlm5_ySuKOe",
+					"https://drive.google.com/uc?id=1HuxkeIaj60fCX-8WSCkz__0SmNM7Ut-x"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"15": {
+			"title": "Chapter 015",
+			"volume": "2",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1aDrAnpCpTyCXt0k3P-tyns-VSnmmnQr5",
+					"https://drive.google.com/uc?id=1HR8mcAZxkPe-BLHF4BWdNkSphXvEp1DB",
+					"https://drive.google.com/uc?id=1g87wtUrfODTbhpnkz4EJVIipHdap1PX-",
+					"https://drive.google.com/uc?id=1JYTX-ziyAmuyQ1xP9NAvevnh2YJ_5y1h",
+					"https://drive.google.com/uc?id=1NeitOPW-mRQ7CZUtqcLBM0ii5v4usIth",
+					"https://drive.google.com/uc?id=1xhlWpXeWCzSyJ98q2lSZsypRI-GcFJl6",
+					"https://drive.google.com/uc?id=1OlTPuwgwr466-7o6i3XgROee8n79r_NV",
+					"https://drive.google.com/uc?id=1SvMNdA7aKAQOAooMyuGSS2guuTEQ2_d-",
+					"https://drive.google.com/uc?id=1JxK2MHmD-mNLFjwQHdfNG8x2fn46rSZL",
+					"https://drive.google.com/uc?id=1Bcq-wOKfLQ_3vlbQzoZq-Yv_L3lqNSqa",
+					"https://drive.google.com/uc?id=1r-SAUx77IqA2GzGqLTYskJQgVnaZ9gnq",
+					"https://drive.google.com/uc?id=1O4CPypkNgX_5dWV_I_mAzmQih8JXHbvI",
+					"https://drive.google.com/uc?id=1uxraOH_70AJEKqt5oSKVjkjGcrcaxACA",
+					"https://drive.google.com/uc?id=1L99T5-MhKt0n3_ca2WiXxsu1aHcYTdC9",
+					"https://drive.google.com/uc?id=1H61d9QuXAXEuRqI_uigXg36Zmh2C4qeT",
+					"https://drive.google.com/uc?id=1x8S4R3brsFqXxD5--bon41sJHq-H15qj",
+					"https://drive.google.com/uc?id=1FfYj13IAx-yeoD7mUkxHQZH5A0Gz57Sp",
+					"https://drive.google.com/uc?id=1WqNT8wdv_Wsg7lYpyCZe94EeALGgMHnk",
+					"https://drive.google.com/uc?id=1GmP1CaSy3ljm-vsSV2Y1Os8etpJFFI5z",
+					"https://drive.google.com/uc?id=1id-iMiecYSJom1kmSiFgAb7VJdF2VNmr",
+					"https://drive.google.com/uc?id=1JTH7K5FpdCflk6LKOLhh-MWkczaLo6lt",
+					"https://drive.google.com/uc?id=19Zq7bdnvHHFUnrNlAhQ_IFrfmHyisU-Y",
+					"https://drive.google.com/uc?id=1hpvTVPqMKOjwwwHjgXC2ZoPqRgDvqFiQ"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"16": {
+			"title": "Chapter 016",
+			"volume": "3",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1nmkGCCo3uQ2PE4bIkvpSERYT__S-psU2",
+					"https://drive.google.com/uc?id=1XKkY3gGkTOUjBExUxkI6JVV4T4l7TX3U",
+					"https://drive.google.com/uc?id=1OtNtsWmZBEpwOQTDyCZgMinuqBMMSBl9",
+					"https://drive.google.com/uc?id=1MZ94pTwJzKfidcWz_5t9KFjmHrf2ycyx",
+					"https://drive.google.com/uc?id=1znj0mno_A-qfwWhXBpBhRQJdgsFRdeaU",
+					"https://drive.google.com/uc?id=1ZDA0nT4B2k0Y2hYKK_tWQeSvgAxntFju",
+					"https://drive.google.com/uc?id=1ZPFHoaGSsSMEj_HmbQ8DEm4p2iWS4Xnw",
+					"https://drive.google.com/uc?id=1W-obV72zVqLU30nsesRs7R16_OSx32Jd",
+					"https://drive.google.com/uc?id=1ar7n2PfcWLROrrjbZgaRVLqBLCGuAX65",
+					"https://drive.google.com/uc?id=15R62dsIkKCJEwhw2Eov7W170MhvrRSQA",
+					"https://drive.google.com/uc?id=1OlFfhvJYzYZvN0z_w7AZSJ1tTpKhFuG-",
+					"https://drive.google.com/uc?id=1LBlvvaS5JQ86JtECrsk_09xOsqdR9vy5",
+					"https://drive.google.com/uc?id=1F_UpM6_xGNV-cQWV3ild8rBo_vSd9-Hy",
+					"https://drive.google.com/uc?id=1RnX87_0seebPc9n6OgrVx91YLMJwO83a",
+					"https://drive.google.com/uc?id=1qbJWCGSo9XiQ0N-V26oUZcr-Y7lEQOcN",
+					"https://drive.google.com/uc?id=19QL9JBwmOf1sKz0Y0JZ9ooO9ggQ0_vwH",
+					"https://drive.google.com/uc?id=1vdLElBfpSKEcsltd6hf7gDtqBMScLVWo",
+					"https://drive.google.com/uc?id=1sJUapIJdGwl6BX_B2PtSsm2EAIsVz3T6",
+					"https://drive.google.com/uc?id=1BBdJ75pKrM0ONTQ_Q0ljsHqGC-e_vq4r",
+					"https://drive.google.com/uc?id=1z6OWgiMw5oKQSjQ_tPTeEpgQTMDHnZ-V",
+					"https://drive.google.com/uc?id=1v5jctjo39Bihqw_P1DBWWXpenZenW5uq",
+					"https://drive.google.com/uc?id=1LJpvMBGrZXe3-xkgJCE2IeTmegto1B6G",
+					"https://drive.google.com/uc?id=1AutwTRcizEQrA2R3vB6pccEzUEqme8h-",
+					"https://drive.google.com/uc?id=1ZoEkutq4_WFKRhr6v_oYjh-SJkCEX3yr",
+					"https://drive.google.com/uc?id=1o7UQwpaWgihoM2-RruwfhE0olyjK2qRa"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"17": {
+			"title": "Chapter 017",
+			"volume": "3",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1DdGS8E8AWOM31iZGfXv_NGm8ORibDnXK",
+					"https://drive.google.com/uc?id=1gGUpzZrUqzVvAdUUE1SffsPGCXMazAh_",
+					"https://drive.google.com/uc?id=1qmLNy2enJIgCZSAZ48eiTdZEKRFNWFsM",
+					"https://drive.google.com/uc?id=151cwfjFwq84Fn8yNlcSzSsos0DgaY0xA",
+					"https://drive.google.com/uc?id=1l4kjVS4n5IuhTCO18KvU6DmSQg06SHyL",
+					"https://drive.google.com/uc?id=1ZJMu-MICWbgXYgWJ8ljCdexvxUw3Sh3d",
+					"https://drive.google.com/uc?id=1NoZOSWtyutpqnQ9nfuegMT9CmxpcZa7u",
+					"https://drive.google.com/uc?id=1Bg0OVa7lzD0PdqjL6VoCzk9cDZrYZzxs",
+					"https://drive.google.com/uc?id=1hTZF_Q1c_M0fzkfHw7HOQmOGu2KXJFxH",
+					"https://drive.google.com/uc?id=1P3bW1QaakJtnzE3faaHjFskgtaY9mq8o",
+					"https://drive.google.com/uc?id=1Ma2jsH3-bY7A9t1AFMgAkxq2-kkiSets",
+					"https://drive.google.com/uc?id=1QbLFqFzuutFWCL2tm4aQd4KtAjnZhdoE",
+					"https://drive.google.com/uc?id=10JS4VHbIRWHL4BtEj7Q1D1icRMcbU0E8",
+					"https://drive.google.com/uc?id=1r2mRwkH0DezvlZlIERbFNoOACPPrmj9A",
+					"https://drive.google.com/uc?id=1FwL3y_74KpJrSYMh7MKj7GqEmA7IBuwp",
+					"https://drive.google.com/uc?id=1EYlT9IbYXisU8l76tn-P_Efx1jJ556F-",
+					"https://drive.google.com/uc?id=1k48-2BsZsDYpir3yCrR8jbuSEbclp-L_",
+					"https://drive.google.com/uc?id=1bXwP8t9nUEamRC0s589kPi34yLmgWTOB",
+					"https://drive.google.com/uc?id=1Sttl4TwVIuPLTZ4P84nYK89UQiQdhSae",
+					"https://drive.google.com/uc?id=1zDCJt_w9H7dWKTmsKz_Uj_t4ZAESkr_M"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"18": {
+			"title": "Chapter 018",
+			"volume": "3",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1uMfQZb4Xv2eCRdnfF0-1l8alP4SvcWGH",
+					"https://drive.google.com/uc?id=1XFVq7TOtoztn-scR-Ffcu1yAQfj4MU49",
+					"https://drive.google.com/uc?id=1lJd-bJaYFAB6OeyePg2oHlT42bl0awe0",
+					"https://drive.google.com/uc?id=1r5xG-MZu4kMpdYVS6Mo292NRLGfV5kop",
+					"https://drive.google.com/uc?id=1HMlnnJ1mrSAEWkss29_7ovyy0kPDKVEd",
+					"https://drive.google.com/uc?id=1GndM8vF0tBNKHMvQ4bHqXTe9njga2ccH",
+					"https://drive.google.com/uc?id=1X9FzaCVhWtrC-2-q7a2QYNKIuvGncs77",
+					"https://drive.google.com/uc?id=1QhgikqclDEe6E8x3GndyHsf8TSc38W3z",
+					"https://drive.google.com/uc?id=1WRihGxyQQi06t3xvrrXdVtvNQmBgZCA4",
+					"https://drive.google.com/uc?id=1BgjlhlZLRcHTS1yeKNzcsXcPc4jtuNt-",
+					"https://drive.google.com/uc?id=1tBWONKFSfMP2mNMaFO8BIed8yMQn8-gF",
+					"https://drive.google.com/uc?id=1-8TzIu_2Lg4wAnijhttpHMSBGP2_JnLs",
+					"https://drive.google.com/uc?id=1PqRyokbw4z_TJw2IXImYEkNXOjcmEDfc",
+					"https://drive.google.com/uc?id=1U7cegBd9Iit_Onp-63ksGOIlTo7erqTM",
+					"https://drive.google.com/uc?id=1whxE6QZn0x0kQYXbmR7OmHhrVkSn2FgE",
+					"https://drive.google.com/uc?id=143eVF-5Vwbc68PpaSUExS0v16wN8XZ6a",
+					"https://drive.google.com/uc?id=1VFADSDw5jLnBxaF64YEWd8mt6k0NQnPW",
+					"https://drive.google.com/uc?id=1t0li2LirP6jrAgcqn_aUXK7-QX6Vbtdh",
+					"https://drive.google.com/uc?id=1YR1xtaCjQnAdamT1wop_rCdufpCL0q-B",
+					"https://drive.google.com/uc?id=1pBXM0JJrM7ghJCwkwgbQs4o6We5EQYQf",
+					"https://drive.google.com/uc?id=1gvYQ09DGjCysvfLsf5QpssWgk52Ub66i"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"19": {
+			"title": "Chapter 019",
+			"volume": "3",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Roz9nmJuzhAJv7AmJxi2VVXSSOXQA1DM",
+					"https://drive.google.com/uc?id=1jY0e_1Tm6PBlHtYIFcXDsqVQ-_ICb7Hm",
+					"https://drive.google.com/uc?id=1h4s-beWEy5gfa5fKLGU6tKTVEkCJfkBn",
+					"https://drive.google.com/uc?id=1wb2MOi9EXtXoO0GdSN2vVs9EEvPFl6x0",
+					"https://drive.google.com/uc?id=1upRPdlHSHkGPYxjKmBmbSI9V_EhPlImo",
+					"https://drive.google.com/uc?id=1ig8o1ChleiOb_dCugSKf2pSBGL0aIbKQ",
+					"https://drive.google.com/uc?id=16crlHUbJgh7XEIBpsmdtqU7nhFSsuTBt",
+					"https://drive.google.com/uc?id=1jqQghSiqxAuCALoSozh_j13gAdkJ9Ycm",
+					"https://drive.google.com/uc?id=1LBXDYrcSTGqGfIvFurHa9An_X_S3nuz1",
+					"https://drive.google.com/uc?id=1_rQxsuKYsOlckW9dHBKh1dOUF9T0p8LE",
+					"https://drive.google.com/uc?id=13M9v5vGTTnl_JhFToFYHmQCDlRm4lIak",
+					"https://drive.google.com/uc?id=18AanKKMbXJCU9BhnbSewgqpthdhdeGWa",
+					"https://drive.google.com/uc?id=1kujK5UHO14zwKOO2Tj5NfLd2y3hFeHoP",
+					"https://drive.google.com/uc?id=12Vq-3E0MyRBUbPUenCW-NbxZ7XN8GjKp",
+					"https://drive.google.com/uc?id=1qmSQLjmbQtZJMITyswXTt7bAEH2TBOUN",
+					"https://drive.google.com/uc?id=1eEIP7BedMBoYlKvQp5d1x5o0ci31Wn6O",
+					"https://drive.google.com/uc?id=1wmTX2umom1R-Y8LKI6zNb8DQG3F7vD5I",
+					"https://drive.google.com/uc?id=1_0CS1eu0DgaBY09TMKAup0qX8zCnfRl8",
+					"https://drive.google.com/uc?id=12aDA0hxOMbCMqqLoRuBWtQOflxgoLzNH",
+					"https://drive.google.com/uc?id=1aYLAXgU7FvOHygrzno878Ev3WOPH_d6d",
+					"https://drive.google.com/uc?id=1zMLnvfZ0OJfjzsYWI44OFBSYgSuSdxcX"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"20": {
+			"title": "Chapter 020",
+			"volume": "3",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1FGk6J4Q8YRUuLEVQeQ3XlLpoShTq7tWB",
+					"https://drive.google.com/uc?id=1eD4731DBgTQc3L_lVoiAS1VaOiEE0H2q",
+					"https://drive.google.com/uc?id=1nRoWb7EZmh9vES-QN-Gkn7VfbS0MU-e2",
+					"https://drive.google.com/uc?id=1I0SFKat7hsmeHWmXQ_x4ZlG8132uB3le",
+					"https://drive.google.com/uc?id=1aAY-SkLxzz10ECCuu00ShagebdWaXM82",
+					"https://drive.google.com/uc?id=11Z4JAB7mJdKtBXCUrw-QOZfrP7WGcpJj",
+					"https://drive.google.com/uc?id=1n_icAWwTUyWd0WUmxn4sWyT671XbtRsf",
+					"https://drive.google.com/uc?id=1QI2drgigJuA_cQjonKcIC1oNhJ_aPNS_",
+					"https://drive.google.com/uc?id=1IShP3Fn3AuXU61UEbdmwMnmiqDQgTbkg",
+					"https://drive.google.com/uc?id=17uXLffxzDzPxK8Dvnp3lXF81rRESi6aK",
+					"https://drive.google.com/uc?id=1ag1UndZb2LY5vFqV-PGRAy9fPkBqeW_3",
+					"https://drive.google.com/uc?id=1xpE1RTiN_i7TwbJIPXCoAyFpP0Tni-gZ",
+					"https://drive.google.com/uc?id=1XcQqmFuLemjEFmyjyrvpqaJcOEw5QQ2B",
+					"https://drive.google.com/uc?id=1LMumDW8yRiBbbRzupX7ANDcGn8XFx8Gd",
+					"https://drive.google.com/uc?id=16G3SkA9u_BLmexnieCbWIeYSo4f8ysXx",
+					"https://drive.google.com/uc?id=1R_vOzoo5om4CnAAWB8aVtGpdzqa6K7v3",
+					"https://drive.google.com/uc?id=1vNYMkDbVSNDjX14F4q3Nx_Wd2cjIFPzn",
+					"https://drive.google.com/uc?id=1ZtyTLzPCjNMUMBz4e4_G-4-Bd_pAPu9l",
+					"https://drive.google.com/uc?id=1l5d2imjPwsNvQj663bSBeTYuoKD9pPnW",
+					"https://drive.google.com/uc?id=1mIk_XS9F8jCwdvfjUMsd_mQfYJVPpbsx",
+					"https://drive.google.com/uc?id=19txudmqkUudTsFRhoKck2TQ9MUIE3Wkv"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"21": {
+			"title": "Chapter 021",
+			"volume": "3",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1CusGu6LiDi4iPBrfQeuExw9K0tY4soaW",
+					"https://drive.google.com/uc?id=15DHnDypRQWaLknxBIULe-SUXWsQKD9Ha",
+					"https://drive.google.com/uc?id=1283rzzcyxrZWetPrtLmFInWqSgf_u6lp",
+					"https://drive.google.com/uc?id=18iRFLw1zpwiOvkp5ABtHTirQoVW6x35f",
+					"https://drive.google.com/uc?id=10SUu-PrLFLjL5EjpXlcKrBvLFHSW1aVy",
+					"https://drive.google.com/uc?id=1eb1jlEUldN-uDbxXXVLzow9VpLPOGAr5",
+					"https://drive.google.com/uc?id=1ClxzBWilKwN8xpvbn91GKvVOh7bef8Pa",
+					"https://drive.google.com/uc?id=1wmdTTX5-HuOWgPvYzq3gs6oHpYi9sT2c",
+					"https://drive.google.com/uc?id=1goqDXhoKvNyPVH-BDCjo6I73VERpgk8_",
+					"https://drive.google.com/uc?id=1YKVMfltamoDlIZ-P2J9phY5nE_E8HbPC",
+					"https://drive.google.com/uc?id=1gLKzZ992TUXtATDcabGKDcA_o9FdUHR-",
+					"https://drive.google.com/uc?id=1ATU-HjaJGBVmZOO4laEhvS-Jx4cMpNyl",
+					"https://drive.google.com/uc?id=1qoG9p3KaR2lkmmy3_wq4gcdhhULNR9bw",
+					"https://drive.google.com/uc?id=1ZdCH8hZbBNnQCbukEDSS2FT6z_kGd6x3",
+					"https://drive.google.com/uc?id=1w1Wep5haahfwFKLZNxHnQ9hMX_YXwq0c",
+					"https://drive.google.com/uc?id=1xYyveuAGK081NE-b_Y3Ytl2d4yi-i8mA",
+					"https://drive.google.com/uc?id=1DA0khgB18N_cyaHs82BYFlVtIfIFu8z3",
+					"https://drive.google.com/uc?id=1NSDHn-LbiapNRcazow00Rg5EoG7sgCAf",
+					"https://drive.google.com/uc?id=1rj0OBFlx0XuHAL8T62ONrBjJRoqXR6EN",
+					"https://drive.google.com/uc?id=1gjVF4eMdXHw9C_EGje2IS2Y4iApGG6GI",
+					"https://drive.google.com/uc?id=1maHTc2y3AVG9QReYiDB5rjjJaJY17Z73"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"22": {
+			"title": "Chapter 022",
+			"volume": "3",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1vQCRGIpHKuGlCOeHFt1aYuX_w_EumJVG",
+					"https://drive.google.com/uc?id=1nne0AJfUHnRhbvgDAXAeyBT6zKj6ujkE",
+					"https://drive.google.com/uc?id=1Z7iR-7YJlShYtO-ZaefIMiGooosPnLBm",
+					"https://drive.google.com/uc?id=1jPN81a9pmG3x3_cvg7zxkvlK6KMVIawT",
+					"https://drive.google.com/uc?id=1DZQ5D70aHwxS3NEHDNeZdXmAeB-1w3Sr",
+					"https://drive.google.com/uc?id=13c-pvuVq-Ilr58Ov_AeStEXgzoDDEfpk",
+					"https://drive.google.com/uc?id=1Hle1UPIrsaFvQ-oPOm2LZpZd1yhFrM0n",
+					"https://drive.google.com/uc?id=1H6StHj_5sSAQlJVCkFI2V6bZM2PSYO4K",
+					"https://drive.google.com/uc?id=1GKF7xtVvUFb3U4kWJMRp_KjAB5gyS-JD",
+					"https://drive.google.com/uc?id=1xrRR_Gb-6HWDwTJ6DRtRAbUC2aOqo-9h",
+					"https://drive.google.com/uc?id=1AFhebuoBsH5FaIXSJQJtLN00v_gsifFu",
+					"https://drive.google.com/uc?id=1IGd3f_8h31DvLbssJB0SZXqmY2r2mukN",
+					"https://drive.google.com/uc?id=1hWLd3Ip471ZznIGErTBw_niQsojIr5fa",
+					"https://drive.google.com/uc?id=1GLYDRBQt-UgOTqcqVzXXgil_KqExDlNX",
+					"https://drive.google.com/uc?id=1Kn1XTDzRDSETSqiHDw_mT0mEk164X9G5",
+					"https://drive.google.com/uc?id=1Te7QHrDrH6CaD9VC_pUfkrMe1sBrw9VY",
+					"https://drive.google.com/uc?id=1R82aTCktvVDLkjkJQX4aQUzi1KakCpHV",
+					"https://drive.google.com/uc?id=12nH8Y1IUuHHMkKmHouEv51sdAAnXXs7V",
+					"https://drive.google.com/uc?id=1Ff5ipgdJmXEkM0P1RL2xgV5BRE2mENO7",
+					"https://drive.google.com/uc?id=1R-08SG0dm0Kx7ZusAdP7AVatPWDsyxFC"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"23": {
+			"title": "Chapter 023",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1xT_fQLf5sxVIvjxoIQQRqE9wtLyBAdIE",
+					"https://drive.google.com/uc?id=1rPcs-XJhegmoTv1FVbINSfGt3mvO2DAu",
+					"https://drive.google.com/uc?id=1T5aF3M_ImVe4Sci2e5juZSlsfvo-WUtN",
+					"https://drive.google.com/uc?id=1isMINl9yfJuzsBGiNOdzjXDcvGRpXSv9",
+					"https://drive.google.com/uc?id=10LYeuhAPKesJHpAdgc_rSSm0-C7i98wl",
+					"https://drive.google.com/uc?id=1RrrqEl66G9cLi6LqobnOGBppDYzU2UQO",
+					"https://drive.google.com/uc?id=1AUcSgFe0Y7VPyanBr8slGxxx5MMDpSJP",
+					"https://drive.google.com/uc?id=1gDpYQ_fwO3HskTNelI-odz_9zYWXCjWi",
+					"https://drive.google.com/uc?id=1hFwgNJVYR5_6UGc9GusLG54j_XSi2t5d",
+					"https://drive.google.com/uc?id=1JIXXeHwokbulIPkdMVlRHZTpbqHlTesl",
+					"https://drive.google.com/uc?id=1FbA8hE6DPDwV1YvqxZ1bp0v2WG75Ao8b",
+					"https://drive.google.com/uc?id=1QaSMWbqpHUsbhQHgQ0uVLcMs44_yhEGf",
+					"https://drive.google.com/uc?id=1Xnkss9i6CZmQhSuV5xQ2AJznhfAii1EJ",
+					"https://drive.google.com/uc?id=1MTGb5dtd_IgwUw4NDRhl89OWXRbo_LZq",
+					"https://drive.google.com/uc?id=1wYPZ7gEuzceoR8WV3RWA797bEOSUVYkn",
+					"https://drive.google.com/uc?id=1E5gYQScpxZXDrotYmzqYrGgZixYzBm-3",
+					"https://drive.google.com/uc?id=1rsAhOm-Y4J8d81y6fq4KPvDbLD6p61-A",
+					"https://drive.google.com/uc?id=1zBeAOM-PjomUwsCqo3eph-_xxU2Eggk7",
+					"https://drive.google.com/uc?id=1bGvIH_qf4Yh0kgpATKOPYMCBiRFkzA1W",
+					"https://drive.google.com/uc?id=1zoN_7aipzHxGpxVJRDa_nbH0BVwr1vqA",
+					"https://drive.google.com/uc?id=1tHpa6ll967UxG8U6rLpTSdAVswPWrzPz",
+					"https://drive.google.com/uc?id=1LWjSZ_15eKcdX5GgWmexqyxpL0LCVWZ3",
+					"https://drive.google.com/uc?id=1zAeMv6aDAYFM87DhtdHTCb-H2ZWFG5iQ",
+					"https://drive.google.com/uc?id=1P2HeOmBP48KlsloyYMP8KWWh078pSe8k",
+					"https://drive.google.com/uc?id=1Whp3eOyoriLj-5Vo961A3rgM1fSyQVTs"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"24": {
+			"title": "Chapter 024",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Y9zP1oxwgXujAOX6XizUII4YKGJbCmTa",
+					"https://drive.google.com/uc?id=1UeOXhAqLdSfV4YHlTLJ0-JAXI899wgix",
+					"https://drive.google.com/uc?id=1Rbay6AX0w2iQ2aNV6p-Row-DgqG7vTvt",
+					"https://drive.google.com/uc?id=1hTz92ULq1Wq0kO4gk9D5vMFqPUWpE1yb",
+					"https://drive.google.com/uc?id=1l2ib_-pusFNw8HeBe1O4OOhmSLeosycJ",
+					"https://drive.google.com/uc?id=15rcat5GNR3MgdfTBwL7HIfUyOF75Z483",
+					"https://drive.google.com/uc?id=1F74MJg8rfpcjuXLvZqeKTeTw39bvKDKq",
+					"https://drive.google.com/uc?id=1AA37XhEc2l2_CrZWMcYYIBLKWNMdQUVA",
+					"https://drive.google.com/uc?id=1ltwBTdOtUr84ZHs_NwvTqaSTFhn78TVA",
+					"https://drive.google.com/uc?id=1mdzi04tmx38zsWqIChtqPk_385K0Qhlr",
+					"https://drive.google.com/uc?id=1mJ_efEECjVDw0nDc8ZuN_PoxdBJe2bHi",
+					"https://drive.google.com/uc?id=1LkGTwamVLyKKueUlswem4WYTvTORe-sX",
+					"https://drive.google.com/uc?id=1IfU4zmfGaTMEHkgDDDrfHnck8GJGc3dc",
+					"https://drive.google.com/uc?id=1o42MyLMVs7MSpXNBGOJDW_dBQKLAGwRk",
+					"https://drive.google.com/uc?id=1sJAY4urTk28-XXaaA9-Kr5pxO_IXd75Q",
+					"https://drive.google.com/uc?id=1PD79Cavhq6ANiMiJof3lkiR4VfShl5jS",
+					"https://drive.google.com/uc?id=15cG540Wx5IBhic7wKcZJqmsmLKslCTgS",
+					"https://drive.google.com/uc?id=18BHR1Iz0heeHXPLCJ3UGGD9Ag3Lci8m-",
+					"https://drive.google.com/uc?id=1xgtspN15yXJN9khDpHK2vBv6kMJGWaCd",
+					"https://drive.google.com/uc?id=1v-pkjYfIc-wJc4p7UnI0jRn4ahwZ6pN8",
+					"https://drive.google.com/uc?id=1cKzUrPnRM6GB6B0jD9olpEJdWJ3sJ2B2",
+					"https://drive.google.com/uc?id=1yxYxBdN6Frj8oVZBwHwz_0l8V8B2uosZ"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"25": {
+			"title": "Chapter 025",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1tlMWdKXPL89u0ianSPAsa3RiRgy8_lcS",
+					"https://drive.google.com/uc?id=1hrI_dPUuGB53fdTXXjJRY66AeIFaVAqI",
+					"https://drive.google.com/uc?id=12V0_-TJR2gXBaD8VYq0nbOWQM5CNvrCg",
+					"https://drive.google.com/uc?id=1YLFHlAY_YpFDY8jTJwYYUz6FXwj0XOVM",
+					"https://drive.google.com/uc?id=11DREcjMOqHKV4Hx3R29Tgd_I9BpV97uo",
+					"https://drive.google.com/uc?id=1fSmjN7KjvjnJg2tQzr4UGPS3HWRzZTFa",
+					"https://drive.google.com/uc?id=1Zdfhx4YEONEaeEq973HmhIbhKNrBMjv1",
+					"https://drive.google.com/uc?id=1wEsW_6LIy4R21vAY78aeRYEM67WQ5F70",
+					"https://drive.google.com/uc?id=1TDGvRlqAwnl-ToJH7pHWpvq-N9bjOfpN",
+					"https://drive.google.com/uc?id=1jYqF8oUJ9BS88G3dxqt8MtuFsFVc0-2y",
+					"https://drive.google.com/uc?id=1UfM6PyORum_7CiFSV52kC2GU28VDh8cD",
+					"https://drive.google.com/uc?id=106V4AJN-vdL7CimjIVOxqsdCXA4oxB43",
+					"https://drive.google.com/uc?id=1TVDT2oN2qHHR3L66-xehJIJCEwhD9RYm",
+					"https://drive.google.com/uc?id=1cpxSu5NX9KtqiAUvxyxIY8pIZjTKR8hz",
+					"https://drive.google.com/uc?id=1pbnh9dR_N1JNbqMZwhfqH02D94C5yriU",
+					"https://drive.google.com/uc?id=1-rmCKr8IKy3zb-LHS4VeItG4rLZ6lVNe",
+					"https://drive.google.com/uc?id=198K7uOSYViEw7Gzt5NPzUT5G22Lm32uN",
+					"https://drive.google.com/uc?id=1DFycR5upB3ZDwdtEQcvSMjkyYa41n0xM",
+					"https://drive.google.com/uc?id=1Og3rPgZhPXmJ8sYtyuPFjy5_IAxafGhz"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"26": {
+			"title": "Chapter 026",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1PQVTxKlxDqYoxD_ikZ9nm3iUFHtIcwoF",
+					"https://drive.google.com/uc?id=1bqQW7YvwTuG3wc7ZNSbe17u4DUZW7uIJ",
+					"https://drive.google.com/uc?id=1z6_hzMoPIru36hhBNhl4KiIlMne1O2Z4",
+					"https://drive.google.com/uc?id=1bGMcHH9rCNg_IlQCUXmvVIiCtKuTpVwE",
+					"https://drive.google.com/uc?id=1CNjOsX1evQCbmTOcJ72boaOtr2x7Pwrn",
+					"https://drive.google.com/uc?id=1-i2kPF781OBnzrrE0DdY4HY0uakIqftw",
+					"https://drive.google.com/uc?id=1zkKJpWIhSdidiUlhwDvlWrh1ZhUDVqCK",
+					"https://drive.google.com/uc?id=1od4qM0wyJ6raeWl-2_CK1LwoZfUgKJRt",
+					"https://drive.google.com/uc?id=1bz4WMBKY1lvP3m7aVzyzSM-0lUqxtZw0",
+					"https://drive.google.com/uc?id=13F52iJ-gEc9gn-vr7sk4K-Yd0oCVJgiH",
+					"https://drive.google.com/uc?id=1K0UkeHRw0jmo25JpcsNZXD-vvkeFhH3d",
+					"https://drive.google.com/uc?id=1ThbCUdbE8CR93jShH9wW9XrtkWxsHT6F",
+					"https://drive.google.com/uc?id=14A2lgK_qEg5zliT45e8_MPUQFpGovvZn",
+					"https://drive.google.com/uc?id=1vo9W6euBNb_wNq6dCoAvtavvRciU4dU4",
+					"https://drive.google.com/uc?id=1SRXNKobk_G1uRo31X66t0MBEqFfWId-N",
+					"https://drive.google.com/uc?id=1M7KegP6K5ZvntRbOh_0Jt5lc5DZm8-gS",
+					"https://drive.google.com/uc?id=18iorKIZfvDWmn_DzxM41IgAGn4rb-9Eh",
+					"https://drive.google.com/uc?id=16207qufLqGfm9mq6gvVLF-G2IP0weyC5",
+					"https://drive.google.com/uc?id=1QLzMk0y8GoqtJInlhtdPbdnSHWwnGNhD",
+					"https://drive.google.com/uc?id=12a3qlmR76wgJTuWWCij4K60_44OQ-gPI"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"27": {
+			"title": "Chapter 027",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1_zeSWX8HV-_kZ12bQDQuoPNHdk1a1CxD",
+					"https://drive.google.com/uc?id=1Nl9qmCSMU9fAcGkZZOdybsnY6TS7DQ-h",
+					"https://drive.google.com/uc?id=1UPr-Xs0GZPkXlrggiIbf6HXP06BnZXT9",
+					"https://drive.google.com/uc?id=1yjY3Y2y4bIeorAo1Em5tWDz4BUNAykVO",
+					"https://drive.google.com/uc?id=15_dZ1AQQ-pa7Styxl1rIHKzYHT71qTgg",
+					"https://drive.google.com/uc?id=1psDkcJqFJMfHYlNmyZKaW14oCUL0IIiy",
+					"https://drive.google.com/uc?id=1BcVY1CazRa9sjOz_P7xz3qLz4meMxyOV",
+					"https://drive.google.com/uc?id=1YKN5TEkREoJ3ZjOipJ96ROxGlAWZCYfL",
+					"https://drive.google.com/uc?id=1gWRGPyVD0GiZQZpvQ1zyHSR62gtmJ8zm",
+					"https://drive.google.com/uc?id=1hopDCvmJlkMdu8ng5L-oZL54_pNzyjMB",
+					"https://drive.google.com/uc?id=1SJihy9bZTKkX5lNd8njyGE9hI4DeRzbg",
+					"https://drive.google.com/uc?id=17Xi2vPqy00W15lUPvfYSxakKu9I0Xmad",
+					"https://drive.google.com/uc?id=1JjJ6v0VzrkFZi1MG3LhLTpCO-k88thgp",
+					"https://drive.google.com/uc?id=1scbKZ_0N9f6cEmFrrX7rnAeegFVMteDt",
+					"https://drive.google.com/uc?id=1FDUFohJq6WjjvNrLERBHOcl6D_XEUUnf",
+					"https://drive.google.com/uc?id=1Ltykx4lh6N2V33olRD_eAbFK0poqKNgN",
+					"https://drive.google.com/uc?id=11_hchhi1swiHS-kwTbsMkxscct8-rsX_",
+					"https://drive.google.com/uc?id=1qnuJykcvImkq7TxVLpmIOaka1IcBYomr",
+					"https://drive.google.com/uc?id=1jWaI7eNwL8s5cOBIDlHrUtuVN5Wpvkvm",
+					"https://drive.google.com/uc?id=1OkkLxbhQNfDuE8rF78q2pVZMnfumZP2X",
+					"https://drive.google.com/uc?id=16C1--Yu3ZX69lcmK42D_r_Hz6NuDABOE"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"28": {
+			"title": "Chapter 028",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1yXr8_P9z5CSjTzjHCC1S0RwY3WXDr0mI",
+					"https://drive.google.com/uc?id=1IVaIgHIRmSqSRODs9AFOZ8xg5UgegjJY",
+					"https://drive.google.com/uc?id=16E5hglRq9QscuGlVh5ThKBU4SQQbUyWM",
+					"https://drive.google.com/uc?id=1Y2JPRVA6GqUB5iIi0hVHRLyWuq5_XG0b",
+					"https://drive.google.com/uc?id=1aFBJr1LB9onXyFpBK9cByHdllEgJ5hJb",
+					"https://drive.google.com/uc?id=1bDdQDctOlMsnNHrYxAR3VNQPQCpVvHKt",
+					"https://drive.google.com/uc?id=1yizs3FafvTQsWpi4OXpQzllMDWlS091P",
+					"https://drive.google.com/uc?id=1d6Q-qe2yORtvbvqK48sv0Tl2DfOvcysp",
+					"https://drive.google.com/uc?id=1zDPsvsITk5aia7qTl9HcH6XDgCwIC-c9",
+					"https://drive.google.com/uc?id=1j6RdgaSqCUUZSq4MsYQE3pBh-bGfKpGm",
+					"https://drive.google.com/uc?id=1bQp8INJigMzjSnOVYRGcu4MdYpkwFheV",
+					"https://drive.google.com/uc?id=1ViRI4-qP7lx00NacpjcBx6XIPEQQjN2I",
+					"https://drive.google.com/uc?id=1O4aIODSb4DUjSMLBau3G3ZWT7lAAtGyE",
+					"https://drive.google.com/uc?id=1q1HLnWhuLjZjzi7kySgkVUi80jqoeQPh",
+					"https://drive.google.com/uc?id=1mfR5ob-RL9U-hwj9rksyKRjNR_4Ij3dG",
+					"https://drive.google.com/uc?id=1MZlW2r6-N0eIgA6RDAi7K2CM96YcetSq",
+					"https://drive.google.com/uc?id=1dNhYfHn7bqs8sAQ8dkSWWLLHojxVO8xH",
+					"https://drive.google.com/uc?id=18RjjVUJRh_rxQbFZTdxMzkcM3vA1wxE0",
+					"https://drive.google.com/uc?id=1Pw_UlSTQB5tpF1jwF4ooFEuuV4o7MnDu",
+					"https://drive.google.com/uc?id=1XcupTSunH9f0hL62wUAsnc2Zlgk7xEhm",
+					"https://drive.google.com/uc?id=1JGNHDopNm5ywZnKPMgy2xt9yz4D6UotK",
+					"https://drive.google.com/uc?id=1sElqOnukUVZOE2rG7vMm3e1Mc0a2wFqD",
+					"https://drive.google.com/uc?id=1Tq0I0bpWgZqsoGcVzYMFbxeUG1vuh_aH",
+					"https://drive.google.com/uc?id=1oyEvYnZZSEiDOkyTcsufwA_DzNUZZdG2",
+					"https://drive.google.com/uc?id=1OUOD30gb8qB6lVVLvvmmjll-UGyMhGuS",
+					"https://drive.google.com/uc?id=1SwsL2RVbjErmUTSB8WAyy4vSlOWF8nQ4",
+					"https://drive.google.com/uc?id=1oyV4CEaCjfLeSifcpagHAqZX4fB-eqz3",
+					"https://drive.google.com/uc?id=1fUdJ8vBcnggxEZVnXO4Rfoe973_GnmH3",
+					"https://drive.google.com/uc?id=1AnLjmqDjIZsi7AcYhegB6LsZm_ucswy5",
+					"https://drive.google.com/uc?id=1DRxVZNG3gDjsMuasP_61IYiNvpk9HmBC",
+					"https://drive.google.com/uc?id=1MQsgIM3jLMac-wyeZOtKfufu_KWMSUQk",
+					"https://drive.google.com/uc?id=15oXfD7100F1LTENjkESpGR-PO2TnZwXa",
+					"https://drive.google.com/uc?id=15fC4L7P9nBkcIlre1et_lVMum5nZG-ha",
+					"https://drive.google.com/uc?id=1z9rQy_BeiqIfqqOBmQ6FwxD0M-gkTgR6",
+					"https://drive.google.com/uc?id=12P9V4kksfECx1fpL3BIfRpwILR1YM7R6",
+					"https://drive.google.com/uc?id=10kt0a1FVKFmUzOVv5YQfrKEdvHCVM7ou",
+					"https://drive.google.com/uc?id=1NxHMO0jEA3sxgFwckgnlW61lfsczQtNp",
+					"https://drive.google.com/uc?id=1hEis34s_lNQsuMpyJI-3hK47A8M4n-_Y",
+					"https://drive.google.com/uc?id=1gvomITSY-D1oEl3LaUQTEySstQ_bkqXs"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"29": {
+			"title": "Chapter 029",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Ej0xLBfEDyweRMy2J3ElTEbCl7xCgqt5",
+					"https://drive.google.com/uc?id=19ewRurBL7CrOO07or8hPyiKjspqa_5Hn",
+					"https://drive.google.com/uc?id=1jlnRZChyra-Mtui1StVH7uYWsBq0bLnI",
+					"https://drive.google.com/uc?id=12RUpx3kkHqPOD4H9u2fuLZ4Lgh908MoB",
+					"https://drive.google.com/uc?id=1XrroPvHabDSgnmUx-3qX9eEx-DiBgHgp",
+					"https://drive.google.com/uc?id=1v_21RDdxEaDRnvGY4ympgpmPctJUq3k2",
+					"https://drive.google.com/uc?id=1FA8TxswzSF8G--lkDw4MD2S_CUfSiKZB",
+					"https://drive.google.com/uc?id=1kxYmE1HLFT50Z9ksxfca1wDwB_hET2iI",
+					"https://drive.google.com/uc?id=16pYlsr5a9HCxAx5mMaL6A7WCy-0QvHmn",
+					"https://drive.google.com/uc?id=1zspYdYq54YDW_1bzV30K1PlkvWsmptii",
+					"https://drive.google.com/uc?id=1vin-nw-Pa0Lgh_B5fsxXuzpGM4pEpP3q",
+					"https://drive.google.com/uc?id=1CcMzyG3bTaYDptU_h8I0XWT6xaRrLkkG",
+					"https://drive.google.com/uc?id=1UB7LrfP7Bi15bPdugl1RmEQRy1wGPLbI",
+					"https://drive.google.com/uc?id=1PAMfG2mMJb1qAaAjSLcTQWFzihOvNE4V",
+					"https://drive.google.com/uc?id=1gUR7gIzlIYTQ9y9FFs2FXEDISbC5lSse",
+					"https://drive.google.com/uc?id=1H7qdAyt6DsZoc6mBBHa16EXu_8OjmwVY",
+					"https://drive.google.com/uc?id=1cmzPGdZrR5ApAq9SFSrEwhYifj4NCgPg",
+					"https://drive.google.com/uc?id=1tl0SsecCjPFaEjSG0wG8_tFt90zMCQ1o",
+					"https://drive.google.com/uc?id=16r43xLvFhXY8a80ap1LoxDlHLgeciGg0",
+					"https://drive.google.com/uc?id=1hhHPLHvEp3EZbLK_JMjV6271BcTHVa0f",
+					"https://drive.google.com/uc?id=1OyBNYVHF2J0L7-wxUZCnco2E6TL03lIZ",
+					"https://drive.google.com/uc?id=1CoVfd_D9n0oIVU4D7VHM2aIL4k3RzqEf",
+					"https://drive.google.com/uc?id=1jtEVq7Z5C6tVw1sfKocXNoBrek_OhZKs",
+					"https://drive.google.com/uc?id=1rjjGWxhNVVGA1Mt0mEFhNpGBqizjqE0z",
+					"https://drive.google.com/uc?id=1037i1vpMnyIc4ra_hC97XiFIXYxmxkV1"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"30": {
+			"title": "Chapter 030",
+			"volume": "4",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1SMeXWDUQ8KIEo1u6ygGUGOgXsDROVDFj",
+					"https://drive.google.com/uc?id=1mXsVluOtE4OyhKWAFeczxAWbFUdchzgS",
+					"https://drive.google.com/uc?id=1mA9V0mMhD4S1HnZRRBZ9loFrT5mbWT1r",
+					"https://drive.google.com/uc?id=1RaCP5hrEaF1XHY-AomdJ0AFBKc98bYHv",
+					"https://drive.google.com/uc?id=1oFfrf_bciqwQ38Ho69kkuKpWBKZaydX9",
+					"https://drive.google.com/uc?id=1bFOYnYjX9ZXhH-TCQGwV8059430YGb61",
+					"https://drive.google.com/uc?id=1U83p_jP0HQSjo8YgQ6PZYD_5wez8aVId",
+					"https://drive.google.com/uc?id=1C2G_Urmiva84KO8S72_oCX9ufJfwikKt",
+					"https://drive.google.com/uc?id=17ZPyJcgSGczKaehOPpqUqpX0GcjWuEwn",
+					"https://drive.google.com/uc?id=1sT2CRCEprXxH6p6iFuvE4ijHYR_6BSL4",
+					"https://drive.google.com/uc?id=1-GF2nv-1SuglsOh4Wk0KX90-2LhDjtfK",
+					"https://drive.google.com/uc?id=11GGJ7mhnzZluyFCpv9OSd1qjHVguy06T",
+					"https://drive.google.com/uc?id=1fr6dC42hnoQmNYQorps3DI48pb7WcDOk",
+					"https://drive.google.com/uc?id=1JTZoQ-8yhn6q-FbtURgeDxTKGpCSEqpm",
+					"https://drive.google.com/uc?id=1Tw-DeMQT284ejml0v8qG-T1HDSoS4Chz",
+					"https://drive.google.com/uc?id=1drjWtk9JwbETNv1UAN7dpxyJ_rT9NOVI",
+					"https://drive.google.com/uc?id=1OXDwa76V4dkGSz1-xPB7Ol_N938ifEgt",
+					"https://drive.google.com/uc?id=1Fp97JZX4Z-bOM_OB0lL53hW0oy2TeotA",
+					"https://drive.google.com/uc?id=1sKZP8w_lNBjGThoXdHDerbgf-t1R62-i",
+					"https://drive.google.com/uc?id=1ML091ImOWZTtWV64JFyJ0SveTWa01mE8",
+					"https://drive.google.com/uc?id=1IcTYPIeph6RcAd5LlgoEFsoRnUW0ylBa"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"31": {
+			"title": "Chapter 031",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1gwoWYSivfcK3gzYd9Im3d8b83FmcgncX",
+					"https://drive.google.com/uc?id=1LwxICHBjpFO8Qrlpn5UGsjGoz89BWUpF",
+					"https://drive.google.com/uc?id=1PckFT5Mae4ItXlqyJ5cAVa6Qzc808fNz",
+					"https://drive.google.com/uc?id=1dCpYxqerULF67br6gKiSTPYx-Nlayei7",
+					"https://drive.google.com/uc?id=1yyjUZV7GXY3o5xfYUysaVHG4MeQFe1c6",
+					"https://drive.google.com/uc?id=18lnEHeIurnKE86vcb4zVs8T6NgV61JIY",
+					"https://drive.google.com/uc?id=1ePkUaqExHajhcYDPalLpgV-XW9ho4y-Z",
+					"https://drive.google.com/uc?id=1Rp_8oIaC8Osi8wDwOglS341ptRHA4ZVA",
+					"https://drive.google.com/uc?id=1bEy1m1-0IkMk8FwOExPwDAH5IHsfuUIp",
+					"https://drive.google.com/uc?id=1g14EQ2cxxMBmIOLezznt2zdiB1W62v99",
+					"https://drive.google.com/uc?id=1euDxl0NQJaNCQdczE0mll_uM-m86PCsY",
+					"https://drive.google.com/uc?id=1RUJAijBYkFu0CVkDNRhPXebDpkVu6s8w",
+					"https://drive.google.com/uc?id=1LqgW4FllI-uEBdkls02x9e_TBtKO_H2_",
+					"https://drive.google.com/uc?id=1UmObJcaKlRQUG0wYGBl5fs17yLY4WrCl",
+					"https://drive.google.com/uc?id=1-1T6qOpmCeq5-YjAT0p3G7rnSvqiDwb2",
+					"https://drive.google.com/uc?id=1v-Yd8cNumijvvxfWHHyZBWxn3hOuXUtf",
+					"https://drive.google.com/uc?id=1PN7BD0tR_r30Hu4TB4Z6ckxzuo0JzyDP",
+					"https://drive.google.com/uc?id=1Z5_hRV34HgrZAfx7YnID3RT3rtx3-Mt2",
+					"https://drive.google.com/uc?id=1KzJXjbupAN7TSm7ScEaG26_SHaVpgFvN",
+					"https://drive.google.com/uc?id=1oVNX-v9IBnHG6EQoX3gBiL56w71KlrDg",
+					"https://drive.google.com/uc?id=1_bIykB_IHU_kS-pdvLJtAD-VlgeOd39l",
+					"https://drive.google.com/uc?id=1HD0tnsxzrAvPnC-u1-7iy_Z3orID8BC8",
+					"https://drive.google.com/uc?id=1k112VPxZ-shFFHegsbbFkpl4VzW1FOCR",
+					"https://drive.google.com/uc?id=1AObUwZtbFZPoZtn8t3ZBQQuZ0nSfaUFl",
+					"https://drive.google.com/uc?id=1YI_EOzsBIu7OohMTfPhWoCFZtSqdKcWb",
+					"https://drive.google.com/uc?id=1JeK1HcM_DjvMTRs11eTmwhf8BG8ow1JR",
+					"https://drive.google.com/uc?id=1qVE3uJN60M-PfMYGWLs9X1l5I8HH_QXI",
+					"https://drive.google.com/uc?id=1uXK1mAG2g7p8pbbZj_AZZ-3CEDdu20pH",
+					"https://drive.google.com/uc?id=149EcI1eGFHiEaxmdU_jmNFUQ3vTn55gJ",
+					"https://drive.google.com/uc?id=1cll8KpwKThOh-8tm5dg5GG4L4JmxAROr",
+					"https://drive.google.com/uc?id=1ZbRZsz3t9k8qaQX-8f6K3Q2uJcuTHUFK"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"32": {
+			"title": "Chapter 032",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1fpOvN-cEGhkkiYeiQLQfKyVFlbjXPdMi",
+					"https://drive.google.com/uc?id=1XSf35Q7mAC-Xly_oE5yOKy7n56CKfsI6",
+					"https://drive.google.com/uc?id=1rrV5p8gwagZyWrAp4eTvbFZGcTr781dw",
+					"https://drive.google.com/uc?id=1-5uzU0VreV3v_H6IDjDQGKPGDGUAfz8o",
+					"https://drive.google.com/uc?id=1h3VsjbxPOV0mQpOCdoYm1jtmBJ7fds_n",
+					"https://drive.google.com/uc?id=1w4_TKEX4p2-_w3Xv6CAvouXMf7zFB5NV",
+					"https://drive.google.com/uc?id=1jR7gBkxJM6QzKTY992YKnUFnSRI6DFFR",
+					"https://drive.google.com/uc?id=1JX_Yyss3EvVJp4qiEOCITN0NpOPTJUhR",
+					"https://drive.google.com/uc?id=1sPiMPCt0h6xldI-OI9feGPBDQ5FL5-it",
+					"https://drive.google.com/uc?id=1gdo1qjEgXsdvM9Ub4yQY2ZA8laB0GgnJ",
+					"https://drive.google.com/uc?id=1TXXeSg5rcKFAnpD3jfEyyYzV81il-wYF",
+					"https://drive.google.com/uc?id=1VqvzZZnW53o2OvlWIVWT4LpeSGmhqO5n",
+					"https://drive.google.com/uc?id=1Wk7KX5_kI3JvRWUSHyEhS031Ui1z8EeS",
+					"https://drive.google.com/uc?id=10EBRCebvgk_mFDDdztTKp4ltSvKqL-iN",
+					"https://drive.google.com/uc?id=1d_tJorj7_T7G_hJRnb5vKaPEHI9gZC0A",
+					"https://drive.google.com/uc?id=1vzTrccnsh0eFfTdGyezHPUW6F3wpKRIi",
+					"https://drive.google.com/uc?id=1xv-sMdhguJYJi5oS-GnyululRJ-5583J",
+					"https://drive.google.com/uc?id=1k9ajSYsYj7XumOXCHu1LgWJIDAkIYFaw",
+					"https://drive.google.com/uc?id=1Lx8Y4uUPSNFeettGtXzcQZ8gCJ5j_2z_",
+					"https://drive.google.com/uc?id=1d4uSGtUX14SEwvmbIsLWLw-plwhR2xGG"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"33": {
+			"title": "Chapter 033",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Z6tljOR1lAiqB3aa-SguM8imIJFQfwM_",
+					"https://drive.google.com/uc?id=1l0bb_sOK38-q5Uw3mnYXfMZ2US4zBhOb",
+					"https://drive.google.com/uc?id=1EbkJKYw-83qtpnUdcSO9YRct-dWFBr1D",
+					"https://drive.google.com/uc?id=1Wox97V4oqua64Falr5EXxVtJwDc8rlAP",
+					"https://drive.google.com/uc?id=1DYmlzekUTa24nBIX0f735x7uo2DJCH4T",
+					"https://drive.google.com/uc?id=1DE2s3O2ijOoE0i_BMhbflJuG8ZWc1CaE",
+					"https://drive.google.com/uc?id=1N2LKcPhlTsFtYPSYa2HOUbcEoDlgkiM5",
+					"https://drive.google.com/uc?id=1Uitw94f44gt2iDtYCEbDpYZXvR2-Nosy",
+					"https://drive.google.com/uc?id=1-c4_5UgKk9gWwUBhPlKg6W_3xbHfz1q4",
+					"https://drive.google.com/uc?id=1axJ4mLnYeOk6LSGin7L3JJ6IyKLarSTg",
+					"https://drive.google.com/uc?id=1Xkc1A9cGQwlaXdar8pTh1i8K8iEi1T0f",
+					"https://drive.google.com/uc?id=1wBtpjjSi6qlNreZc0icP-PaXczZqZbey",
+					"https://drive.google.com/uc?id=1Pa41vn4YjVjFR0SByzVI0FCA9baeMrA6",
+					"https://drive.google.com/uc?id=1X2QP9Fw_WAy_GLYMw2B0W1OdGMEMuUzW",
+					"https://drive.google.com/uc?id=1PPacH1C7PNaQEkoOeo7nm3y47jeSWQAX",
+					"https://drive.google.com/uc?id=1IWt6mPPttEMgV4q9bltVeUua4eDHUgFd",
+					"https://drive.google.com/uc?id=1KHPkaZuJmMx0IAeuhOuoMOffWBqeI2Ur",
+					"https://drive.google.com/uc?id=198jnFaz-P1t9otLfdRBhDk9rF4-KRapg",
+					"https://drive.google.com/uc?id=1hnF5Oca-zEXsghV6LqXExZ0pPyezDYH0",
+					"https://drive.google.com/uc?id=1RUPSPIcJlIvkB7PpETO2JgAQqZrFRAw-"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"34": {
+			"title": "Chapter 034",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1PzeYY6RXbVIlwNpnKFvcLzHkGN1lZ2Kl",
+					"https://drive.google.com/uc?id=17j4kTVOoP-dsOsT7MwgH7ERRitz0dedM",
+					"https://drive.google.com/uc?id=1DtyCdoCdnmDlJk8z1E8zbSxiu71xWa1L",
+					"https://drive.google.com/uc?id=1UoeXPtjPDS4-xtJvQ5jiS9SLy7oCnyCa",
+					"https://drive.google.com/uc?id=1HVVn8WDPjIoL5pcEd586Hyi8ElV0T1wJ",
+					"https://drive.google.com/uc?id=1FCVzn1gtj9shuOKpSrk0v8JVmQobt6WH",
+					"https://drive.google.com/uc?id=1dYI-Om40G83U0VxM9ddqLsNZzQA35V-T",
+					"https://drive.google.com/uc?id=1DNhmABLdtyqn_GS5D04VMjHG7-wSTxsu",
+					"https://drive.google.com/uc?id=1FHlvS_W3NOeEkeVwdoKfyHaTflab8UMn",
+					"https://drive.google.com/uc?id=1yJNOXoqR1NLpn1vwwHeqMG_-wCJtQFUi",
+					"https://drive.google.com/uc?id=1OFvxDUbRwARgV9n5mj7JgxXBxAUV5Kta",
+					"https://drive.google.com/uc?id=1Fz0Es1fYQlAtbTBJvG1BJHg6qZsgHOkL",
+					"https://drive.google.com/uc?id=19i2j0bdoEEvGlhJhWir2NXQz8Kz9DdCV",
+					"https://drive.google.com/uc?id=1-haJDSU04hJM7zrEjEJCWrtr3UAL4Zvm",
+					"https://drive.google.com/uc?id=1jCX0cMi4kGZMkZ25iehN5_Hr38Cuyl4-",
+					"https://drive.google.com/uc?id=1iv9beMlEUe2kX6gsxG10jpG_kHUMPNDE",
+					"https://drive.google.com/uc?id=1E-eJV1NbmS1IYZEhFQlTUroa2hA2RS72",
+					"https://drive.google.com/uc?id=127NqcKMCjlaoJ2YkIvVP3BVxrMR2XDCJ",
+					"https://drive.google.com/uc?id=1N36L4sjW6EoygtbUkY19OMMb7RhO7vi1",
+					"https://drive.google.com/uc?id=1i7sTBL8HYRhPfRuD1h2x5XZTc27hOWb_"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"35": {
+			"title": "Chapter 035",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=11jP0BmL5qcROfNFxp2SL8O6vA9XNRvli",
+					"https://drive.google.com/uc?id=1cbBZx6Lxjyz7Ej0_1vrqzuPIdwJxwOBz",
+					"https://drive.google.com/uc?id=1OBt4CKhlm-Bs8Jfv7Sj11ikiTTnOCkSG",
+					"https://drive.google.com/uc?id=1Mw-1yCPl7e0TFyxYH1bzSCUUwbPEtK02",
+					"https://drive.google.com/uc?id=1mWVivfmRmovItoI3OSbG6u2I-4Fusu_t",
+					"https://drive.google.com/uc?id=1OwY-Ti9M2fsKEDjumhndLZgNfizgMZgL",
+					"https://drive.google.com/uc?id=1F6ByISjY2K0sbRRjrQFXCiY6f84lniVE",
+					"https://drive.google.com/uc?id=11TzPtPEw59erTOSOMIqck2irHnUgTeXM",
+					"https://drive.google.com/uc?id=1GZquSmA7NoIWuCa2_-b14YmnrQs_O3Kd",
+					"https://drive.google.com/uc?id=1c2zaY5Df9XlEUy4O7DtCP-GdLV5KdOC5",
+					"https://drive.google.com/uc?id=106qQGwGqjJYUrM36S9Qxom3sd4BFnxM2",
+					"https://drive.google.com/uc?id=1peDQa76NO7jcYD9JmOnf5D8QFbXcUp-V",
+					"https://drive.google.com/uc?id=18EF5-oR9J7TFEqKqlUrQqgyVCW73axW1",
+					"https://drive.google.com/uc?id=1gDS2OJcnwxWEidVuUAyFO4AcBZ-MPeaY",
+					"https://drive.google.com/uc?id=1QMVScDXw6nMnK3moPgOyxPkAEVd3xYbn",
+					"https://drive.google.com/uc?id=1_SUBTEMlWqG6He6RRdMo5Ihph3WtSmvp",
+					"https://drive.google.com/uc?id=1OmcpoR05XxJj18OccZS81IBElpW097W9",
+					"https://drive.google.com/uc?id=1qDjDaEk3yV0Xjum4Iq1km2yupCTPq1LA",
+					"https://drive.google.com/uc?id=12MyOPEvuQD-tLU5IYvYbWYAn4jhLwguu",
+					"https://drive.google.com/uc?id=1n8lvHMqMwsLEVbCdUIv9BQ80Urz7j1wV"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"36": {
+			"title": "Chapter 036",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1y8XNCYTt35kRWJthvUtr0G1vzYK5UB0n",
+					"https://drive.google.com/uc?id=1UAb6ypBB4GGyQMXdmgQDjQEPWIStnac0",
+					"https://drive.google.com/uc?id=15wfiUAAytEwcra5YygneZFWL84yiPfad",
+					"https://drive.google.com/uc?id=1gLCUi_j0_lbJ5ppdVj0MAXRZm9a50Cyh",
+					"https://drive.google.com/uc?id=1VmToEQsh4pfBYykzvDcWHgHquSGHNyw2",
+					"https://drive.google.com/uc?id=1HaJe0lGka1SWfyFn2IavxwoRHEp-SEt6",
+					"https://drive.google.com/uc?id=1y_RgBkN74cw-U_Pn63mgndMln1DceRaV",
+					"https://drive.google.com/uc?id=1AMvzwVjeUYDoytLGX0UGsWfkX_uwyp3J",
+					"https://drive.google.com/uc?id=1I0NsCIPdhMhL-2arhmDwq-bPmk09wSun",
+					"https://drive.google.com/uc?id=1JTY2k7jTiJlABwH1uFK1qxVceK0JIfi_",
+					"https://drive.google.com/uc?id=1LPZfL-FE9OWqeFEdXQn-mQ9xVqk-t4PR",
+					"https://drive.google.com/uc?id=1NajiKCkL9o994c9gs9fAM5AjvQUr5xJ0",
+					"https://drive.google.com/uc?id=1sjKaB1QcKBnKIY1-giyroYOade7vpKc3",
+					"https://drive.google.com/uc?id=1r0h31eT9kdvgn9ULf71qKWlNvyQIetTL",
+					"https://drive.google.com/uc?id=1SFjZKPkZXNqTifx1zgw-D3bMYHKsyUNn",
+					"https://drive.google.com/uc?id=1yx9-aB3Sfn1XpWCR1ybNChTq4f_VZwgI",
+					"https://drive.google.com/uc?id=1Nsr4NzlDnjw7u4yMa71JxXwyvC3IedFU",
+					"https://drive.google.com/uc?id=1lleNvdMQohylbjUWnRrAnS7wAKX9RFi-",
+					"https://drive.google.com/uc?id=1IwzaNKPFiDIlmZISDb5RC4LcMtvF81cm",
+					"https://drive.google.com/uc?id=1Qgr7ih8niflsPO1X9GD4nDi8m7DWF3pd"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"37": {
+			"title": "Chapter 037",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1ht0HgHTFKDk7CYOcxzqxgFx2R3FxFN0o",
+					"https://drive.google.com/uc?id=1PEhg3NMGsnD5XXqWqYcY765pYnqVQ9O1",
+					"https://drive.google.com/uc?id=1TYaFPsaCwSlQ_Ur1S8a1JQyKE5S9VNms",
+					"https://drive.google.com/uc?id=1A3QqrE4OEXQqk_APWbHWbjhXWgq1hEVS",
+					"https://drive.google.com/uc?id=1-KmUQXTB92O1V0bxcfnigoljHIdPVOO_",
+					"https://drive.google.com/uc?id=1Nen_a7HZTvy_HxKXMuRK-4kA2x97-iCm",
+					"https://drive.google.com/uc?id=1-QRztfBWIKGs9Q7j7SeU1wx3nwHUfl8a",
+					"https://drive.google.com/uc?id=1jbwB-MVvHWLbsz_cG_7aHMaVfzF6t64L",
+					"https://drive.google.com/uc?id=14z4ZXVTN4cmziwE4EV2pcOl0JH5LYy5B",
+					"https://drive.google.com/uc?id=1uuhUX-Sdy2r_HKZ06Kj5l-mF2h488adD",
+					"https://drive.google.com/uc?id=1T6taGk2uA7tchXniJLIzOGqhGyRTfSXi",
+					"https://drive.google.com/uc?id=1nY_dmDcOhaIifyYBmsERqlzzDQDZ0TSp",
+					"https://drive.google.com/uc?id=1NA_qhsRaTIqY0GGSFF3yJuARk5H_1LC7",
+					"https://drive.google.com/uc?id=1PX1YwE5ySWcPB387MX0lQcFIqpbXPnC8",
+					"https://drive.google.com/uc?id=1tSr13FRReoeaTKQMPZPddBCa62p3123c",
+					"https://drive.google.com/uc?id=186veRBUKXE9Ta6ibQLPw5ZZNVpCOZjNt",
+					"https://drive.google.com/uc?id=1t3O3epRu3Z2cAfGsvpYkKFWd_RGAR7Nh",
+					"https://drive.google.com/uc?id=1BPLsN1UC07_mO_jNmgEF0hnzitra3OWy",
+					"https://drive.google.com/uc?id=1yW8cM4AGa-gAZo1WW278NkoG0FwvEVOP",
+					"https://drive.google.com/uc?id=1bj3W8QWairD3ss7Ehg3fTE-yyk1fWpQ0"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"38": {
+			"title": "Chapter 038",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=15wORZfI0NOnzfShfmK-CUEnu90VD83iA",
+					"https://drive.google.com/uc?id=1ThUc9AWR6UCJrN41EqCvblbE9Uc77Bu_",
+					"https://drive.google.com/uc?id=10fRsfhSUlN25dhEF4eqegqpdRU3ZpDL4",
+					"https://drive.google.com/uc?id=1XG0B7OtrA4xSZVytD47wwJxVFNve4kjP",
+					"https://drive.google.com/uc?id=1LGiHOsIh5jS99rBHp4imJMGVs1be4sbe",
+					"https://drive.google.com/uc?id=1gF53dZP32Rh9PYlT0gwuExT-AOHg6FGK",
+					"https://drive.google.com/uc?id=1UUmqNnamIhICfaPsvXWJ5SCSIGjQaUPM",
+					"https://drive.google.com/uc?id=1i4vMtBl-h_qJRhYSRP4dgjMMaztpOhfR",
+					"https://drive.google.com/uc?id=1PlvPJRdpbc2awj7Z2WLlmoUhdtS8X-_h",
+					"https://drive.google.com/uc?id=13lOkCUmOoYpcwGw6I7VVOD2PXUgLz8yR",
+					"https://drive.google.com/uc?id=1QcuEfj3Xo_tvCS-M6qeElAaHcpMuS-x3",
+					"https://drive.google.com/uc?id=1CqBHC3Jv9aLg6uwKIVPaytBwJTd-UOnf",
+					"https://drive.google.com/uc?id=1mmCTpNNQAnruqAX2s2Tzwre6fYgQaGcR",
+					"https://drive.google.com/uc?id=1-Z6grqBSJRX28IPBhI2Y8g827rORaaRb",
+					"https://drive.google.com/uc?id=1Kn5xKnYFNBSLfMrYcb8bpCS6iB0cNY9H",
+					"https://drive.google.com/uc?id=1E1OsszfVU6vRWgKVicJmoeC_jg7jx9Hj",
+					"https://drive.google.com/uc?id=1B-Ab2_AR2QqjtkRMIYJVfD0ypoqUQtDH",
+					"https://drive.google.com/uc?id=1kowDR2hYgXh1vTvhWxYsevB69ikBqawK",
+					"https://drive.google.com/uc?id=1v36rZj8xGTGM9_p7CbSJfxskp7XYdYXw",
+					"https://drive.google.com/uc?id=1EnEdeB6tpLx1Q60oV2gOJarZhsmhJdJ-"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"39": {
+			"title": "Chapter 039",
+			"volume": "5",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=14fJbS18Q8heEi42i5HkH5iwCKm47s7XM",
+					"https://drive.google.com/uc?id=1EB2kc8s0-zGw-xHsqjeAlNYbm2ovU33S",
+					"https://drive.google.com/uc?id=1fIOSOVs7YFWCmVfZ55Jt4KAtskPGXWVC",
+					"https://drive.google.com/uc?id=1j1W5h-dUYrMMGKNCeIzYcAjswex3u-VJ",
+					"https://drive.google.com/uc?id=1lpS5Xrrzpc6a4UzvDVHNw3i1-ssSd4pp",
+					"https://drive.google.com/uc?id=1MyP02Axku1fKfsF0LFOzIN37DDDtYMTt",
+					"https://drive.google.com/uc?id=1vFDt_APS2fApM6sflkXqlEvtwNFKDFG5",
+					"https://drive.google.com/uc?id=1yGNGjx-vaO-NEwZkxpNb5puC0M4K0qqn",
+					"https://drive.google.com/uc?id=1EPa8iazyopLFrnwzkDq0wJxcNuM43U2G",
+					"https://drive.google.com/uc?id=1BjCYC1pqLglM5ek9GV2HPCr3bzh2Z0ko",
+					"https://drive.google.com/uc?id=1u39dwtoMCv8Wxck3OO4T8xuJ2dtXJsb7",
+					"https://drive.google.com/uc?id=18YiORpyCnASmVjEikUfTjF3w-bw-q4ut",
+					"https://drive.google.com/uc?id=1g0hXpRHssy2YZGLQvsAXDrJiVlfnokHk",
+					"https://drive.google.com/uc?id=1iDQ3cnRRkF_ldHg-4PFfaeuPEVo_wYi1",
+					"https://drive.google.com/uc?id=1dHToA8Ek6MRUrdHWqWCAR83QZvac4M52",
+					"https://drive.google.com/uc?id=17zGL7B8uKNVUO8N72MPNHQ_DujENEFAt",
+					"https://drive.google.com/uc?id=1aLPmimgoR7VEqQUpdVeBRABcEnryCFjO",
+					"https://drive.google.com/uc?id=18t2Y25NI0Jn5Itrf9beZCcs8oH7Ed2mO"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"40": {
+			"title": "Chapter 040",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1B5WKhD1zFyyJI699TBWtkOlQFwuHH6U2",
+					"https://drive.google.com/uc?id=12ABRf8FjjuyTfDC-J5YWQPK6Be2q3uTV",
+					"https://drive.google.com/uc?id=1vGHHZWEwhDSkl1E5XDIr1hzB_1_eCNSc",
+					"https://drive.google.com/uc?id=1AXYQs8BTtpWVBbsqd_Znxd2V7lfyVfk7",
+					"https://drive.google.com/uc?id=1PY0rG1nuGxmL8Mdn1JE2j-IHrr2usJav",
+					"https://drive.google.com/uc?id=1Sb_V-Wu73LSNips2usbn1MQeSyqPSS9r",
+					"https://drive.google.com/uc?id=1PEfbE_HLDYZYBCt-4b1Eq517zz4AJVa8",
+					"https://drive.google.com/uc?id=147K9F0VIcvk_SA8GsAPSitmh0ypeF2-5",
+					"https://drive.google.com/uc?id=1e2-7ZVvUSqTNQRi3YqXYP17cABVq8AH5",
+					"https://drive.google.com/uc?id=1cnNpLBDT4Jd5aAJ4KFjVMF1EHhwFix1D",
+					"https://drive.google.com/uc?id=1yeKL5mNt9e9QCmPbAgIiUJpPk0tvB61I",
+					"https://drive.google.com/uc?id=1PPPbvHa7YgFDKT4rMGlBP5P-4JKOKmgC",
+					"https://drive.google.com/uc?id=1cNC4QVK17XQkzCHY4DnqbHouMHtnvGcl",
+					"https://drive.google.com/uc?id=1cCfl76FWtkN7J52eSO1Qsv8tG16Xr-Pn",
+					"https://drive.google.com/uc?id=1nkHoEcy-C_fCXmNBEZwuFmte7c0bT4A0",
+					"https://drive.google.com/uc?id=1kneBFU6DLlMVhLKJuOcjM1ZYJ6DSKcvg",
+					"https://drive.google.com/uc?id=1fz8c7wB0CO9fg1oWIq_xVLOofenOmZE4",
+					"https://drive.google.com/uc?id=1-lcxgnrSX9fwT4VFPDup2Zj7gbLNXUge",
+					"https://drive.google.com/uc?id=1OkjtE8J_UvV2HbV8H_6iChliK98C3bxQ",
+					"https://drive.google.com/uc?id=1T1ZqclG06bj0uERLmACOl4_kfjhJGzJl",
+					"https://drive.google.com/uc?id=1FKCQE8An7KKyzNELHQZunsxCkSiJFVez",
+					"https://drive.google.com/uc?id=1u-Uvavh97q7ugzBEWQ9xz0VR8TZ6dhYs",
+					"https://drive.google.com/uc?id=14H-t98w-MEfK000RAjCNXvtDazDyEAGZ",
+					"https://drive.google.com/uc?id=1hqtWDxmBE16yaRyukFTrtVI9QoFde7S1",
+					"https://drive.google.com/uc?id=1SdQ388cifAUVECzMlU4m-LJstw7Bm16_",
+					"https://drive.google.com/uc?id=1Z7UbXeVNLUAcq1YQ3PPdyCJm7mEU0eCa",
+					"https://drive.google.com/uc?id=1IG6yhCrXsOXS-AZDtKcXqi2CoN5Fbv72",
+					"https://drive.google.com/uc?id=1Q-3WprURXyd2OnhOqdfg7b_RaZIGdnX9"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"41": {
+			"title": "Chapter 041",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=12FS5WcvC5wYFvcZshiRaXffMedo7F2qu",
+					"https://drive.google.com/uc?id=1YQgNj-f_TZq_6bjsvSwLXtadXQAU8nQk",
+					"https://drive.google.com/uc?id=16Przk1REV2th_r6ZwwT2pm-OVpegiaDh",
+					"https://drive.google.com/uc?id=1o4uEcL1IIwvc9NZwdtYMmrR38-pJauG-",
+					"https://drive.google.com/uc?id=1uxQ4yCorXPGttmjPfoAxgP-iSf0mNbmn",
+					"https://drive.google.com/uc?id=19XWBvzljV-yACzUUFpMiihCWHkD3li7s",
+					"https://drive.google.com/uc?id=1swxweJQKUd4LxskBe-2VOr5iB1wad6Ux",
+					"https://drive.google.com/uc?id=1jAKJF7DUgEAMXtccdGFSpySsEpWfW0vw",
+					"https://drive.google.com/uc?id=1aO3J6W9KZzYSgiUtyE9k21puNmr8N_pq",
+					"https://drive.google.com/uc?id=1ihHwKDAaIShurIpdhSeb1DzGiTQHp6AG",
+					"https://drive.google.com/uc?id=1V_klvriVgPunJ_yG4_v1cG94QdK-nBdj",
+					"https://drive.google.com/uc?id=1k-FiNcjy1LS3qUSkpCq6mqZSxrUsAzGV",
+					"https://drive.google.com/uc?id=1Gfd1jULSF_dKtCbApOJ2jkgsnhI_s1fW",
+					"https://drive.google.com/uc?id=1kzGZUgaH9kuP7fIXgkl-mtqQkA3q6Hzq",
+					"https://drive.google.com/uc?id=1QCh_9u7zudoOYKhxkythnFQee7uukxau",
+					"https://drive.google.com/uc?id=1QzpOXR9QbwLbJst_JmvnHIZxPxkv0KU3",
+					"https://drive.google.com/uc?id=1JGoIrfAA5RNEroKJYgknHweesDguEj73",
+					"https://drive.google.com/uc?id=1sgEY64aCQhM62gfXHe0sowOyLpR0NqCE",
+					"https://drive.google.com/uc?id=10tOIkVtRmleucBDZ4yitMayzisEoui3r",
+					"https://drive.google.com/uc?id=1jte3mnk4wV48UkP0YVZYoxCE6tRtrFNa"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"42": {
+			"title": "Chapter 042",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=19KXpDHkVpDzohj0jEaIQDjS2IXTTc9CN",
+					"https://drive.google.com/uc?id=1bpwyCtN_J8x1S5moR4s1o-lCTZ4jv4RH",
+					"https://drive.google.com/uc?id=1LBebcJ2MzmWFLswvcwKezIIMilJMpJR7",
+					"https://drive.google.com/uc?id=1uTtarzs49n7rxZzJ8GFNnlewUx6FNdsj",
+					"https://drive.google.com/uc?id=1Yte_50F261Voh-fp6O0xxN8rcf568Mu9",
+					"https://drive.google.com/uc?id=1rCo4QamNp3i6t87cJR6fDDNna7_KfE4a",
+					"https://drive.google.com/uc?id=17xQvSaBMlt3WMFaYTlL0Hso2dA2foA7p",
+					"https://drive.google.com/uc?id=1i2aa0sDasMojWMLupy3Um6lvZN0b9fK3",
+					"https://drive.google.com/uc?id=1lSSy8L9Z5eK_WAb6eiwb2PODMfCjMnYk",
+					"https://drive.google.com/uc?id=17UYOGLhO3ro47qMlkUfS9Oi1sPJnza85",
+					"https://drive.google.com/uc?id=1BZF72UjieGnFCIcarc7_czCMtrxNVqfc",
+					"https://drive.google.com/uc?id=1_kinXihkyJsi-1iOy3HzPUgPGYpk0F5p",
+					"https://drive.google.com/uc?id=17C9lgKKTtXrk_dylgQ4nc5gNL7PJTDPP",
+					"https://drive.google.com/uc?id=1RACkQLkWoPETjS3uRf6MCzOmNN8IIP8R",
+					"https://drive.google.com/uc?id=1fkWfdhlncnhreyeUIHEFuJD3utDW_oDQ",
+					"https://drive.google.com/uc?id=1Jt0MWkMskJkgeUUXmVc1pyklUdDEAnqu",
+					"https://drive.google.com/uc?id=1ZHMOnDq26kOaTb-nw9dCNbWpEvLrhYu8",
+					"https://drive.google.com/uc?id=1P2e29eNoDV8a-_hGrJj9gywymRPVXKrU",
+					"https://drive.google.com/uc?id=1gZA4B5OiewjayNZEGmpdNRrBgHxhSTJA",
+					"https://drive.google.com/uc?id=18tdXr-_YNY1faGhbhKARupgtjgcQQrSK"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"43": {
+			"title": "Chapter 043",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1mrq1gQC6uCGg9whHHgrOO0AqNJm8cyha",
+					"https://drive.google.com/uc?id=1MfUMkN5aHMXF2H_SWck9A-8zoCcOwkWF",
+					"https://drive.google.com/uc?id=1bUU7NIuZSm8FZM5srL2CZiqqObgV8ut0",
+					"https://drive.google.com/uc?id=12RAyLBI8KGsByxaFn92rp0vBp1CaHb59",
+					"https://drive.google.com/uc?id=1H__qsOfXcukjrhqe2wMZZJOzZRXajAYz",
+					"https://drive.google.com/uc?id=1olcFkOOM7bUjrYH5uP4CVyERw3RbkPvX",
+					"https://drive.google.com/uc?id=1Gu7hhm3tae3a5dZZEIhC2Rfh4eexD9vr",
+					"https://drive.google.com/uc?id=1QzUEgR3hSWG893s964I6K9jfR_HVchnk",
+					"https://drive.google.com/uc?id=1hCcrqKTGiWnv43ty8DP14BMwK9xvPneR",
+					"https://drive.google.com/uc?id=1MwQQPkGxoen3upYRYo7XPY52T4dJSAqP",
+					"https://drive.google.com/uc?id=1pyb0dgkPKVkzesn9_WvwjmU-v7qdA6N_",
+					"https://drive.google.com/uc?id=1RQ8VVfMhR6F8GT9DJP-GwiIKyVHwlUxd",
+					"https://drive.google.com/uc?id=1TlehoWm457jhEOb8_nJ7SJMsKZCXUrgY",
+					"https://drive.google.com/uc?id=1w1uevEoKhelGrfEGfHDHT8g66xvKFhsg",
+					"https://drive.google.com/uc?id=1P1viz_33zLh9KutJU80hA2xibH_xavIk",
+					"https://drive.google.com/uc?id=1nPV_5t2XSquKbQneIepZo7ScZEq9qiBv",
+					"https://drive.google.com/uc?id=1Ggu6vgde0_UuMNpg5KncfmJ4qKNX5TyU",
+					"https://drive.google.com/uc?id=16pW94Ke7_-ox0SagOdS6CR8CihLZ66yq",
+					"https://drive.google.com/uc?id=1g5qwhLb6VyrvH6RhT0Mrify9JVWksOV3",
+					"https://drive.google.com/uc?id=1h9C8eA4cxZ_53UmjdIupguXo_GfC_aa1"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"44": {
+			"title": "Chapter 044",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1PVmQMZUJQy7W4Ehx1oQn1-So-Dcz0E80",
+					"https://drive.google.com/uc?id=1dXbOowi07eKDVRAOyXUtkbv367nzi51E",
+					"https://drive.google.com/uc?id=1Mp3OJe0wd0HGtM1ZUXs0nyvkIPt3VUUw",
+					"https://drive.google.com/uc?id=1VDf1p9FI42iFmNHCsb-HkLxb8Ai-6p8w",
+					"https://drive.google.com/uc?id=1oZu-uZ8IiRWGkkvKCD7PVj9-x6UM__6H",
+					"https://drive.google.com/uc?id=1TcmjGWR0ckJCbop66fpUF7u8FROPlLmC",
+					"https://drive.google.com/uc?id=1sy9mqevhpp_M4DyYkY3HmDnDquSEuNWI",
+					"https://drive.google.com/uc?id=1uRIOz_4XuYGlPWzqmN2Vd0lH4DuqEeiK",
+					"https://drive.google.com/uc?id=1vVfQKWu_trAY86w_nttbk609pOWZ9jEo",
+					"https://drive.google.com/uc?id=1USxQ4a4TLt6q4MhK_w5Av_uZLt1lL6dm",
+					"https://drive.google.com/uc?id=1LfBQv6OGG0BCh8DNrTMYNeBqd5T81_UX",
+					"https://drive.google.com/uc?id=1ScsAMml_CsTC4Fk-MAgFvFxgY-XvZ0vC",
+					"https://drive.google.com/uc?id=1lyxH11xqBtfg-fv5VikqdEnfvpIOscJj",
+					"https://drive.google.com/uc?id=1NOI6ZYNBuM8SfhRA5LaHFlgrSMt6-6Ge",
+					"https://drive.google.com/uc?id=1y93zkOVIdmkXzYWmuFYdFRDHXk7nKFpi",
+					"https://drive.google.com/uc?id=1IfUHS2ASwS-f8XelktLk_28dXGcj2z8a",
+					"https://drive.google.com/uc?id=1cPVeyi2SJXI_KEbMQb6YVeg7tsD-CY9M",
+					"https://drive.google.com/uc?id=1bQAglSOKlr6CnGNUCIcoH1trkjmFgCWW",
+					"https://drive.google.com/uc?id=1V8hEVokgnRYvfP6hIvHNkVydm9InNQme",
+					"https://drive.google.com/uc?id=1obfju8UBp5WFI6Mv8U4ylmlamcAFEVYm"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"45": {
+			"title": "Chapter 045",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1aJkDr-J5XcMXpDMaYEwNCQwQBwwfFVsB",
+					"https://drive.google.com/uc?id=1iquHvBOn_LdYOTo1dgvPAvF2X0IkSmfI",
+					"https://drive.google.com/uc?id=1oAdTu1ajAtKGailW420McgR-4WfEBDcF",
+					"https://drive.google.com/uc?id=1wLooTntGvxvvMzml9ppSXyI7LDkCiTrd",
+					"https://drive.google.com/uc?id=1FhBuQrL-MWQ3MLPjdYk1VloT5o54Wr0l",
+					"https://drive.google.com/uc?id=1CdLN-SrrhFEveoNQxHPXPBtzFSUd4YsD",
+					"https://drive.google.com/uc?id=1IsPil_zFSeW61QaqlUR9rXWSunuzztFl",
+					"https://drive.google.com/uc?id=13vviODvZU475_HCkbBpwLkl1VmQY7-yo",
+					"https://drive.google.com/uc?id=1TmHNXpiOLob7zVI11dRUCpQMhUPCSrtV",
+					"https://drive.google.com/uc?id=1B820ZtsFPULrPixpuDwuJN5BiWzh7Yte",
+					"https://drive.google.com/uc?id=1NLuO9267Vz_AE8_1M47keuCJksz2lBxD",
+					"https://drive.google.com/uc?id=1KClmVhykPDjJ8JGVQrU9DowsHe7kDu2l",
+					"https://drive.google.com/uc?id=1oTrWaxCzqgRBzB9rR8Gd2dG_4HjNPfh9",
+					"https://drive.google.com/uc?id=1NINdO54PBxQ26gNOG9hzJdS1B-RTzLp_",
+					"https://drive.google.com/uc?id=1Hfkpc_j6eF_S7aayL7-kTR9rM_9K5Y8D",
+					"https://drive.google.com/uc?id=1VE_rPi1oElmM2JUreGzVYDUBgi7AswA2",
+					"https://drive.google.com/uc?id=1QlHl39tYiS4bQGTv9zdQSBXB84kki1h6",
+					"https://drive.google.com/uc?id=1bgBqm5tAw8nfmdHHtifE66EuCUTOJYJF",
+					"https://drive.google.com/uc?id=12lPa7JryA13JDO2NyBBFHFMuYTMFWzUg",
+					"https://drive.google.com/uc?id=1-fR8c0N2ODGZspmkwX1hp7bxM56JQQct"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"46": {
+			"title": "Chapter 046",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1n6cjDE-GDxgt7TsduZ8MfqroeoJBPPcg",
+					"https://drive.google.com/uc?id=1x1v45u879iuCe-epQfZUlS9vEHhSYQcb",
+					"https://drive.google.com/uc?id=1rlAyML1P9HR8heW_JyuzdqFR7Y5zhA0B",
+					"https://drive.google.com/uc?id=1ukjZY-428H5FusDykYrdTbiH8ZwqSJ3H",
+					"https://drive.google.com/uc?id=10cqsVZCuUzkcd0lhuK-u3yyAeHitWhMD",
+					"https://drive.google.com/uc?id=15fCxtCpQtv3oqT3EDGcPVXiJO6zJa5NY",
+					"https://drive.google.com/uc?id=1Wkh4mhvAqTQhikSROhd3gIZ6XJdIOt8s",
+					"https://drive.google.com/uc?id=1wHEURh_fPtFMdog9sKLVabQV8dsuJPCO",
+					"https://drive.google.com/uc?id=195II1NqBe9nPxnS85Rfkgcug39Wcrf13",
+					"https://drive.google.com/uc?id=1fQmh8-PEbTcs5dw6Da2xm1odGfQQILVU",
+					"https://drive.google.com/uc?id=1y9_ww9PjlO34MN7gsRIWMjNIUbCuNNbw",
+					"https://drive.google.com/uc?id=1nNBqc8KvGeE_L6TIVsC9hwx_ZNw29ya9",
+					"https://drive.google.com/uc?id=1QO9uSGTWhjC6YfwAePMwoauBxLQPpMeE",
+					"https://drive.google.com/uc?id=1beHOenWou-KGs-gGZuIDvN2pU9qux7a1",
+					"https://drive.google.com/uc?id=1REEsgQtmP5ttvKEjtUkkRZSY4HudGY3d",
+					"https://drive.google.com/uc?id=1hxN0i5fIp_v0Oqv4E2QOPUJylC4wgXi3",
+					"https://drive.google.com/uc?id=1oJAyzpfdQcrxccr2hWHSGQcMUxqoeykz",
+					"https://drive.google.com/uc?id=1FjXL5REcz4YIdJkxtA__EECf8uW2Hwn9",
+					"https://drive.google.com/uc?id=1_Crp9SZNweSjfbJhiJPRFrsgegCd05JD",
+					"https://drive.google.com/uc?id=13qH6Vbxl57kz9c953iUcRzKswpWxA0Op"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"47": {
+			"title": "Chapter 047",
+			"volume": "6",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1TrczEnVhWGqe8uStkrF-fc9R0Kmb_UYD",
+					"https://drive.google.com/uc?id=13DFyr5XMvwxCadlm7nb86ZDBpp67bchA",
+					"https://drive.google.com/uc?id=10gyHOBy8wsbMiI6IdpTgj8qNydJAXDTM",
+					"https://drive.google.com/uc?id=1-3TVCEG_kvLjUp0I67yY2Xr2ljhqK6yk",
+					"https://drive.google.com/uc?id=1az0weSarmgRu2o_La0fQKf_7fkqRONbO",
+					"https://drive.google.com/uc?id=1WVUCUQQz3190xLtrXkhwzbeCSqcdY0Dy",
+					"https://drive.google.com/uc?id=1YELpnwLcn1Rc3Q3smJVdHFiWCzlACq-E",
+					"https://drive.google.com/uc?id=177oFL7N7fZe4kxm4-LG6Lg0cYmV1jjEg",
+					"https://drive.google.com/uc?id=1UWvyOks162vmP5fBbiMDfqa1LWJz-69T",
+					"https://drive.google.com/uc?id=1kkLIkY4dI2rz13lJYZqYW0kJ5zLEbrAq",
+					"https://drive.google.com/uc?id=1guHsE-i1fk86odjeEXXS8YhhNGzLTdQi",
+					"https://drive.google.com/uc?id=1wqv8yIjG9nzcoHCgWOJxVlIqc0Bu504L",
+					"https://drive.google.com/uc?id=1oWtqJ4Wsz_jWnpVn1vvZX0B9bidBY-sM",
+					"https://drive.google.com/uc?id=1hn4R55kZd5uYXAWhKnM9icHvWkCOHg2S",
+					"https://drive.google.com/uc?id=14eOMUSiqbegx2D7ZNIefvUvNP-cwFFNz",
+					"https://drive.google.com/uc?id=1K1-nZa0YpPbbxKqPXdpSjXDLVmBSzGwL",
+					"https://drive.google.com/uc?id=1IItxl9I3KH22escI0TVYEDqnP9WLGwUf",
+					"https://drive.google.com/uc?id=18C6JDxaaL-kXDKInI5ZOWm1gUpPjY2-j",
+					"https://drive.google.com/uc?id=1Ior5DyCqoQmLdrZ9LGSSd1PLRa98b9-u",
+					"https://drive.google.com/uc?id=1scsqidAVymmoGTazi1Cx_s_2EQZmfc-e",
+					"https://drive.google.com/uc?id=1y_Pu92iA4xCvQLNEG14HrZu2xsFRMmEd"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"48": {
+			"title": "Chapter 048",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=139n26CocYLC9KkvG7E3Vdl6XWOvWiH4T",
+					"https://drive.google.com/uc?id=1rb4rHGL2ukKaVO1GQ6tZV4HFgrJJ5Ohg",
+					"https://drive.google.com/uc?id=1nX1kEhuNHvZe3UPx_qvrT4NYBAdisKEZ",
+					"https://drive.google.com/uc?id=1ycnFKJYzq11De_aIe73zUUNuyWnY2p6j",
+					"https://drive.google.com/uc?id=1GygopRTFtn7hRoHaUOinG3hYKkkOAtEA",
+					"https://drive.google.com/uc?id=1Fge1ID7-BinYuSIwtL_cqtr4RfWoLW-X",
+					"https://drive.google.com/uc?id=13R9Ah3sVDw_3877NUSoOYbE9tD52nSuj",
+					"https://drive.google.com/uc?id=11wpBJvvA9Cbu8zHUGYpi-4HQxrbGpeN0",
+					"https://drive.google.com/uc?id=19vdgqHI9DHcqu-Fae3TXQp_Tm06hcztF",
+					"https://drive.google.com/uc?id=1NxBghJXrZgLUO3Y3nGnYg-6NLX5AYUwO",
+					"https://drive.google.com/uc?id=1NSItU1TC93A_RpZQBY8ZeyUgq-yhfqcq",
+					"https://drive.google.com/uc?id=1K_hwzJ3mpjqMhC0xsF-upLMG801RIW25",
+					"https://drive.google.com/uc?id=1CQsNQDkUITExa_zTVH4y3z0UgRGL7uq8",
+					"https://drive.google.com/uc?id=1BFclL5VYHrN0VSqvZILZmOfd-CFhWZMf",
+					"https://drive.google.com/uc?id=1g_i8YufYT-i3ruO7CBhWP-PJPBer9X1b",
+					"https://drive.google.com/uc?id=1cIIjgzErEcWFJvhCNsa6m5N04zhyligc",
+					"https://drive.google.com/uc?id=1zXOhbt4k8e5z9HtJdfJ3rjv4eyKhGJOf",
+					"https://drive.google.com/uc?id=19PGT3RgHACcVmGtlrImEG8x4obIu8XIu",
+					"https://drive.google.com/uc?id=18tP82Qcp4jeTDeYEtv7Yvc1ownPfDyiy",
+					"https://drive.google.com/uc?id=1xQQmvQEYGEfKzPvj822XFjYXxcjRN5EP",
+					"https://drive.google.com/uc?id=1R07WvTO8WzeaTdIIvEpcIMvzrZNFeUUh",
+					"https://drive.google.com/uc?id=1zZN-YpRUzHi89lZOlC3Dg3KCpyegPp7c",
+					"https://drive.google.com/uc?id=1ZPMI6RHE1nRET06-BI4cBgEZb2wYkF79",
+					"https://drive.google.com/uc?id=1jKFSQirXH8J730NHjI-0Cm4D2Lf1t4NC"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"49": {
+			"title": "Chapter 049",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=16vMlc_05Ck6EcnG0CiReN7iZixIBwTEP",
+					"https://drive.google.com/uc?id=1gGblNjKz8WI1nSkfp3ywL37JIBxe-HeV",
+					"https://drive.google.com/uc?id=1qrijpX1zooIKI65q2IJER0ITxZDgUx2n",
+					"https://drive.google.com/uc?id=1wFC50GjlFCO7hpiahZunamrL70D6xHe-",
+					"https://drive.google.com/uc?id=1aD52fxu-ZZV5gfa18pOXGZwKCAwd1hjH",
+					"https://drive.google.com/uc?id=1vrL_iRN3n5GxyKuybWfb6F1Ii94UhXeX",
+					"https://drive.google.com/uc?id=1DzzwDXtmphJW3vP7V6SRwN1_HhLHbDtw",
+					"https://drive.google.com/uc?id=1vu2xrmle95ZF3yo4ErEjxI-mm2rDleGf",
+					"https://drive.google.com/uc?id=1lePVf4nlGU-vsEdXPx11itKdMnEp6cz2",
+					"https://drive.google.com/uc?id=1AgHubUVX0htnfSdb7i4sjoyNBVSU1gvu",
+					"https://drive.google.com/uc?id=1tOXA2S3MypGiJHpDyP34ECkU_LEHT44u",
+					"https://drive.google.com/uc?id=187pLHZ1OjLJwFVzwOBtHNwgiehUHss4A",
+					"https://drive.google.com/uc?id=1_h2lguegV6e9WV-3iB2vAU8xKiQTx04y",
+					"https://drive.google.com/uc?id=1JH8Bx9qpIKxHd7coznaRZmcJNFVEMr5R",
+					"https://drive.google.com/uc?id=1XfLJLjYOXcXeMyhKihOGGreZMQeaPqM3",
+					"https://drive.google.com/uc?id=1RUT0WBXJxSOXzmGcDYvEM3hkC8GnpRtW",
+					"https://drive.google.com/uc?id=1GxfceW8hXVK1aBIBm_MvHp0X_0FObG6u",
+					"https://drive.google.com/uc?id=12Ea9ybkUFMUO2y7IQQQvckGbtl3A393z",
+					"https://drive.google.com/uc?id=10cpFgsCcThz5S8Lw9PPfEDHVszNCCPhq",
+					"https://drive.google.com/uc?id=1u_54-NWK7ri4SQv7RZxrF03rokPzEyFb"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"50": {
+			"title": "Chapter 050",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1FJa-IHMQ1eVreskJfmooU-OQ9wfaBLHW",
+					"https://drive.google.com/uc?id=1muB8c-R_qHbApwdHWT7b_7La7RLYu09B",
+					"https://drive.google.com/uc?id=1vuW_gxZw1D2rsMPdl0S4C-2nzlpRVLCD",
+					"https://drive.google.com/uc?id=1mYnoaOnXQUm67t_tZhymQ5fP2RtdoA18",
+					"https://drive.google.com/uc?id=1CHjFSeUbNcrpAEEQgNJogE3xIcefBrGb",
+					"https://drive.google.com/uc?id=1Skgxc66EYs9w5pczKiFDhZgu3Yk020C0",
+					"https://drive.google.com/uc?id=1qgm5HU8JMYWj6RExA0ndzt8NaSRtyaKU",
+					"https://drive.google.com/uc?id=1HqOzxsd-MGc6KZMnIPXqDad6d4XGnrt_",
+					"https://drive.google.com/uc?id=1h4L_i7ttFEJcdvW0iKxqsK4ZnzC5yIWQ",
+					"https://drive.google.com/uc?id=14OIR3zlt8OAAnAG2evR0D8toLPJX1nOn",
+					"https://drive.google.com/uc?id=1LMJeVIdrvhmnR-_Lgheo8F9xbAY374zH",
+					"https://drive.google.com/uc?id=1elJ-I09vU2dKL6qJyoAOWQl5SHyZKr5e",
+					"https://drive.google.com/uc?id=1DWQs7y5kXu_pNJ7KbiLTNxyKnx9inAS9",
+					"https://drive.google.com/uc?id=16dFmR5JlmdqyuTogyVgZw1ngqQchkTu4",
+					"https://drive.google.com/uc?id=1Zv2j2ttS6qVHmYe0C7_0t8W01zaBsFUx",
+					"https://drive.google.com/uc?id=1O4RvVtL8HWEAG8h5DQlPj_K5g9KvhH-p",
+					"https://drive.google.com/uc?id=1-rHKSlR6k6Xlm66mnO5XohlPAwjEjBM1",
+					"https://drive.google.com/uc?id=1Tk6xBeb9Z0qYKUS9tg7kUxrjRB3n0f85",
+					"https://drive.google.com/uc?id=12fnNSADT6HJ5h9cme5JQNy6_IveDH6Wi",
+					"https://drive.google.com/uc?id=1x80PjL3d4KlsghOS1ypUEaF_Ziv0iFBK"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"51": {
+			"title": "Chapter 051",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=16Z5nHEBb0ENSg8f1YfnEjyyHFd6NBNES",
+					"https://drive.google.com/uc?id=1IR5Q-z-MKyVNMy0yacXSB5kovy1sKECc",
+					"https://drive.google.com/uc?id=10qgu0G_2yzkchOJ7HMHhfbL5961RzMDj",
+					"https://drive.google.com/uc?id=1DnE1iCnCEh0u986Ur8_petvUl4_vrECo",
+					"https://drive.google.com/uc?id=1d4M3BtbwSB0AV6ZRpx4rU0P0aGKOGQMR",
+					"https://drive.google.com/uc?id=1_0OEeSfKU6D2u99T7DoIpDwJXeJ2TIms",
+					"https://drive.google.com/uc?id=1rGPuOig4pMfunJ9JMCQH50HwOJRpcfui",
+					"https://drive.google.com/uc?id=1eR6GAddZye612qbHv6ebsfP5u4SWYG94",
+					"https://drive.google.com/uc?id=1q6WQvIJ1m0acNogz8ff4eVOVsUI7Pv4I",
+					"https://drive.google.com/uc?id=1YqWCFDfqq6XV9xNh8rQgnkd3vYqFrQYH",
+					"https://drive.google.com/uc?id=1clmtIXU3UFNfiKwNZ9CrbFUHDaY35C9H",
+					"https://drive.google.com/uc?id=1WSBT0dHuZLgLSxb6f754nAA7MR8A-biy",
+					"https://drive.google.com/uc?id=1Sv970wCkRHVSLatEX4N-7FzxOdYLJ_WJ",
+					"https://drive.google.com/uc?id=1lsV3l8xLoc2-DYMG_eYnSVHOeYZ3lS_U",
+					"https://drive.google.com/uc?id=1n06ZrPzEw9egSC9vXSic0vXnqwavlCUZ",
+					"https://drive.google.com/uc?id=1ae8h_0O-sWm_PLc3aE6DwXD04yBXDOJL",
+					"https://drive.google.com/uc?id=12l1ICu20jZD3fgy5BiNHDsSQTccgN6q4",
+					"https://drive.google.com/uc?id=1laPnZHP2qpU5f9TdgRXvo_sW018Ya7Wi",
+					"https://drive.google.com/uc?id=1hekeAJr9e5TQlNW706Agz-ZSz3JILRK8",
+					"https://drive.google.com/uc?id=1erTH868HArXlQ_cI_cUioJMYL8cvFTXe"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"52": {
+			"title": "Chapter 052",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=10BxJ-2X1SU8X8CF5j0Qooa7OWP2I2MC7",
+					"https://drive.google.com/uc?id=1_ciOtRmghEj7Hjn-fvd2LGzKeXGGiGnD",
+					"https://drive.google.com/uc?id=1sSC7IrbArDN9IbgQitVP8p8u_abgvQsU",
+					"https://drive.google.com/uc?id=1SfS1yWnp-EMoXvkbqe5Wrw-WaUGBRiGe",
+					"https://drive.google.com/uc?id=15VTiX_Nv1MIvCs4xxYfYVcUHZrlp3q5G",
+					"https://drive.google.com/uc?id=1Mm_lcQY0AlltbS5Vn7w1Hq5yA20iyGYV",
+					"https://drive.google.com/uc?id=1KWXnlZ96m_MIr_6rs3JUEupMFTq_ctUc",
+					"https://drive.google.com/uc?id=1uGP8FJtyvk1iq_x-GpnQ93wk60An2w3S",
+					"https://drive.google.com/uc?id=1FIxHbeu4chx0qzEPk2jl7FcIfPPyjT1O",
+					"https://drive.google.com/uc?id=12wqbROEGhFtzcDINGYp60m6ZIoWtmk9y",
+					"https://drive.google.com/uc?id=1zQDDiXZ7DPHJvGH5bANlZADSd0NqhPXO",
+					"https://drive.google.com/uc?id=1i2FWi3OY-KSMn8O2IlKwASenSkG1x-08",
+					"https://drive.google.com/uc?id=1JE_ktnJVjtYalOUqeV6iY43K1QUrYt2Y",
+					"https://drive.google.com/uc?id=1XXMROOeCZXLQNoqTS-KcsvXx3fIrrGpv",
+					"https://drive.google.com/uc?id=1RSYICZWaBehCraYhA7Yn1COjPSaNO4fv",
+					"https://drive.google.com/uc?id=1Uci3jORxmd3wnGbTNO7z4KqGYLY9_DZv",
+					"https://drive.google.com/uc?id=1IIdKrBmFlUK-LgQ257PSr0gxsKB_Iwuc",
+					"https://drive.google.com/uc?id=1UAs3W4ZPnU-aNz14j_6t3fbr5GFwkoeW",
+					"https://drive.google.com/uc?id=1cncaW56a7roK50Vu9bFXBnI_VudSYNJf",
+					"https://drive.google.com/uc?id=1BKZADfRfUAMat999Q-cJteNNfL9eTIIJ",
+					"https://drive.google.com/uc?id=1u5540K6_hgPfIFqBTBjrH3qjf7Ebx250"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"53": {
+			"title": "Chapter 053",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1MUgNDdTjV5NKuYYK2LvB0V059m7KoQ8O",
+					"https://drive.google.com/uc?id=1nrH1cE4YJ3nQS-jjpjHz99zHC0cD1CPG",
+					"https://drive.google.com/uc?id=1zhPmKNCFciRjlrp--N3SPaj1eC2YoTkA",
+					"https://drive.google.com/uc?id=1XD165eb-jk0eoEiLWZAkt7uWCHc_F9US",
+					"https://drive.google.com/uc?id=1Sy6zyE2_n-26NArux0LKVl5LejfsKwyp",
+					"https://drive.google.com/uc?id=1p8UuFsfwSELV7uBpVGm8RKiZupJAtiUO",
+					"https://drive.google.com/uc?id=17nzzQQM2YS-FlMOqmooqhkVzqDvTSP8O",
+					"https://drive.google.com/uc?id=1kkiEeTPvM8qgpotnPBCYqxCeIvwYiKV0",
+					"https://drive.google.com/uc?id=1TEM8wXTfsTcJz3RlZ7GIfZFf139AA3MB",
+					"https://drive.google.com/uc?id=1t3jb6bI61rQ3A-O3Kh_gqbS54qUyJKDw",
+					"https://drive.google.com/uc?id=1L_UZyM3SVG2_1rKWG8YQDNe-l41EGSJU",
+					"https://drive.google.com/uc?id=1yIr5DhaajBANcZRELTwTcsiC4f384qr3",
+					"https://drive.google.com/uc?id=194q1wijKJeekuQM8-HK85cAWqc2KLTt9",
+					"https://drive.google.com/uc?id=1RXfPQjCSzwcS2Hq5AjTEDz6XlLMcXyTN",
+					"https://drive.google.com/uc?id=1Qthuda_axu1bjRwKnr1mkXcKpyOnOh6f",
+					"https://drive.google.com/uc?id=1Cmz_V9iESvCjCSzSuEvcKjGX3Hx5Q7qd",
+					"https://drive.google.com/uc?id=1vgFn16INfe6SS1fwBlXizyrOdaevVF4d",
+					"https://drive.google.com/uc?id=1khASZ3q-TuOuA-fiSUmTSQ2WpiOdEA5-",
+					"https://drive.google.com/uc?id=1wGTLq_5YvnZ0Gw1cNLqnhU1X3Pyhm8AT",
+					"https://drive.google.com/uc?id=1pAMsb_vuOuF4AZSGFr-s2Vzy5vhiRXms"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"54": {
+			"title": "Chapter 054",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1LFDgtLNmPSqZuwsSEzX4Q66HA4sYMyYm",
+					"https://drive.google.com/uc?id=1Ap5wUyElIddd12XsthgjoErZCxcIjyQ-",
+					"https://drive.google.com/uc?id=1azhq_dcDdoVL786eGWYwXEG380ctzYZw",
+					"https://drive.google.com/uc?id=1hHYHlfgtdABlvhaJF7NRsPg32c_k-wCW",
+					"https://drive.google.com/uc?id=1j8x7wY12r-XEJn6Phb44XWEvF5T-91ia",
+					"https://drive.google.com/uc?id=1ShVLcXaf4YE9OeqL5lfoEbDftM10gZtr",
+					"https://drive.google.com/uc?id=1IXl1oFuXkFLw9TLUCGqWyg3BucFDkabV",
+					"https://drive.google.com/uc?id=1ZwGdOtx_sj-nRZEkMtGzt6pY0AMhfgoN",
+					"https://drive.google.com/uc?id=11j14xLUGVcaC8wWKGjy_xH1MzfjRRvqG",
+					"https://drive.google.com/uc?id=1YYxkDy7xsRv1oUiimjCQMOWrs757Vbo1",
+					"https://drive.google.com/uc?id=1yVM-hKR8XNwALPaan5d2W2PfEKD3cx27",
+					"https://drive.google.com/uc?id=1zT5XtWbYqc6KQ-VztnYvuPSYlFQhkKOW",
+					"https://drive.google.com/uc?id=1_aj2Lz4Zjq0aSRx6s7cI2DXImzxqJQCA",
+					"https://drive.google.com/uc?id=1sBFTEWeh9VBFCPnNIfaWi_xnjmfPax8A",
+					"https://drive.google.com/uc?id=1sc-jL7oCgfuLtxuvDXxOeR2dSvhdS5ak",
+					"https://drive.google.com/uc?id=1hsYpuGnk8lhzeREruKTHb-NAEe6ZcYCA",
+					"https://drive.google.com/uc?id=1lt5KvOw1qT1L9mLaTrJS3K-LHguimvuz",
+					"https://drive.google.com/uc?id=1tcSirqyFZlc-jIu9ZoR3ZjJJiGf5xxkX",
+					"https://drive.google.com/uc?id=108vcRlB0FnbYcFb74XRG09GD3Z_GecFv"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"55": {
+			"title": "Chapter 055",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Gfrpr36CuUDhv0GiJoDT1Pj-ndFECrqw",
+					"https://drive.google.com/uc?id=161OjLV12oysjxpsOzDfL4NUw-4hj-KW8",
+					"https://drive.google.com/uc?id=1VuZpcqis92xS9YJ1jcVs_rGEu3wwmL9k",
+					"https://drive.google.com/uc?id=1ea54T3OEfo6xAVYN0cstY78DEl0vg1Xl",
+					"https://drive.google.com/uc?id=1t-Y7WJTmO_pZw2WaRkzMyWzxp5KEfqB0",
+					"https://drive.google.com/uc?id=1huINprn_-DyYmXGFt-VCVd1SuRLfxcJB",
+					"https://drive.google.com/uc?id=1LPLy-xty7DlbgxIoXCzSm2mwnvndzXFg",
+					"https://drive.google.com/uc?id=11j9FYsGAjEYUQ7kdBxJ2mLrhgWkg_avV",
+					"https://drive.google.com/uc?id=1qxYWb1V_DKpAoX4IIGT8sNUcxl2cOnAs",
+					"https://drive.google.com/uc?id=1twG0f_HWhWhEVa-Zx9JvtMF27uGWlEd7",
+					"https://drive.google.com/uc?id=1dfUxLX4oC46rBk0q-K6BuIQ7KjiInlWb",
+					"https://drive.google.com/uc?id=1WXNSTfDoFEzVZUw5giTkTBmZETEZ7Nhl",
+					"https://drive.google.com/uc?id=1PDgaD8EgNyJFc6k6NtnBCC2UqoDBv3O1",
+					"https://drive.google.com/uc?id=1MYp6kvIejyS73P6o_z25IczsKpkuOGUI",
+					"https://drive.google.com/uc?id=1Gcc8rouwA4MMae1QtGj9XS0M32bgzY25",
+					"https://drive.google.com/uc?id=1VR1X9EhkUI94AW1guKur8q2DfsWvdl_I",
+					"https://drive.google.com/uc?id=18jHrhNkp1lBUVaC8OivqTKcxASFD_y6Y",
+					"https://drive.google.com/uc?id=1qTlUs_kLUaXt4ItrY61MXiE8mc0VuDAp",
+					"https://drive.google.com/uc?id=1CUp-KauWFBteb1a77PdMVe2geMWYebQV",
+					"https://drive.google.com/uc?id=1-WKfISJqGIQxgfDj3c4ymiz0RkKgDX26"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"56": {
+			"title": "Chapter 056",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1dSJPSMWVoPtlYRH19EeHzYdrgZ9rbssf",
+					"https://drive.google.com/uc?id=1hp5dwxFtKBXTgeiwxVkbBApGhdx5ySpw",
+					"https://drive.google.com/uc?id=1UON32EocFDZaR_Z_qXbh7OSamki9DeFw",
+					"https://drive.google.com/uc?id=1yowdVUpl73RRcubKTl1RHQqrWYNh-dz7",
+					"https://drive.google.com/uc?id=1AMXfZdnW8r9G1yAVPFNpLSsjY0n9b_j-",
+					"https://drive.google.com/uc?id=1OajeC7I6FAd6wQJF1gcygrNBjtIwUApx",
+					"https://drive.google.com/uc?id=1LXuICWayVVfyvpPSZjMn9o4iFtFHqmtt",
+					"https://drive.google.com/uc?id=1Y_0MwMzm5wbBcTEOm5MNOSf0vJi45XCk",
+					"https://drive.google.com/uc?id=1JsqJ8u67Qa1YBsu9hNd_GFcveKAayWfo",
+					"https://drive.google.com/uc?id=1JpdbXUACGDMukWrbVeI39SL2w1q2SRyS",
+					"https://drive.google.com/uc?id=140bNlWWI9CRhIqbfoRFT6LM-ujOepyIw",
+					"https://drive.google.com/uc?id=1l6bszYJhpP3xYN9WojjdgbYwK8xLOCNR",
+					"https://drive.google.com/uc?id=1GIWxDRU-ZQTkGV59OOpOjaxpzhdHemw2",
+					"https://drive.google.com/uc?id=13PQTb4v8bic8jIpYbaESBH4JF_w8Dc3v",
+					"https://drive.google.com/uc?id=1wG-MYAyjtfIkebNymWc5SpTkKLv2urCS",
+					"https://drive.google.com/uc?id=1CXF9kFjSLYkkGsn7G0f_OXGbeRxVSQ3P",
+					"https://drive.google.com/uc?id=1l-iPF_ecd_--uRipPIvkzfJgEfv-dxCX",
+					"https://drive.google.com/uc?id=1UK3sze30ke5MPrko_qdCyoQqreGl59zM",
+					"https://drive.google.com/uc?id=1IFB3GCOiFbeO2JjopMNbwYVI27f_bj2Y",
+					"https://drive.google.com/uc?id=1WMd49e-X9oHZCEpoYQpoidIaKsXu7XzL"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"57": {
+			"title": "Chapter 057",
+			"volume": "7",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Qllk5jmn2w3lscK-TAimQ1D0q-6iHDIH",
+					"https://drive.google.com/uc?id=1DForQ9UG451SZUkTiI33b68AbC_GBxWt",
+					"https://drive.google.com/uc?id=1Ia0BY-CkdQLBLapQHI30FvKJxMKtOghG",
+					"https://drive.google.com/uc?id=1i5iYnTqjlJ10mY65FI9CHoL55rwiKiwI",
+					"https://drive.google.com/uc?id=1FR3rvu6PN3M1nEHpESAiVOF7hTq88yaN",
+					"https://drive.google.com/uc?id=1yJVYEpz3Kx4zfFnpjgPU6HlliwYS-1nE",
+					"https://drive.google.com/uc?id=1qLus4vmFIG9Uypbv68FFA8kuFD-_fIMn",
+					"https://drive.google.com/uc?id=1wkJHaHUyZo-Xb33j5s0umM3ht000qfkw",
+					"https://drive.google.com/uc?id=181OeTYhtTEcOeH6X-rNDG45_MzmA3dwS",
+					"https://drive.google.com/uc?id=1okVQaoGSsw3OZmJ24CRmkQxB7Oa6Ho0g",
+					"https://drive.google.com/uc?id=1khGYjL_n05EsvIvAesfHa9d9d4qegSCw",
+					"https://drive.google.com/uc?id=1HRP2w7lhDklckLiGyc09TTBYjw3gPT7N",
+					"https://drive.google.com/uc?id=1NeADPPjrDhlv2Pv3J8Q31WXo_Cqg-NBa",
+					"https://drive.google.com/uc?id=1yHzNewj0xx854O7kyDP1Sc-_so6zEI5D",
+					"https://drive.google.com/uc?id=1xcpuTZ1wB7s98nY19jT6kh3yKK5WIhtZ",
+					"https://drive.google.com/uc?id=1oADGwALEQ9H5QfgFl2HnRFB-ypawGmyL",
+					"https://drive.google.com/uc?id=1RcfQ0OHEOLLgObLyrDnpY2wo1PAZnMhT",
+					"https://drive.google.com/uc?id=1sACbrHhaxdd4SdrW-FKkmWZ_dlX3xR-P",
+					"https://drive.google.com/uc?id=1cVCDlKDYtAAeeTdwfjvNhLqxSL4MENPY",
+					"https://drive.google.com/uc?id=1SUUADCUPTfZ2t2j1ZBiCmP1caRG0UpyA",
+					"https://drive.google.com/uc?id=11htbBNnZ8GEeg40OvERECZyv_ArjCyCU"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"58": {
+			"title": "Chapter 058",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=14MZBw8R9lz06ga-7INLuB4DMBixcgN_C",
+					"https://drive.google.com/uc?id=1wdpeJzMxXljCPUOtMGZYKdzuarqUUZ9W",
+					"https://drive.google.com/uc?id=1mxQ1I4xFftw-jM6LJ-_SHahA9mhCIgeM",
+					"https://drive.google.com/uc?id=1pqTPYnAYw9nuqUFH0FHd0T6OEuVPXGu9",
+					"https://drive.google.com/uc?id=1UO3QvDTNwkihIeg1g86mPv6uXea1nXRC",
+					"https://drive.google.com/uc?id=1iOnWSH9LBIVkcQN7_Tb9jK2es_lz-DGi",
+					"https://drive.google.com/uc?id=1-MYC7ytkCwjEgy8N5Q9QQVux34fSxtd0",
+					"https://drive.google.com/uc?id=1EaugFFqG8qAVXPRm1JPqzF5lPf3Ob0On",
+					"https://drive.google.com/uc?id=1zUmyzmBsAl4zp_dtlQI8mB9XhRlLUgWb",
+					"https://drive.google.com/uc?id=1TpKeIB58pz5srgxC0jItfH4SXfN3DOfd",
+					"https://drive.google.com/uc?id=1SIla4LahQpOXgDT00h03NAe0eCCb3xXF",
+					"https://drive.google.com/uc?id=1Cdfb_i4QK31VU5cW3JjNCbdEZnZjO8R_",
+					"https://drive.google.com/uc?id=1gPpaReXBstPSKhfAoQUYj-CSw1Oz0APJ",
+					"https://drive.google.com/uc?id=1kw1YgnFHvo9NpxCWx7qIHKhbsB5KZA4b",
+					"https://drive.google.com/uc?id=1vdjsptSV9XDeycPgLErQZU1-M-zi6PTB",
+					"https://drive.google.com/uc?id=1nhxPSwdYaCalSJqb1bRNEK_0Np_EeeOo",
+					"https://drive.google.com/uc?id=1sA6mRyEUbn1cxi8mdu6wN4D2Jq-BQZRJ",
+					"https://drive.google.com/uc?id=1ZSaWXSfZGt6T7yH128UHmqQgWmdIiH9W",
+					"https://drive.google.com/uc?id=1Liv0VZ1j8HInbtHfp_uj4dybnxTqjajL",
+					"https://drive.google.com/uc?id=15hi_DUjGCQ5G7VBWxpFn6wHxyMI_0_q1",
+					"https://drive.google.com/uc?id=18ItavYXi-PxFqi1zQ4owyjSLjjlR7RCp",
+					"https://drive.google.com/uc?id=1frrya0sraCndGuC_jBoQghgGqflnvVJu",
+					"https://drive.google.com/uc?id=1hqauz8uGfm33FZJxUjDTeyYs5qPt06W_",
+					"https://drive.google.com/uc?id=1z_hrGccVL1ibMOfbx7HkW45wwKZcrfLm"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"59": {
+			"title": "Chapter 059",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Chpt-HoeUziVrH6xfobaJfTGdO5I6FfH",
+					"https://drive.google.com/uc?id=1mA3xMrDWY9aj-ftyqf28Iqkmh6EgvyLJ",
+					"https://drive.google.com/uc?id=1K2OrtC21gBPvV93WGfW0oV-ucOWkro3h",
+					"https://drive.google.com/uc?id=1QDH6NDMEdNYBKO7n8qMfqAcJciVuLvV9",
+					"https://drive.google.com/uc?id=1zrr-6pIYmaD-uy6AXx2yvNSQskf0vIVs",
+					"https://drive.google.com/uc?id=12hzFeVWEMDDNyVXRubU0UQVnusKBc9NK",
+					"https://drive.google.com/uc?id=13XV8wvFN2gvxuTZCtzSj4RiSiVW4ixiN",
+					"https://drive.google.com/uc?id=1CSi_OvvJx6mz8KVockwcChryxVJoitwb",
+					"https://drive.google.com/uc?id=1VDA_4eLBbo-mNgzb8roQ5PXcQ5h6rG5Z",
+					"https://drive.google.com/uc?id=1rfqZEzp4ESL7_cwZTJpISzqhZmKhXYFR",
+					"https://drive.google.com/uc?id=1UEpIKrGkSNbGHnkQaS5kA5SrQlMYyCZM",
+					"https://drive.google.com/uc?id=1JMoBNJY2uMfT30d1k6PDzdd-5w8KrI16",
+					"https://drive.google.com/uc?id=1UOJIooI_MZwz2bJQoghmYz9XEBPAbM8L",
+					"https://drive.google.com/uc?id=158jEEL89MmUGBcxQun6dDTIgAQsTYleJ",
+					"https://drive.google.com/uc?id=1hzmL7qY_V8_187TxwSUCMMZDe_hzzB_4",
+					"https://drive.google.com/uc?id=1BBuFp9nKbOs8_d3f1Cex7oGPACUYX2wd",
+					"https://drive.google.com/uc?id=1suceroSC4EHYEi3fJlWTQDSyih2IW1K-",
+					"https://drive.google.com/uc?id=14dt5qU3p-IK2HPU_00pRPtBd9cOZt0qR",
+					"https://drive.google.com/uc?id=1QXGI0V6UF3R9IFkeTC-TLaOoXAngJELB",
+					"https://drive.google.com/uc?id=1F_aT0a21eaNmoi7c5MvlGTKb1-NXVOuY"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"60": {
+			"title": "Chapter 060",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1QfI1A1JXblzurD9zUCEsU9vHCGCq34qN",
+					"https://drive.google.com/uc?id=1twOtOZypavLPKmXdtdoYxnFPhjvb841i",
+					"https://drive.google.com/uc?id=1AzyhgIEJqNyAijmwfvYNIudkZTqh9JwX",
+					"https://drive.google.com/uc?id=1iP96h8b8Jw6WJbB9mhQh2XqmoiEenmh0",
+					"https://drive.google.com/uc?id=1r0cWxOE4jA-dh1xUfo2l9N64Rdc1IvsX",
+					"https://drive.google.com/uc?id=1fUw3fh7_tImPH7bBGcBloPBtYjHRtmIL",
+					"https://drive.google.com/uc?id=1x-tgW7ZERBRDMaIu6aWK4zHZPDec0xpf",
+					"https://drive.google.com/uc?id=1yjDZO07OV_qalo1w4nhweCxYKpbLW3yU",
+					"https://drive.google.com/uc?id=15T44crYqrBmP7cIivaKxLlTWgCRMqnVB",
+					"https://drive.google.com/uc?id=1LdwQ0rjF3ryKOlc8jKJ8sKcNyM01gTUt",
+					"https://drive.google.com/uc?id=1rtNVH5mV1cMy1XqwenUd3CPPUDN7b3_5",
+					"https://drive.google.com/uc?id=1THBGut_Nf7m_ZC09RglzGjdxIwDzIgTI",
+					"https://drive.google.com/uc?id=1_tnckU9UKjxFwll-raANfcXX9kFIrzKZ",
+					"https://drive.google.com/uc?id=16KurL2dom9A5DCm6gPaTHQqZlv5zu_fK",
+					"https://drive.google.com/uc?id=1juyK_Nme2Yzrfxj7xNg0u1UbBHRZX2uU",
+					"https://drive.google.com/uc?id=1HVq3gsc8STm1VOpcxu40JiGdmoLs281D",
+					"https://drive.google.com/uc?id=168UsD8sKLAf8vG753hNV0hJoJp3SOjnm",
+					"https://drive.google.com/uc?id=1Lt6DK61DBAx5AdbD_ZDUV7HfR6kfaKo6",
+					"https://drive.google.com/uc?id=154ezfWCSBcm5Pp3uhwMbFABS4tlhOUd2",
+					"https://drive.google.com/uc?id=1DLPS0ic4YaIxEJ7FriDg4GZrhjs2oTtA"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"61": {
+			"title": "Chapter 061",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1CYhKB9ElC-rqrCpJDvcoFKTWLuyZug4l",
+					"https://drive.google.com/uc?id=12aeOvceDApWZjcNWwfTkzeYAsoXi6TE1",
+					"https://drive.google.com/uc?id=1lRsc6OjtH3WB3gQ1ljoZbPr4h7PggnGs",
+					"https://drive.google.com/uc?id=1ThAyfs0F9rqvUDa2e9S9BDFyeXjuS0EL",
+					"https://drive.google.com/uc?id=1RZkFEHZXlxNLRwPWKKihXL6PAMzEH7sd",
+					"https://drive.google.com/uc?id=1fAGdGD2rT_6UUGGRYaNEzsYS4HB-W23Z",
+					"https://drive.google.com/uc?id=1odpXamEevYcoP6zkSkin7qVGSWHE8pP3",
+					"https://drive.google.com/uc?id=15qCgMYp3PImrrSgdBmLXjzp0w35Vtuyh",
+					"https://drive.google.com/uc?id=147b4pATGOle0xjRK83tKeOt1cWi_W5e0",
+					"https://drive.google.com/uc?id=1mqIzG-fXzof2IwwrxjpSKwZWx6FBSiy-",
+					"https://drive.google.com/uc?id=1dE5EcSOyO0LmuLhahk6ETdP7jOTfFitN",
+					"https://drive.google.com/uc?id=1M9PVfAU_m3l20sRilERDJcuA_Ai4Pd5N",
+					"https://drive.google.com/uc?id=138MCwI5Z9_9YsowjKQVcE63Q5amYPQXy",
+					"https://drive.google.com/uc?id=1lUqyJwF5jA2adcEnRN249WL-SApqYR3Q",
+					"https://drive.google.com/uc?id=1gMyAhxQpK0hR9CLnDE9DI4xd0r95GTJQ",
+					"https://drive.google.com/uc?id=1R1LtbVc-vfrCsOLLqH_2UHsIKK6B4dxZ",
+					"https://drive.google.com/uc?id=1ToTj-sDDJbS4EXjBSzpto3_H5LcQS8k5",
+					"https://drive.google.com/uc?id=12lv1d0GAvgVy7tmlyq8wycAx_NJ_UMd0",
+					"https://drive.google.com/uc?id=1ShAgH3KPyQLvRz9cPCQTiqS1m8Uv2G4r"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"62": {
+			"title": "Chapter 062",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1VKkOTAwjfVTCo5raafkjKx_X6USP2UDI",
+					"https://drive.google.com/uc?id=1qYZNDHgKgdPQp0UMO7ZEtdP_Gu_2TAMk",
+					"https://drive.google.com/uc?id=1XcBCdVuu9elrVQLp8xxbZ9E3sbMUZWV3",
+					"https://drive.google.com/uc?id=1WB8OEdEQxG00GSjnOQQEChEkxpQgVk6y",
+					"https://drive.google.com/uc?id=1G5JEzVgcBv076KWmPPNJlvy23D7bMPc_",
+					"https://drive.google.com/uc?id=1zMz7fu9ZIVpXmSw591iHITxcFAh_cWgv",
+					"https://drive.google.com/uc?id=1psMm6geJx7G8myKvxGtlDDqQ_8hNSIyO",
+					"https://drive.google.com/uc?id=14ct44b1IYbGa-ZA7FEpijBzGEceearZ_",
+					"https://drive.google.com/uc?id=1qGcw8F3AeKZBJ26uvln4ntsRg4xUA6Qe",
+					"https://drive.google.com/uc?id=1wX-77jp9LrpdZmawL02esUPjEQ9uJs5s",
+					"https://drive.google.com/uc?id=1r6d0_PDK5cqM1dIZkEVvjDUK-Pst8jpt",
+					"https://drive.google.com/uc?id=1-EAaK6L3xRv2YN07l5BoafjyB6mpktnj",
+					"https://drive.google.com/uc?id=1NuON0c3aKCFB0L131ekFJCsiE03NSF-i",
+					"https://drive.google.com/uc?id=10Pcj66E2YWGlT6U4IydpMlkQkz7EzwBn",
+					"https://drive.google.com/uc?id=1tVgrWIcGdUepjW0zPrFMfwL_csvCli39",
+					"https://drive.google.com/uc?id=1hcI3PX7_Z6cLdsafKIfO9LbvpC63eaMF",
+					"https://drive.google.com/uc?id=1Bpf4CPoOKDR57lLjvX_Lvu45Kbz62BOD",
+					"https://drive.google.com/uc?id=1Qq0yeYaSwU9jWSj8HhYQdrtIJ1AhRCj3",
+					"https://drive.google.com/uc?id=1zj4_3ODCGYvIcFR5-TyUKeFDFU6kB_Cg"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"63": {
+			"title": "Chapter 063",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1GXAzexufuRKLsPhAkO34afxo17RR4Y57",
+					"https://drive.google.com/uc?id=1MlvAaumLcHt4LnUuHKupdvGL4DwQr4Us",
+					"https://drive.google.com/uc?id=12HNChcXOhb91PI_Iliu96xkMr6ys-R85",
+					"https://drive.google.com/uc?id=1VIildnr4AzlpwZ_0Dw052P5IuijtMUGc",
+					"https://drive.google.com/uc?id=10Rxlsg-MIQrPW8LPLTvXLLYM8CUCBTxK",
+					"https://drive.google.com/uc?id=1J41EI5RfbQ3APwL-MH7QG1guFjWmu3qd",
+					"https://drive.google.com/uc?id=1_ebSFWpGTZLRVOSCycWWidrjHDNojlVX",
+					"https://drive.google.com/uc?id=14GNheeA4yKd9Yam0GMemPIncOMClrRX9",
+					"https://drive.google.com/uc?id=1wTyEEgRFtx0_WSXlgpEKD5fJtNwKtc4K",
+					"https://drive.google.com/uc?id=1CSddbWhSygkWUPbzesOTwPp7luHzzlP0",
+					"https://drive.google.com/uc?id=1ZqaMeDAJ6t_RQbCPqGcq9s_baAU9BAkW",
+					"https://drive.google.com/uc?id=1mjpW5oSCwwJEinaoBjwgSprSSQFyorwh",
+					"https://drive.google.com/uc?id=1ltVAh6OF5Py3V-qv0bDiMGD6RVrl8PD-",
+					"https://drive.google.com/uc?id=1f5CNujz5eJBYaFv_gLidNrKApSUfyRsd",
+					"https://drive.google.com/uc?id=14eC6byKVyG4WA06-T5aJ9tsiFw7akaif",
+					"https://drive.google.com/uc?id=1hHQuMOTqH00W1YibFd6sCIfJKbqkfulJ",
+					"https://drive.google.com/uc?id=1RaaTKTOdQIs70F3R59FD9nHw9VXGKNAP",
+					"https://drive.google.com/uc?id=1-Ivp7dE79OMfsjn17AamCidBVTVLIsxJ",
+					"https://drive.google.com/uc?id=1SdT-4ux_Gx_mmdC4X9b_kRx1HqhMSxx8",
+					"https://drive.google.com/uc?id=1YG-KnOu8RibaA5Y_wmu4nqnqNW0ad10N"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"64": {
+			"title": "Chapter 064",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1SLZzDm3iMsBC6qJwN_9_WXtmavzACax1",
+					"https://drive.google.com/uc?id=1O76CWND5oGq659_WkuPMHFBEKvw-NMdl",
+					"https://drive.google.com/uc?id=16Yd7px6hNcd4dV7EvpMWFRyH6Ov-tVCX",
+					"https://drive.google.com/uc?id=14fWhj2sf0d5XH1corsgNLe3ORcJ8DYqz",
+					"https://drive.google.com/uc?id=1q570PhjQKXMhgk-nTPVDH01ByAPj3kl9",
+					"https://drive.google.com/uc?id=1pCwOwP-STkatCw7HzfKXXJfBUWnFhHgB",
+					"https://drive.google.com/uc?id=1nNqkSEWF6C78TYXapQV3tS1Daucw1WPS",
+					"https://drive.google.com/uc?id=1KD-QBTuMB18A93Ghqnirxm6jrvlCbrMx",
+					"https://drive.google.com/uc?id=1rS0HT4GVsNPF0ASDgygkfOui48CoT6ED",
+					"https://drive.google.com/uc?id=1ZcSLgldT1PFYJ7QyT8mD3kpZSfScAQuW",
+					"https://drive.google.com/uc?id=1DLo6cOOYAJgx3hxeWpLj9KIkGGeHx75R",
+					"https://drive.google.com/uc?id=1GztGhQ4UlFWPC-dBfoPHaNaDOlVSTgZB",
+					"https://drive.google.com/uc?id=18KBn2ulITRtv9X0FXOVl_GkQnyNqYxWC",
+					"https://drive.google.com/uc?id=1Sm-UN--L0eU-4H6TSml9-EfkZ21GjG3Z",
+					"https://drive.google.com/uc?id=1VRdEyr0jO39tCvi4InmqKlcG8wTuot9o",
+					"https://drive.google.com/uc?id=1QYt4Alphtf9pZFDtVQweK9tL95VztQVR",
+					"https://drive.google.com/uc?id=1PI6uHfCzbUWDXPy9YYM7UYaBHU65S9SA",
+					"https://drive.google.com/uc?id=1X71gR7OYqzf3gXYszTpZXSDqNrF-mlp-",
+					"https://drive.google.com/uc?id=1SSpixoumASMPGy4cS6jo4BWO_PHWr3af",
+					"https://drive.google.com/uc?id=1aVTvrD71HJ1IZCXdDUAfUZ6FIwcA3j8A"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"65": {
+			"title": "Chapter 065",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1S69pDjh2FCn4oCDRJIM-agao1iyYWv4p",
+					"https://drive.google.com/uc?id=1zP2xvYTDkT-gjrPZ1yQjdFFvz7q1yn9D",
+					"https://drive.google.com/uc?id=1b2AVh02wHzal3uWLK2kEQrLxX5aDE13J",
+					"https://drive.google.com/uc?id=1B39qEi_nyelD3AnrAjulRBiBP3l37tEH",
+					"https://drive.google.com/uc?id=13fx2qUG-akxrsKqnq8iC-GVN6QIfxjPZ",
+					"https://drive.google.com/uc?id=1DXkXfuvrJOaFAoBKsRWxFgQGIEQz5y1T",
+					"https://drive.google.com/uc?id=1PsqY9q8waPhLiKdYUmMSEONKWnRtXcPy",
+					"https://drive.google.com/uc?id=1pj1VAHOzhQQoWVyk7t_TBUK5QoPsUSKI",
+					"https://drive.google.com/uc?id=1MVnwVLmoz2iThJPzDvG3WKl1MEqqhrv-",
+					"https://drive.google.com/uc?id=1y0t8L36kS16XuRHSJqJLMkl2ot7EDPuz",
+					"https://drive.google.com/uc?id=1pVGjUSrHkYzWeKwrZIM6Pmb5pvjrpPcV",
+					"https://drive.google.com/uc?id=1sSyKWh5HcFlfywv6jyKZr9XwO8jGeZHS",
+					"https://drive.google.com/uc?id=1cbEmAcKdLI5inqf6CC7_h1LAtd0Yb_Oa",
+					"https://drive.google.com/uc?id=1hMZF7kgEt5zjniqAIXuaQVLsU12y-zpO",
+					"https://drive.google.com/uc?id=1HtHcevbkpUOkVoT0njf8BcJJzn7w_G9g",
+					"https://drive.google.com/uc?id=17nrupvMSnmbUZSMXRolA-B6zhF9hu4qX",
+					"https://drive.google.com/uc?id=1tv_VD5CpoggehQjsbD2WviApgsHaXPsM",
+					"https://drive.google.com/uc?id=1You5xplOZoSdSPopvzTRGpxCPz-dEtEE",
+					"https://drive.google.com/uc?id=1xyJ1cOwxAYc4bwHEakp3sMXLuiM2bAej",
+					"https://drive.google.com/uc?id=1AjdzeIlFFF-zPP_k1ojaLCh8XAQEillm"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"66": {
+			"title": "Chapter 066",
+			"volume": "8",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1IRTeJaQ734apTRyYMFHwx9lUl8VeV4cT",
+					"https://drive.google.com/uc?id=1XBtHxZWwZaahxvnVwc4nFHJdj9E86Gx1",
+					"https://drive.google.com/uc?id=1N0YN9QrsV0ezyyNVOYXkAm0LupGM6fIA",
+					"https://drive.google.com/uc?id=1FSuNlz2V3VlVgpXF2PK74b73-H2l01A8",
+					"https://drive.google.com/uc?id=1GxuPqObXNLFkTONPRJYZlmAa2Ynxov46",
+					"https://drive.google.com/uc?id=19KrBV7Y-ANe26zeuJtMUSt8JLUpV59uQ",
+					"https://drive.google.com/uc?id=1uY1OOZkzxFrnBqG38ZHF-xstPhZya6HU",
+					"https://drive.google.com/uc?id=11uIDdV7YO0q5hEsbuSF7dFS9DjS-zD2J",
+					"https://drive.google.com/uc?id=1roAZU_w8fXkOuGQgLXHU4M_hExBL_ysn",
+					"https://drive.google.com/uc?id=1fDb0gbi2P-1Z90RTZvuHwF5QDGLJC4g2",
+					"https://drive.google.com/uc?id=1ryPvvtjSqMr9oN1A8hWwFsAPngnUDW3d",
+					"https://drive.google.com/uc?id=1ghioB68kLUH7_eNQ0fsazgHsN3J0jyV_",
+					"https://drive.google.com/uc?id=1cmHt8t1Zgn0p70FbI-loO8a6xdUvRCu-",
+					"https://drive.google.com/uc?id=1mjIK_zmSEDIsUCMZyYdczGop3j7stKPO",
+					"https://drive.google.com/uc?id=1IQfYcTiMitEXOz4J_NVW0mkl09s1HVqN",
+					"https://drive.google.com/uc?id=1zqWjIOrWR91BRywZxTHKSNbKT7y4cqPR",
+					"https://drive.google.com/uc?id=1ZtS5QYX7G1VZT1nHfwhirFGXiIRTVAte",
+					"https://drive.google.com/uc?id=1L212IF16sofzEedZzIPJzKaZS3LtH1Yo",
+					"https://drive.google.com/uc?id=1JVFHZ1YU5Ph2b_e9_126GcY39F1KA7Ry",
+					"https://drive.google.com/uc?id=1QKGNItYrA0alT1Al7YFwMSpBAqa9xVJB",
+					"https://drive.google.com/uc?id=1tr5K6Guaflawu1HApb6gFdSq6hBiE5kP"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"67": {
+			"title": "Chapter 067",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Gh1CqLenVZ7Xbj6FFv_xjvmPDnVNgLLn",
+					"https://drive.google.com/uc?id=1GvPM_C5gYdhckJ2rKf1kR1ib7vDCP6jd",
+					"https://drive.google.com/uc?id=10fkv_lcTcbRmGgB55143WjxwD-_hWDNX",
+					"https://drive.google.com/uc?id=15MvRpIaxqu13VUbcdCyHcNGhAX1OrexZ",
+					"https://drive.google.com/uc?id=1Oarc4UhJ4izNCh6Rwf6pmsu1KkIQaa9A",
+					"https://drive.google.com/uc?id=15AL7S4_tvH_42-QvYloG_xj36nUiZok7",
+					"https://drive.google.com/uc?id=1NYvzzgzUQLMV-1teeE7b0K06oonhDyKz",
+					"https://drive.google.com/uc?id=1PIYWor7xLJLbyZinzM9sYjBQiRzvSK87",
+					"https://drive.google.com/uc?id=12x061gK2A0YqexCq6DpGeU9vlWa1Wlcn",
+					"https://drive.google.com/uc?id=1I_tlN2YERNVcM31owSgKf-8T5ldXuaY7",
+					"https://drive.google.com/uc?id=1SP59Nm_SOwsv11vpJ3HA3yJr5KwdoCSp",
+					"https://drive.google.com/uc?id=1evcZWTcBdUXfFXu8XuQ3Cyqdp-z49E_q",
+					"https://drive.google.com/uc?id=1Z3q_his7DWxvsl3OCAKh3UNnKz8vRST-",
+					"https://drive.google.com/uc?id=16GbUoGG8ThXc9M121-5LQnUKrZKS_YOk",
+					"https://drive.google.com/uc?id=1el9cmdujtVMF4fHayONyOdMBsV-_nSGe",
+					"https://drive.google.com/uc?id=1So-tlqByoWlHhUuv9EBexCjQ167CR_Ha",
+					"https://drive.google.com/uc?id=1YymqO7v5mjaR0VhDGdfJMbOwuc0LOYRK",
+					"https://drive.google.com/uc?id=1yjrJRNBK0qqzSUBdy6lZdACTI8KSgFyU",
+					"https://drive.google.com/uc?id=190xBR733iJ8y4CYPvL3DTZNc537zklls",
+					"https://drive.google.com/uc?id=1I1D7wvH3CDO9UsfwEetIlzwxYr51QuQ7",
+					"https://drive.google.com/uc?id=18vuukWj3ioaYEZa2fVy6S-Nh_P6CwAS6",
+					"https://drive.google.com/uc?id=1b3NQuyKkYFz2eXRq3joSpMjOP_VrSnX7",
+					"https://drive.google.com/uc?id=1I0w9sELZoSGXgPZVvDnuu538V3uYjs-h",
+					"https://drive.google.com/uc?id=129BzqXbFY4Ni-8asEwi9hmIFeXRHW1AE",
+					"https://drive.google.com/uc?id=1g5lPMcNvB24O2juCjmv4-YkL6MPxKiFV",
+					"https://drive.google.com/uc?id=1-7fWrOBOBNcalTVDVbsTkSvyRgPm5fVl"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"68": {
+			"title": "Chapter 068",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1QALVwjCCg_e7QDbj9NyhFezAMgV4uRDF",
+					"https://drive.google.com/uc?id=1rO7UZw_R20C6DDmBiHvcVeKdqWgztbp3",
+					"https://drive.google.com/uc?id=19ueAVtAoxqG_lO-sj4ILOnMl2yzNKKer",
+					"https://drive.google.com/uc?id=1LNAqnRMlswQxE1pof9d92x3RjHyoLgvg",
+					"https://drive.google.com/uc?id=1qdueE1c6PY72KY4VvMBveA-BML_8Ga0B",
+					"https://drive.google.com/uc?id=1SFWyvLpOC1sgnPUey4JF5okan56WjhI3",
+					"https://drive.google.com/uc?id=1aoHsVQXSmtiI4CANndKdt9BGDCAUZcU7",
+					"https://drive.google.com/uc?id=1wJptDGmB2UZ8-I8oY9T4YKDqxqm7MBBE",
+					"https://drive.google.com/uc?id=1xsJHakBOxFxRFzJEoxne3xByasnKffqb",
+					"https://drive.google.com/uc?id=1Iv2Xvqg7N2YggFRwnuturwef4kes93Vk",
+					"https://drive.google.com/uc?id=17KsmPRUI7wrN6_UOA8u_hjf18KJZv_Yr",
+					"https://drive.google.com/uc?id=1_IdotVy9xNh0uvo2Vlud4kSUpCzyc83q",
+					"https://drive.google.com/uc?id=1kKcwUc4tBf-MkTxa7R2_Mc2ZccHVHZNa",
+					"https://drive.google.com/uc?id=1ArwfcaZg51N0qqTiUfzdLMzj7KyGcAfO",
+					"https://drive.google.com/uc?id=1Z1iKFWH6GDW9KbS_E_SGThFlVPeja5xQ",
+					"https://drive.google.com/uc?id=1g5iR72D6Z3Pxfdct23JIqOtohv_0A83M",
+					"https://drive.google.com/uc?id=1ogfiOvMhz44QKSAfYZVpmu20YbsKxxrq",
+					"https://drive.google.com/uc?id=1sLCJkammRGAGVaLX3e0RKe0Z2x_0AwOt",
+					"https://drive.google.com/uc?id=1lNryMOieVLv6wKmg56lzYosIjPaCeiDi",
+					"https://drive.google.com/uc?id=17dygFLBKnBALpkhWVbI4jTg9rKQk6Z_i"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"69": {
+			"title": "Chapter 069",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1rdX8HQODtL08ca5QpkRCkFbPJlmnMxpv",
+					"https://drive.google.com/uc?id=1vNBklaRJ3Izm-Xg56V3ddjaRJBPLMGLs",
+					"https://drive.google.com/uc?id=1aLn_njL4TYBFOSwzgVZSDKImyrPnglCh",
+					"https://drive.google.com/uc?id=1Kj-gqEuMT9AEquE48WAq64QtQd7bzkN8",
+					"https://drive.google.com/uc?id=1vXlcT6c3Y8K07mnZCT-qwQjXYxcmto7T",
+					"https://drive.google.com/uc?id=1EbuyU1NdSDl0CNwlN74ETwcfw2Pz43qe",
+					"https://drive.google.com/uc?id=1rCRJ5sM8M2wrXXjLqQFsN4V1FnAcFAHw",
+					"https://drive.google.com/uc?id=1RsGagOi7iZujlBt2DZSh4TsZqB57Zxtl",
+					"https://drive.google.com/uc?id=11WTHq1LGXekccO3Atkfr4wadIoYuBKaG",
+					"https://drive.google.com/uc?id=1pl14X2_z5hizJQvduD6myyRiFVqDh9QT",
+					"https://drive.google.com/uc?id=1GaH1dwWB3GgZt4gKkMbDo9LALagZkv6S",
+					"https://drive.google.com/uc?id=15eGQhMNQxS55SAZhE13e_ZLTRufIEp7Y",
+					"https://drive.google.com/uc?id=1u9zBgJQB4b5JyHnKkng85R4JYkrXEVRy",
+					"https://drive.google.com/uc?id=187WlAW1Wgv1OItBMd2KhGGrk3haS1ozU",
+					"https://drive.google.com/uc?id=1ACPFLeB0wIMQJnl0P14aGFw8Q_zyLwM5",
+					"https://drive.google.com/uc?id=1HepEbQJhlewmD2-TcV4f6NVoAdd1E4tC",
+					"https://drive.google.com/uc?id=1b3hD8OLRHn3jVoePYFibPdqQ06SXxEKi",
+					"https://drive.google.com/uc?id=1pSgY87DgyvCf6w2mJlvIkpuvb2tAWTq4",
+					"https://drive.google.com/uc?id=1S_-DVJYCQx3SC-j0Ah5_cbV-Qge7f2t5",
+					"https://drive.google.com/uc?id=1XvktRF5DAsBMNYN-e_KBbnvEY8bZ4A1q"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"70": {
+			"title": "Chapter 070",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1r_GSUkD0ER6FR7Ks4CFBdmU5LvzeDKB2",
+					"https://drive.google.com/uc?id=10cHDYnkVrpogvy9Sae6uVo0QHrrhLnGq",
+					"https://drive.google.com/uc?id=1IKRydrn-c0WKpH0eRX91iWiGFoz2eFjl",
+					"https://drive.google.com/uc?id=1y1CT-1NW8jXATq8-9tGb9-jPjr3F_58W",
+					"https://drive.google.com/uc?id=1cO2MMAm03xQ0xjubLMZVjH-RkwRth0O2",
+					"https://drive.google.com/uc?id=1ANmrCSYDRalKKByv7v3z3RTpZx0MC5xx",
+					"https://drive.google.com/uc?id=1CFFvDlbZl6fQaM7BbBw635p_O3ghcIJp",
+					"https://drive.google.com/uc?id=14BRdk1EmH-0_3ZtmRWIhLJebs3BbUwO8",
+					"https://drive.google.com/uc?id=1JGA9uhVjKd2U0PFCRCZyH51jZSMUdASc",
+					"https://drive.google.com/uc?id=1dsK4khXtqppTACaXDQSCnM5vSg3_Zc1X",
+					"https://drive.google.com/uc?id=1bfbGGegKlsUeaBUzBFKJQnmW20G0qG1U",
+					"https://drive.google.com/uc?id=1wApFQf3bvKe2dZycdK_VtQeGZWXzo0pr",
+					"https://drive.google.com/uc?id=1Rh7kxS5WZBtZoBjAORvRomCYYiqCUOCS",
+					"https://drive.google.com/uc?id=1YCDicsPzxEswFZBKqUI8RWvbBHLOpn0C",
+					"https://drive.google.com/uc?id=1Px5uZi1JRNRsMXHORRSqe9QkRU73GhQV",
+					"https://drive.google.com/uc?id=1WXTZvi61A2uw_KSB99IspGXy48jbm88y",
+					"https://drive.google.com/uc?id=17tWLrUWBvwbTP8oYASUujdnl1yhdN22r",
+					"https://drive.google.com/uc?id=1u5MaTiujINvs0JmU2B3wCRO-fTDDkIUA",
+					"https://drive.google.com/uc?id=1laIRo_U4NiAYvvjaylkOwIqPvkG0DchS"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"71": {
+			"title": "Chapter 071",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1Mv6nUs-V3dvUBhQRsH8y92pISpncDgD7",
+					"https://drive.google.com/uc?id=1SL_0ErkSquojfnX8xEooX7e_UEihS19K",
+					"https://drive.google.com/uc?id=1oYsVXoYEGh0Y-eCIFMyuKeweTcy7KgZK",
+					"https://drive.google.com/uc?id=1fohyV0eGEpfDo6P0pXXJNbSz7v_Eaw1u",
+					"https://drive.google.com/uc?id=1Rd0hiyigmTS0SMr-RnPWWNt27_xC7ne-",
+					"https://drive.google.com/uc?id=1qmWU5fifOQoxtCsBzCRFixfSn8nZDyDZ",
+					"https://drive.google.com/uc?id=1LFQjcoO5iK4I1S4mblBH3Axh-eKZ1lqa",
+					"https://drive.google.com/uc?id=1_5cU6IqzoxXxkT6AGZc5beNrtO-T-vI4",
+					"https://drive.google.com/uc?id=19qiAHQhD7Jbu99aukULrXtVPcdbMCHlI",
+					"https://drive.google.com/uc?id=1SaWIRjgGbUVX3scU6vjUsrT1eDjPiiBA",
+					"https://drive.google.com/uc?id=1VwRf0mN5x65M8etKwUTCzsQw1zse0vLw",
+					"https://drive.google.com/uc?id=1x23W8Pa-EFZNb9D9GPtKUPzS7yU2Mkxv",
+					"https://drive.google.com/uc?id=1JTgkPg5_yCGyRKPxwNfHycGXIEJUhbk0",
+					"https://drive.google.com/uc?id=1KUkenutPPrlED3x61rDaATIMd10sveuA",
+					"https://drive.google.com/uc?id=1fZCQfRxJD3QuLVYAadXEWIvJwwzGRPqU",
+					"https://drive.google.com/uc?id=1CWagNrTKszV_PRcj2NB2X6bOyVomtJt0",
+					"https://drive.google.com/uc?id=1f6mnFnKQMNb64GqCJEGN_6YT9eNomrJs",
+					"https://drive.google.com/uc?id=1oogijcPKLoaknxXjraBBZqhJE7C9_AaO",
+					"https://drive.google.com/uc?id=1LymY823PmfVJU1RYyNVDjVTuXRgqaFuU",
+					"https://drive.google.com/uc?id=10Hqx-Oh3N-Sj6C2c7os5G-ZCfAzmAKMf"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"72": {
+			"title": "Chapter 072",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=15nIt2GrWYSDwlpSKAyFTb4cCXn0EMHbD",
+					"https://drive.google.com/uc?id=12MSUyHpRzY-6GMswSGd_-wk2ROgakklX",
+					"https://drive.google.com/uc?id=1DHw_To2wB4M9ukxsoC7di-GtSmHX19jX",
+					"https://drive.google.com/uc?id=1Chn5-fRdujumJ2OXZ_xmlS_Enmxict0F",
+					"https://drive.google.com/uc?id=1DobscHTdsKkS_T9Rb83DAnprAf7Gmv8H",
+					"https://drive.google.com/uc?id=10kqunGp9xL--T10aXwEvfPldK_1ZtuhI",
+					"https://drive.google.com/uc?id=1qeIYP61ewslSJ2r4n2KQMyUi7_ct8YV0",
+					"https://drive.google.com/uc?id=1En36cB_ShufQ7yzM9rQb13E-UjZJCmnM",
+					"https://drive.google.com/uc?id=1pH1ecoHQ6bySbpWCKY41tMAMNv3gLaO1",
+					"https://drive.google.com/uc?id=1W4msRl-r5trn7pxR3V2panmcHMX5GDCj",
+					"https://drive.google.com/uc?id=1D4Gy64wr1P7JYT2DYygeQ3lGust66h_j",
+					"https://drive.google.com/uc?id=1pdtInJqVtxJ5945N-q_MPLdFuxhVnGeA",
+					"https://drive.google.com/uc?id=1EMU8yzUFIiFlDg2LyEo9Qgl1WuKmt4ai",
+					"https://drive.google.com/uc?id=1MpOqrFHF6Er0jPyvpNI5ZINrBLzhThs7",
+					"https://drive.google.com/uc?id=1HsZD4ce_0U-vvNTI6oXJSRW3Vo8oJiWr",
+					"https://drive.google.com/uc?id=1j8l3xRsC13bUwoRR82EQ9wHcRfMBQZRy",
+					"https://drive.google.com/uc?id=1UYPj2nhGrserlPsz5um4o3gBVAmo9ALT",
+					"https://drive.google.com/uc?id=1RMfmpppuHZupwTor43LYz4jgfa9NnLVr",
+					"https://drive.google.com/uc?id=1fbUhnGnHw2Ueq6IaKxFRhq-PdwYHinmA",
+					"https://drive.google.com/uc?id=1nZYR6INhvKxuc-Yh-Bq4V-NMgw_d_ZnA"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"73": {
+			"title": "Chapter 073",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1A-fxW2dES6rGHdArYQv3M_9BlWeTe-k6",
+					"https://drive.google.com/uc?id=1iMGbxEBytYkoovNWgN2d5OfvqmTTKWgx",
+					"https://drive.google.com/uc?id=1khzJyUrVQrl-FSkgWLIWR9IUf33j0jJT",
+					"https://drive.google.com/uc?id=1SjR6kV29KyDVq6ufwNaM2sB2pFnn99Mp",
+					"https://drive.google.com/uc?id=1omAsUe_1QhrDFn3jrLG9ldJrsTQzMWNj",
+					"https://drive.google.com/uc?id=1s9jV73g4pAFz9-Kwnw_Pz7xWeUce0Yow",
+					"https://drive.google.com/uc?id=1P_gCI10anQ9UPvL18WuuNv6lX-ZOcvj3",
+					"https://drive.google.com/uc?id=1-QZCmtPPvivA1ma6nFXuV50FTqde-tUl",
+					"https://drive.google.com/uc?id=1JA5exB2fd5yR5xerMFAp1bOCT7_0oTNB",
+					"https://drive.google.com/uc?id=1UI2g9kz-q5pCzwjufe29DjY0Url7f7u7",
+					"https://drive.google.com/uc?id=10KtDbSlsnBvBKGTIbEitzZwneGgK5CES",
+					"https://drive.google.com/uc?id=135g5hcV0MJSIKl1aihUbWKPCCY6yzqHy",
+					"https://drive.google.com/uc?id=1O6gjCRmMfZONH-ItIpbc_hmdYwxBqo_V",
+					"https://drive.google.com/uc?id=17Fo29pOxtrTJQVOlg3bZD2HQNsVHLlex",
+					"https://drive.google.com/uc?id=1LNy4BhKofVeXhTQGGNmh3p7KYkUm6ZnN",
+					"https://drive.google.com/uc?id=15EQ9CA7UNkbGOkHwTVcBpY8uefcCbreL",
+					"https://drive.google.com/uc?id=1BG6aVMTWbkRiEymNuSl5LZohSmhDreAG",
+					"https://drive.google.com/uc?id=14ZM4Nwud0EAHsKFfTgLyi25ImngMPErd",
+					"https://drive.google.com/uc?id=1fcXUzq32yZ3SMtHXvyS8YeXo59L9RTuV",
+					"https://drive.google.com/uc?id=1QEFkgQ9jiobiiWK3s8eVimQXjZWg-azj"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"74": {
+			"title": "Chapter 074",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=19tsFZLz51gQQMew2LLrH8pT6eK9JOYUh",
+					"https://drive.google.com/uc?id=1DdLsJrS0ng9Cpf4b9sk2YMn9afqlJqgs",
+					"https://drive.google.com/uc?id=1Mc7XqBM72G2ud5EC7Kasz6Jot8PLV_HR",
+					"https://drive.google.com/uc?id=1omdJiSuI980MjNU_v-IwW6OR6YxdYAeu",
+					"https://drive.google.com/uc?id=155YUxluTHQUHPKrd5HqUKhLmDFBaNrII",
+					"https://drive.google.com/uc?id=1HeUXuLipp6cqk8jxmCrLlOH_1sOAPEMK",
+					"https://drive.google.com/uc?id=1u2IAE43lVpfyf9EuWfJOP4YBUYpyOM-U",
+					"https://drive.google.com/uc?id=1-C8J2wWkyfq6mgtxr2ZuR8GvXox54RRy",
+					"https://drive.google.com/uc?id=1s53pY2LLPF2x-Z0xjFRmifkVOZzFINtI",
+					"https://drive.google.com/uc?id=1sB_2Tup0hpFj1ZVPyqGv0-Qf-9XPXOAC",
+					"https://drive.google.com/uc?id=1ry1yxeNiLxTcTVmuKVlbQqwBxC9eZzOS",
+					"https://drive.google.com/uc?id=1mpIgB8NdKbTija-pV6ctfovwPxltU9_j",
+					"https://drive.google.com/uc?id=1WVfOfGfRhtukMbYTQPvwEy1pSLKJvUFC",
+					"https://drive.google.com/uc?id=1LhgPocvsqy-wmcBADXY3dXOXoYIyXGTq",
+					"https://drive.google.com/uc?id=1jYiIjDD2PvOUM9gztzEMd0ZSu3gqMaGn",
+					"https://drive.google.com/uc?id=1mVKl3DGHhRXIgAg_ao-U-7WiT_t4opUZ",
+					"https://drive.google.com/uc?id=1dDyLM6jVDQNIVzS6FvIz3fmvQ7BHASNP",
+					"https://drive.google.com/uc?id=1BboWlGYjI7yj3IIBGBjUVTAmutm6-nkC",
+					"https://drive.google.com/uc?id=1GFep04IWWL3QRj83RpqW2W80ugzWo6nS"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"75": {
+			"title": "Chapter 075",
+			"volume": "9",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1BXMsg3YAcO_SL2XO2vk5uFT2EmEa-HqR",
+					"https://drive.google.com/uc?id=1foJkGnWJFGhaSvq5ygZVJG84au3Dm7my",
+					"https://drive.google.com/uc?id=1xyigQcBODn4X51ARFAHOEk_GBH6FY34C",
+					"https://drive.google.com/uc?id=1R8GD6HMFbM68v_WFow3EyxekJryJutEP",
+					"https://drive.google.com/uc?id=1MMYV_Mv-RCOEUUByHECT7HJsFOt8yN5J",
+					"https://drive.google.com/uc?id=1aTZZBlMKIK9bm8UZqRUdNxv9Pbtdg-xM",
+					"https://drive.google.com/uc?id=1-wctz9dhjsRDGsNDTi21UBmnZbz6fGZD",
+					"https://drive.google.com/uc?id=1BNNMoB0xl3mVZ2aXDi6r0KG2Of_fu0uC",
+					"https://drive.google.com/uc?id=1RZI2QGVyWAffn0e5dWX7uGMdRNPmEG9Q",
+					"https://drive.google.com/uc?id=1JY6Gwlg89HvzB48Vo9XZkjF7Fojid_9c",
+					"https://drive.google.com/uc?id=1ouEptcMctWrcseWs50QH-s27ZBcX1m8c",
+					"https://drive.google.com/uc?id=1mslsHGGL55j7WiLr0NSEk_09uO82haQy",
+					"https://drive.google.com/uc?id=15boBtbExyZCzW1Ji7KQOuQmbBGF4wutD",
+					"https://drive.google.com/uc?id=1f0e9AI_C30cTaBu7B0e2S9zGyimRJVEF",
+					"https://drive.google.com/uc?id=1hGNK768vCWX3CM9cqnZ2L6aUAdn059qe",
+					"https://drive.google.com/uc?id=1dKCsKUXpFbNm4soorgd7vzFFywVPeAqK",
+					"https://drive.google.com/uc?id=154HFezWXcJmoTs8DU6WONfMLNcMZe-WK",
+					"https://drive.google.com/uc?id=1__UpyzIwnvuUJkLZUYqflu3zQhYH1e0n",
+					"https://drive.google.com/uc?id=1sZHCGmmhwyQEK45BnLSdw0gyPzqf2TMY",
+					"https://drive.google.com/uc?id=1dbvrWf68yv_n7ey8GROXzhCZw1btbWlJ",
+					"https://drive.google.com/uc?id=11tLYRDhsmvHFl7ULIELyzlzEuhkqaVx2"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"76": {
+			"title": "Chapter 076",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1VZpN4L9x0lLuPGNvC7qYJk3-d6CMHH6V",
+					"https://drive.google.com/uc?id=1Do5khVOq9SwbaUCvg3yQypfrzuQK81_Z",
+					"https://drive.google.com/uc?id=178eOX5Ghp-9V2nc3o0GvGhRhjuM1Q8_5",
+					"https://drive.google.com/uc?id=1dY6sXrKsXDSzaN3fwErvTO-z0FavuqGc",
+					"https://drive.google.com/uc?id=1Aod0ayX46-4HzvOcqeSvNTPj6twuIjKM",
+					"https://drive.google.com/uc?id=1gobyjDJYhXyT8Q_rusUv3fa3qLXMzMp3",
+					"https://drive.google.com/uc?id=1c5bCgxh-aAAJvsyHRaupjPr3stZYml8H",
+					"https://drive.google.com/uc?id=14TN8qNpZkMFXxfn3ndDKtCwOXp0IcvyI",
+					"https://drive.google.com/uc?id=1CMMtZTCwFu1_CxZnqlDs8kC5pX4L21We",
+					"https://drive.google.com/uc?id=1rqh9DVwe6-WOB36lWhb0vBUUdlNOzHcn",
+					"https://drive.google.com/uc?id=1uzT7VtscpoZqbEHL-LLNrAgc9S19i6cM",
+					"https://drive.google.com/uc?id=1EfmzQI-zVR24TXRiEXVxfu2CjNM2u0bd",
+					"https://drive.google.com/uc?id=1s8HY-22G28ZT2ZD6tZvLclQRHflnihOo",
+					"https://drive.google.com/uc?id=1ToRnjrbiB_bWdEFsQxbFqS46gt48x2Fq",
+					"https://drive.google.com/uc?id=1QsdjLF0qwdMe7UGMPmEfMWsU_Piu-W1S",
+					"https://drive.google.com/uc?id=1rdyyYYwCwqICN70GxvGFkRZui8nIybGh",
+					"https://drive.google.com/uc?id=1_VCmEVHnT6l9Szx6GsiWMCNrMyHpYgzW",
+					"https://drive.google.com/uc?id=1qlg71KXxPDy5ga3WWbJuZVDzobZeRUZP",
+					"https://drive.google.com/uc?id=1vfGWZuo4pJQbQG1chSoHt_usZ8yAfoQR",
+					"https://drive.google.com/uc?id=1fvZ8dnSxbJlTiL6QtsxKzWR-0bnqYxM3",
+					"https://drive.google.com/uc?id=11-vFLVWN64da3yeFrCMVZnCxwV8XCpzO",
+					"https://drive.google.com/uc?id=1ifLZHRh1MUVouSDzFAC0sNoPEhKnsG0W",
+					"https://drive.google.com/uc?id=16uFVfSwHD7aVNq9QMfKTRGfIbVbzz231",
+					"https://drive.google.com/uc?id=1fkTu4B7tjBR2pVW2tTz21biwWHLaRuVi",
+					"https://drive.google.com/uc?id=1R505uSl7FqAah3Xsm7tJCIMo__JWhukF"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"77": {
+			"title": "Chapter 077",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1p6py_KZP-FwYzZnDV6MwYHyA4ou9iC6s",
+					"https://drive.google.com/uc?id=1TVi5rDO2sLpKBkg9P3_24RqhanKef-E_",
+					"https://drive.google.com/uc?id=1ck00I-A86XVHQzsNZMecLEEL1LObi24X",
+					"https://drive.google.com/uc?id=15Y7mY8Y9ilnXiqP5x9xCQsi4dd56F4mI",
+					"https://drive.google.com/uc?id=13bBXxPs_m3ZzQ1ZzGZ1WpSwYUYm60AHv",
+					"https://drive.google.com/uc?id=1CeUzQS7IaLMWcHtorkoMeVbm2xDVFFP_",
+					"https://drive.google.com/uc?id=1qMav-cDoR6bC2VAey7ftyhLMUHlVUTY6",
+					"https://drive.google.com/uc?id=169QqcdPiYJbfAnd_w2nt0yb09je5OTgH",
+					"https://drive.google.com/uc?id=11BmbcBWLoeQZ5wyECZumQjujc8toSuOl",
+					"https://drive.google.com/uc?id=19mCZSx983HRObb-Toa3yYXiYdlS15Jc6",
+					"https://drive.google.com/uc?id=1VrOifYLYfAp0N3FVhJljQR8s0a0sjGuC",
+					"https://drive.google.com/uc?id=1Usq01kvn8OMTzD7Lrsd9EfX76Gk6RZyp",
+					"https://drive.google.com/uc?id=1NvqSZwHPNJGvS_VrdkvhwEt_Lbpq-8m5",
+					"https://drive.google.com/uc?id=1sEMKmdU-wY88iSBNpo01y1BQpk3vwT3D",
+					"https://drive.google.com/uc?id=16gUqwpTZHnR1Fd-R44NBDRz3W2HJgwoD",
+					"https://drive.google.com/uc?id=1ZVH0OJxIpWbn2n33zy00A5ubl_MbcguU",
+					"https://drive.google.com/uc?id=1h7eiF0yIxwI-aaGKI5rawSsHFWr3-9Vl",
+					"https://drive.google.com/uc?id=1mA4-HAzrzkZhwmvmSfAHq9QZYTW6eX2g",
+					"https://drive.google.com/uc?id=17nxkJ1ct_Rr0AFKlEF87epBfMXZhkexC",
+					"https://drive.google.com/uc?id=1O9qOdpBTu1Mo9dsTnED5df4-988ictuc",
+					"https://drive.google.com/uc?id=1pU7acjT5jj4Espr7-fBoPJiZwqf8JUPN",
+					"https://drive.google.com/uc?id=1S4IgoasxBgwa2BHY105uY6Gb-iHhppUT"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"78": {
+			"title": "Chapter 078",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1L-pPZRQxR-F-W-lirgV65oNVKaUlJATP",
+					"https://drive.google.com/uc?id=1uVCY5Q-tiu5xVw31aPBxfYiLOX7kIvxw",
+					"https://drive.google.com/uc?id=1OfvKsvsUFB1c9FDks70cAV85tv-oH-WK",
+					"https://drive.google.com/uc?id=1F_1RGWmiAYYvKz7lFZ3Rn1SjgjDeWN3d",
+					"https://drive.google.com/uc?id=1norpFj9NAtS7lX5RmwQo-D2SRbTQ0ylL",
+					"https://drive.google.com/uc?id=1jArpUEeJU6iqO8IRszTOZGsG4ELMDBT2",
+					"https://drive.google.com/uc?id=1pTM2y-bGeTC8H_IrVGSkVeyLn5xiD1lC",
+					"https://drive.google.com/uc?id=1STLWGorct5FukKfyMMBbrxGTYggEqpp6",
+					"https://drive.google.com/uc?id=1cbvzPSivCPU2lXF_vJzjjXKkFp2eV6iC",
+					"https://drive.google.com/uc?id=1KEEK0ix09VFRtPG0xHedHz1xijQFAkYu",
+					"https://drive.google.com/uc?id=106lPHvTNWJ7sNlaHcewiJRIoDcCZQxf5",
+					"https://drive.google.com/uc?id=16R49_T2mwcg98O0tnncBfmoug51MpsVG",
+					"https://drive.google.com/uc?id=1dSEsMo9zpoP0KsbKGVdSaDJsmuxLUTRv",
+					"https://drive.google.com/uc?id=1eESA1x3NjOgPi9kBGT-vZb-kVtXCftDL",
+					"https://drive.google.com/uc?id=1z6SqlYeixEbCzAypE26rw6B7TjemF_8a",
+					"https://drive.google.com/uc?id=1VtkML1poOlVN0zWTNc8Uty9jbRJuWDUQ",
+					"https://drive.google.com/uc?id=1i5RtuTBU2lrVqCDkTI3bs2u-mvFM63iK",
+					"https://drive.google.com/uc?id=1GDhMu2sWHuIfqtw59OGHkVneYiDU79l2",
+					"https://drive.google.com/uc?id=1vC-InVDJgTmzgOfYna0AdstnTMkOs2lr",
+					"https://drive.google.com/uc?id=12lQfSTnIXbtZrXrwL3xdtM20tISfyvC6"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"79": {
+			"title": "Chapter 079",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1QLxV5ItHB44kmd4cHn1dosilN9NQoHMy",
+					"https://drive.google.com/uc?id=1vzpIa-QRQEKgj_588Hc38Ksl31Jpm8wI",
+					"https://drive.google.com/uc?id=1BXzOJxR434l93pNCOYluO-blCWArqBYz",
+					"https://drive.google.com/uc?id=1sL0mJS_FNcrm_doyQn-e7zzMTc-JD3uQ",
+					"https://drive.google.com/uc?id=1_D_trYqK-WvRlomniXuFeb8qt_G5jDhT",
+					"https://drive.google.com/uc?id=1z3bl4QAdaAqeNSrCoDp6k9SdZi5VZ_Ut",
+					"https://drive.google.com/uc?id=1q4ren_NdLJzxKLZsXzDgD_LrEnRHieuD",
+					"https://drive.google.com/uc?id=1JrnA5sy-x9m80vfT_ddfyopW22NpKaX7",
+					"https://drive.google.com/uc?id=1Sa8q2gpyn_mjJgNYcz97ezHF7i0ZHKJQ",
+					"https://drive.google.com/uc?id=1P1lnQPBUCZz_fQNk2Su27xR1zSEEIiUZ",
+					"https://drive.google.com/uc?id=12YjK2aAQImqoJZs1yVzb7HaBoHcHAqrK",
+					"https://drive.google.com/uc?id=17TS3Npj7i-WgKd-L0Krtf6ffKP4qKar1",
+					"https://drive.google.com/uc?id=12fVVgTjxGrhlfdL8xQPTjtB1pWe8BVGH",
+					"https://drive.google.com/uc?id=11VW2qk4U8O-H6dq41Tx5ZGLHGHMLVj2G",
+					"https://drive.google.com/uc?id=1B381pkP_2tze3fiadxzNKXPBLjwihvw5",
+					"https://drive.google.com/uc?id=1m4iA-WfwwS6G1dRwt-of8wiBFok09cJm",
+					"https://drive.google.com/uc?id=1ONWHVIHyJGFZiyKq06U9uQ1kxvUeJ7dF",
+					"https://drive.google.com/uc?id=1hF1tEURyhwFTCXucP6vUYlC7h7QTZnyB",
+					"https://drive.google.com/uc?id=10hJhbAK92hVOm9j3Wbxg_8GZ4AfaftB6",
+					"https://drive.google.com/uc?id=1S56l1KeHw9wCN0FWfANpyH3GpzEIRLmV"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"80": {
+			"title": "Chapter 080",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1I-SOSUQoKsDVwhqqz2v1MEB18WwJN73q",
+					"https://drive.google.com/uc?id=1485XTSQTCSAcTjQUlbgGaMPAiy6nfo7Q",
+					"https://drive.google.com/uc?id=1V-bpSWyjrFgPhIjZqoE64NV-xtT6-AYs",
+					"https://drive.google.com/uc?id=1FrX1RL1qiWpP5qqUOLa9XMSYeiI-qq0U",
+					"https://drive.google.com/uc?id=1fZMbM2aD_UKTxBqCouauqv2bbmJXdsh9",
+					"https://drive.google.com/uc?id=1ziESZ2eBXRwqiT6RoXf7uhdBeJrstsdc",
+					"https://drive.google.com/uc?id=1nzizEhOszd1JAxwPd4muSkJ14QiCLRJq",
+					"https://drive.google.com/uc?id=1pqCvJuADvwU0ZhWfC0fiK8L4gs35nk7M",
+					"https://drive.google.com/uc?id=1sVO33_HbfVn1zFSTUTDHJxm_7jYv0dd5",
+					"https://drive.google.com/uc?id=1pqVIOEQ08QMBIbRo0W5Fmad31q5u1N4N",
+					"https://drive.google.com/uc?id=17XQZwqTWuksfeNEe6puOeps_tPF3whEq",
+					"https://drive.google.com/uc?id=1DGFSzQv9MN2lqsIap7C7Qu53pG-SySDu",
+					"https://drive.google.com/uc?id=15HeE6ZvwgmqH-KjNkT15Olf8KK-bRNgw",
+					"https://drive.google.com/uc?id=1_-RCCIj__PQmQt3u1vVLMUWmkgFjswSg",
+					"https://drive.google.com/uc?id=1vUoaBMJU07MH3RlnnGnl35Xa8j9aaIy8",
+					"https://drive.google.com/uc?id=1Yjju9IlpzP8NWSQzbx9tk5NT9ndKkD5t",
+					"https://drive.google.com/uc?id=124eoDm4Tv-nxZXV-tl3d9CoZ4nDrWoeh",
+					"https://drive.google.com/uc?id=1cWjT-HA-f73-xrOalaLNaZEoh5Z6RpUv",
+					"https://drive.google.com/uc?id=1rL0_gjkg_OF2swErB-Jg0kYkUbNyM7xG",
+					"https://drive.google.com/uc?id=1LH9ZL0cB6dpj5UnUyk3ogG47XNXArmMj"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"81": {
+			"title": "Chapter 081",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1t5t2GaM7uON-B3b9UFqx0ZqPA4HWNcsm",
+					"https://drive.google.com/uc?id=1ApidwEWQNOLV-erfCn5boR9ELm9JlYwz",
+					"https://drive.google.com/uc?id=1TU763I6N3M0BZR_S3kmxhZsM7AqYdu3s",
+					"https://drive.google.com/uc?id=1isdqriVhdkDVjPwziJ9Ut78Y2vw-kkiN",
+					"https://drive.google.com/uc?id=1Wtp6IQZ7ijQW2b6WQqYffFRc0mafr7_N",
+					"https://drive.google.com/uc?id=1tmHkOQIulU3aNSryauadBxSYsPXbm9Pp",
+					"https://drive.google.com/uc?id=1YgMjtUjzyMcevNuCbV_jZBvxZIU9FG5J",
+					"https://drive.google.com/uc?id=1hVuztpP9WCxJc46OG5-vu00yZJ37YnTF",
+					"https://drive.google.com/uc?id=1WcjVvIBRA-D_tx_asQWhYA5WAbzlUb5_",
+					"https://drive.google.com/uc?id=1dxzeHb_6ysuw4xC7dBg8GfVdzrOowax4",
+					"https://drive.google.com/uc?id=1ZVAOu0DEZjpVGxaWyBrAiMAMNfjutv3o",
+					"https://drive.google.com/uc?id=1ZJFULVQiFyBKKj30kiV9qeeNE5vI5nDs",
+					"https://drive.google.com/uc?id=1BtQp3JD_KAOIUmbZCHlAHUdfDRyulNyP",
+					"https://drive.google.com/uc?id=14SYHk-RqWlE-5nUoojidH-XfC4bEzoPv",
+					"https://drive.google.com/uc?id=1XnKbcDjoSA0wwF2vUTc7hbYO5dz4R1ch",
+					"https://drive.google.com/uc?id=1TmGHVyAdWRulV4kv_NWywSJarcG9APKE",
+					"https://drive.google.com/uc?id=1teiobL1yidXLTnDoUXGT3HHC3sBBUMHP",
+					"https://drive.google.com/uc?id=1H72lIp8cpUpVfqCZE40x14218SimVeMA",
+					"https://drive.google.com/uc?id=160IZfgwj3_n84F7_noZieVwEP1kMynlB",
+					"https://drive.google.com/uc?id=1Hcge3vUHR-Y2tmfPrLgIwj7T0nWC_pKq"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"82": {
+			"title": "Chapter 082",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1B1CYe0N94QAOCnnQsYThy6s0MDhByolL",
+					"https://drive.google.com/uc?id=1aqZWTS27Z-uQ7WAw7c1gS5FQvrr5kAXi",
+					"https://drive.google.com/uc?id=12IJ_rPopVtxNvGm19G2-6VM6pVDL0eUi",
+					"https://drive.google.com/uc?id=1zypWW1Zt6XYLy6zSOD-807JlUU9TVKMb",
+					"https://drive.google.com/uc?id=1US0lO8kg-csw6e2zAY03bOsCi92FYzdA",
+					"https://drive.google.com/uc?id=12lLLPcCnCxO-tgG00Yrnw0VTOCMXBGDe",
+					"https://drive.google.com/uc?id=1if47yyYFRztIrW9UBWgvpcHt-nAAvOLw",
+					"https://drive.google.com/uc?id=1qR5P6TXAvcykRQbOBhZ37dnsklhzjlWd",
+					"https://drive.google.com/uc?id=1_SSN3FfGrCgP5JD92uZq5P0ABq82IH7z",
+					"https://drive.google.com/uc?id=1Ggss1Xhd-CSgIlWiFZvSExRwINFtqVW-",
+					"https://drive.google.com/uc?id=1mwRu0-2CQ0XE2BPTeNCrqCthavUR2rpO",
+					"https://drive.google.com/uc?id=1Tb5JTM8Vm_4kQoq5cIsKuT2OaoQGz-zM",
+					"https://drive.google.com/uc?id=111yHWSrRBJrqHab0P3jbg5JJWWgNDLys",
+					"https://drive.google.com/uc?id=1N5nI7wNvcMZXo6K5y4liJ9-Yp-EpkwTI",
+					"https://drive.google.com/uc?id=1bHhbghIBLIetyFae-UexZeFHN8vgQv71",
+					"https://drive.google.com/uc?id=1ekE5qjpQecydVJm0A6ZrRtPNs205kaWf",
+					"https://drive.google.com/uc?id=1AUse16S5kW5AjlPzPKWkDhqozexgRoGB",
+					"https://drive.google.com/uc?id=103uON4JDvPD7U-3J-gG3-PaB9A82j9Wj",
+					"https://drive.google.com/uc?id=1Fvw7fohfgFH4Iis6p7h2qCAnfZ2Aqiil",
+					"https://drive.google.com/uc?id=1cliTyXOGUeLR62vnPdJp2fXb5hknn68M"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"83": {
+			"title": "Chapter 083",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1XlbThudCTGJUyKNqkDgmvkYbnqsPF1zn",
+					"https://drive.google.com/uc?id=13ODc6uEa6E0BHahB9atoW5Lw7aOzBxif",
+					"https://drive.google.com/uc?id=1xjKeSNDXdtQiYveUOE8qn8K5ypWqgJUN",
+					"https://drive.google.com/uc?id=1kLqQduyrOmQDWGdKu_cSY-LCheLCt_3Y",
+					"https://drive.google.com/uc?id=1B99jIrTW1KpeWdxDxzA4HqanghEPdL8T",
+					"https://drive.google.com/uc?id=1dtgWD_qTIXN2IOiD7tOliSS5CCuEzpXx",
+					"https://drive.google.com/uc?id=14uSY78nO6nd5amg7qgHmgC2XKQnysfno",
+					"https://drive.google.com/uc?id=1qVX95jyAUQK2-LBhptwqTAHFAZLHBPEZ",
+					"https://drive.google.com/uc?id=1H2TQyEJ_vdYM3kVyNXyFaPEOg8-Mm-WH",
+					"https://drive.google.com/uc?id=1yJ39Sa_tyCO__iGLLfr1QdegpXz27-FY",
+					"https://drive.google.com/uc?id=1DoqJXctAgutUHBfm-GNbT00G7xH5BnS0",
+					"https://drive.google.com/uc?id=17JndDVe6zH8pbfJIZBI8AOyzqPgzJTNL",
+					"https://drive.google.com/uc?id=1Apvlm28ZvZDPMn4vthv6P_5WhYYPwuVX",
+					"https://drive.google.com/uc?id=1Paq-Vx56eoNRapa7SQsOKbLF2Van1DkT",
+					"https://drive.google.com/uc?id=1apNibqVEpgVVj7k5LvVM183jQU5R1Hxc",
+					"https://drive.google.com/uc?id=1Zt0qNuYmlL6C6n0rvL6VNGuT8D9aJk_D",
+					"https://drive.google.com/uc?id=1dKuaBww9u9B1lgNtgKDhYTcjrRGouWrK",
+					"https://drive.google.com/uc?id=1_wIfgGX-JfLoanYJqxGmVs5oC7VK1mVG",
+					"https://drive.google.com/uc?id=1_QKHjV_X6Mzu2XekyBDQdP2psn0VeHP0",
+					"https://drive.google.com/uc?id=1a4XvIq9FYNpA4ZNhf_Oc_UcSTnTffROe",
+					"https://drive.google.com/uc?id=1PodgjjZffy25LT_50acpwgCleUOs4Bs4"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"84": {
+			"title": "Chapter 084",
+			"volume": "10",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1QTijCHrvYOvVFlIDfCO4LXU4VaX0LDKA",
+					"https://drive.google.com/uc?id=1LQNaMgGp_Ko4rU2coJGpO8j-CPXTtiWi",
+					"https://drive.google.com/uc?id=1mgDOkiX1xyPamaZSBj_nnSD7tgscZLEb",
+					"https://drive.google.com/uc?id=1vRgTBfTld4MmkY266dtu5Kfl54fXofUn",
+					"https://drive.google.com/uc?id=1CnzHu0Fb_2fO295GZd7s358RXiwamrxs",
+					"https://drive.google.com/uc?id=1XRovpXZ2PKq-zwg8ChDcyZGP8S65H--L",
+					"https://drive.google.com/uc?id=1FWaB5whRHWZ4PIC-NQSM6e-8MRUIX18j",
+					"https://drive.google.com/uc?id=1T6TpbLxnd1-zF1nqJT3KhorH4iLKiSpv",
+					"https://drive.google.com/uc?id=1Qyz9sJ0J1QPnLxfAPRDDWxtVfnTvCrgB",
+					"https://drive.google.com/uc?id=1qrwp_44bFZE6iEygnPwLYUdD1Qg4xOa3",
+					"https://drive.google.com/uc?id=1BQiO9VzPjinG0tYzTzkKL9Tx9E5G4tYy",
+					"https://drive.google.com/uc?id=1bckZd1BmkeozW0cs9FefuqBmeeDXT8-A",
+					"https://drive.google.com/uc?id=1Pkbi2tEeUR6QmCLaKKcrK1PedWC2G366",
+					"https://drive.google.com/uc?id=1Yco97cePi6B2As-gZ1rtyRR-NUmEWVIr",
+					"https://drive.google.com/uc?id=1uvhM0kY9ibOdDgHY291hmzriHgvReM8r",
+					"https://drive.google.com/uc?id=1TIQWtOZnD-JOM7-KJDgPHpO-3gOG0apy",
+					"https://drive.google.com/uc?id=1J0pW10TMrmgZLYn9DQJlUkNNQf-i57ar",
+					"https://drive.google.com/uc?id=1-03jcbMbNtT6TDJpZIroSjqPSCE5b0ng",
+					"https://drive.google.com/uc?id=1-GVTIsJt1zlgqH5jltCoEIGSvUyW7OO-",
+					"https://drive.google.com/uc?id=1hO2cD-ArK-Fc__0o9okwdahy0zm2ErhN",
+					"https://drive.google.com/uc?id=16V7whwjL5ZhNbkVcP6Z1O64dViW7nG-9"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"85": {
+			"title": "Chapter 085",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1DTrPURoIHHELz5RKT6q5Ef6HVyOWZRbr",
+					"https://drive.google.com/uc?id=1rDrl50K6UFNiJq6T0FI2Vkjc3H-tXUCF",
+					"https://drive.google.com/uc?id=1DMxV0kJNtu1I0VO-W5kI8_-K33A25UGc",
+					"https://drive.google.com/uc?id=1BQYjzASYYeyZ5soyk2YjcYM39TKJNwHh",
+					"https://drive.google.com/uc?id=1JopM-hpwEHELAeUAgQ8-roE6MImRFqM6",
+					"https://drive.google.com/uc?id=1jwSMz6C5bW5Kx89Gk5pqPAqwslbLBAFC",
+					"https://drive.google.com/uc?id=1WQlZ0PErW72zrE0LJcMXGOPJKnLF5Xif",
+					"https://drive.google.com/uc?id=1WNQFrdqWiVgc_51MIm5z_HdgVXdTNzxq",
+					"https://drive.google.com/uc?id=1morcpQZZHmYiNKzyKMrr8gzf9U3Drbms",
+					"https://drive.google.com/uc?id=13wl8fZDb5eADHLyPQTv6QpqKkFm-52-a",
+					"https://drive.google.com/uc?id=14nXVZs6YTDbCWpuqxgJCH6C0PTkI3Fi2",
+					"https://drive.google.com/uc?id=1kEMGiQ9vO4xwhrjEmCy2RkzxCsHKP3GT",
+					"https://drive.google.com/uc?id=17GhuYVpiBKK37G4QB95gTVVbR7B9ObWp",
+					"https://drive.google.com/uc?id=11BpQ_vSD66EKjmHlO5rc6lPOmj6_XGA9",
+					"https://drive.google.com/uc?id=1XwdONIIK6e-PpiMfKDnu72Q2e677BP-E",
+					"https://drive.google.com/uc?id=1C7FYdK3rH3BBgbpVGZWO8LzXzdpO_Rkl",
+					"https://drive.google.com/uc?id=1THr0YfZLdAA3ZbhT6JQ1kBXRQ8dF1MT7",
+					"https://drive.google.com/uc?id=19KmhWVKbBN09sjfwIa2TPrbCqZU1Z5nt",
+					"https://drive.google.com/uc?id=1E8gB5z9ZCHqk6rUowKkYT7bx2_f7BmR6",
+					"https://drive.google.com/uc?id=1XoWRmsntYu0fWkfjKa8DOPwDT37Ldnns",
+					"https://drive.google.com/uc?id=1pviGCZM0KsjCIrDA_B_Bz3qlzTDwfh0r",
+					"https://drive.google.com/uc?id=1WCUHZcu35GQQeZel6vA-gFzkiDcZWGS_",
+					"https://drive.google.com/uc?id=1UCp5WxL9wvrrOWuj-pWRQRHM6qWeiJgd",
+					"https://drive.google.com/uc?id=1xIDfQuL2qpkyWT5XB23uxgx-21KW9hZt",
+					"https://drive.google.com/uc?id=1jg2c7c86Kd1Uia0Vn7x853dGUAJj2oVV",
+					"https://drive.google.com/uc?id=1v3kt4CVFKmMauq2W0s19R3-knbzujyA4"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"86": {
+			"title": "Chapter 086",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1ZwJVzZBhXzBX2QdKBvqNJ-RKuSKzXTAU",
+					"https://drive.google.com/uc?id=1INGOhRHjZEI48VpDOEP6dnCar1NvBskT",
+					"https://drive.google.com/uc?id=1y-qdGXhIyfSq7k4741rHwiR6Cft-h6E6",
+					"https://drive.google.com/uc?id=14n-ZGHGP7NWcirQv1tJm6vr2-dVlsE7I",
+					"https://drive.google.com/uc?id=1re25gDv-OFxXoVS-O8diRE2-U8jeeql8",
+					"https://drive.google.com/uc?id=1m6yhCO5DcT0AstDPIMjzQTlFNLAFtyQv",
+					"https://drive.google.com/uc?id=1qvaCGbtiwmhxlrzj0I-qiJGdR50JXC-b",
+					"https://drive.google.com/uc?id=10q4TmJ9XSRis0wWuv2Xk5Lre4bUOi5OV",
+					"https://drive.google.com/uc?id=1VBCk0RMdVXUdqPfiH1PU5mbvgTJoxc-j",
+					"https://drive.google.com/uc?id=1JrJ3hUHPDPdyus34IeI4lEOyknRMdIvD",
+					"https://drive.google.com/uc?id=1Dp0K5syW2xkfvMJdgJLbIhOwYmCKX9iS",
+					"https://drive.google.com/uc?id=1-d3f9e-xdwpkf3D-bHw9fYb9MW3t1mKb",
+					"https://drive.google.com/uc?id=12amP1snuS1ckDnUHZPudxJzCiz5fD8pw",
+					"https://drive.google.com/uc?id=1WwERP7DeJ7_jlAj2keL4rvzRVKfNM_D_",
+					"https://drive.google.com/uc?id=1fapN4zleK2eAQ9LbS7AAM2hSUL72ChVz",
+					"https://drive.google.com/uc?id=1LR7RnBVCYKqiwBzZoYaZMrCUSXBEgKm8",
+					"https://drive.google.com/uc?id=1KpOw7q3eeG2MATbIYXb1i8186EUEkD2Z",
+					"https://drive.google.com/uc?id=1oe1-MDvMH0C6eASFayZlcWvToqVJKeBh"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"87": {
+			"title": "Chapter 087",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1y64a0LE_HDItlyjVzCn9unx2ewtitTe3",
+					"https://drive.google.com/uc?id=1k8osL9hByAcI77D_SEKcVX-5S7j5-Mml",
+					"https://drive.google.com/uc?id=1SLu0oBDgYWSxD5IqerAjaj28w4aOC1aS",
+					"https://drive.google.com/uc?id=18AwFY79tVxjtBaYjVbUCIHkFQ_eCjLOS",
+					"https://drive.google.com/uc?id=1Hg8rxOK759ERm6RHEYk4tmFbg7yjPpJI",
+					"https://drive.google.com/uc?id=1VET_H6qtkUwEZR5BS63Trg-l-Yv3BQyZ",
+					"https://drive.google.com/uc?id=1yS6n20ZTKFgiB2ghyMeMyWe-_SSpniMk",
+					"https://drive.google.com/uc?id=134ClLGujy6ApJCzXClNNoNxl8pgWfIIT",
+					"https://drive.google.com/uc?id=17Cef9ZJsJTNUGryB2CRZevRxX_Nw1_hs",
+					"https://drive.google.com/uc?id=1iZGkk1CIxK4EpIJcnZyBd_DZuiZK4GnM",
+					"https://drive.google.com/uc?id=1NX2HfsKoN8j7QDN1xvm9C7wVNrbKElzp",
+					"https://drive.google.com/uc?id=1hM6lrMtPhfTaPXzyFG0hq7rVv_SR12cB",
+					"https://drive.google.com/uc?id=14SKKLpyKMIIl0IDDi2TiJxHE4Zsug_iv",
+					"https://drive.google.com/uc?id=134C1CPckZ14w3J9zv7Lnzy2Qhjqbh9qn",
+					"https://drive.google.com/uc?id=1izImkIIJ5izoY9lTf5mPjcp-GfZxMN2Y",
+					"https://drive.google.com/uc?id=1OMJlMckznZ9-V80n1FZvYUqoksbPDuX4",
+					"https://drive.google.com/uc?id=1zqQRfCUEo5qWqV2tXNYCUPIsQawTiyDI",
+					"https://drive.google.com/uc?id=1Ln-bY1PZ2t_GeP70SLmxDNklIgxNulfm"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"88": {
+			"title": "Chapter 088",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=112woRHd0FpxCeouS8HWPBocWJp55u6Pd",
+					"https://drive.google.com/uc?id=1px6kFkDD_7ztAesZJCAblBL1UBLUL8im",
+					"https://drive.google.com/uc?id=16rL5YB2LIZU9XN6uV5ZI9TVrUx4rmVY-",
+					"https://drive.google.com/uc?id=14fVhz0jVF0SGgqL9S8zMp82xmUp1rSLR",
+					"https://drive.google.com/uc?id=1Xr0AgpSqac5oDs41rNe4G2wwjdh-crYj",
+					"https://drive.google.com/uc?id=1TMeZpMNWc-Bfl2J9wj7MHYj1awum0tTF",
+					"https://drive.google.com/uc?id=1-ONjGF5wqAppu4XW25qAUNBUSDTZy2Oj",
+					"https://drive.google.com/uc?id=1nV2YXmEej0bgqzAT69FNJ9a-UKIAicgt",
+					"https://drive.google.com/uc?id=1uETEPlQIsSssBSvtZGDK7R2HjpG_TZ0X",
+					"https://drive.google.com/uc?id=1L-DKB7Ba3GhTawkUGaxXI_92JloyZD8k",
+					"https://drive.google.com/uc?id=1FPTbJg26urfpYLBLWbiOLnXC5A-_nw5H",
+					"https://drive.google.com/uc?id=1-X3KiMUNUwG_LOYvLgehpx_A8lL7Dmol",
+					"https://drive.google.com/uc?id=1h0g0Gd3SmtDjKDzPrtO3-zc72TVH0ohM",
+					"https://drive.google.com/uc?id=1LdgPT9JXOuAcT-mmpBvmeb740NImv_FC",
+					"https://drive.google.com/uc?id=1ajj0EhPe1ktBSCKsxQGAOxFwbtgct-gu",
+					"https://drive.google.com/uc?id=12evR_ruCHNWyrAYmcUG9pxdJNQZJiUDz",
+					"https://drive.google.com/uc?id=1so8EGuar0FB-H6gfYFKAcZPg5aDxhKSo",
+					"https://drive.google.com/uc?id=19Qc0ZwW9ki2Y-SUZWO269rPqHHWazeka",
+					"https://drive.google.com/uc?id=18OjE1bbONUjKwFqXPRcc5gETeGxoQjMz"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"89": {
+			"title": "Chapter 089",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1hkx3AlQxkXQowAnZxhL4B2E9TKs-CTXf",
+					"https://drive.google.com/uc?id=1N6M4IegZVavR8bG5-OSoyeqIEbLKwG4a",
+					"https://drive.google.com/uc?id=1asMPqeRDNFmTqpDCPOMeLr3T7Iqq57fq",
+					"https://drive.google.com/uc?id=1-09FyrlnD23t5XT2KEkpQl06PnSDx-Qk",
+					"https://drive.google.com/uc?id=1p8HelFH3WnrbBw3itqR2nPr59mIBhvT-",
+					"https://drive.google.com/uc?id=1Cdxc0z2jQdVqsZzk40dmBSX-tkujsMOh",
+					"https://drive.google.com/uc?id=1aVw48wqZRtBQ0D6dIcp0vQ2h0mrVOVHl",
+					"https://drive.google.com/uc?id=1ta6P5FgGDtZnkZy1n_zXN1ydjoHClieV",
+					"https://drive.google.com/uc?id=1zM6ftqs3RZ-uiEHsgiPukYzICtkli8iJ",
+					"https://drive.google.com/uc?id=1fEbNBo4S1GaqrygEJxnp7Z3YGKvP0epX",
+					"https://drive.google.com/uc?id=1Jv80ZadDPLA1zkstOJbWvNioNgvfQ5A7",
+					"https://drive.google.com/uc?id=1zRJnz0TTFry0kXO3FIXplEnNCiAgnvnW",
+					"https://drive.google.com/uc?id=1k4EwY9fhYu-590r4UoWA1Bqb5xbol7Hg",
+					"https://drive.google.com/uc?id=1DuVZCSMUQXyhHVfJP5CuXukmtMBs__rn",
+					"https://drive.google.com/uc?id=1OlpYLltDMl3lrfu31nzNbhv9pM1n_Ta6",
+					"https://drive.google.com/uc?id=1P8BpaDO8aBvENC9__-EiGRSSB3DGdWsn",
+					"https://drive.google.com/uc?id=15QmCW8dGxreh6GXSO64U9gIC0j1MCiBv",
+					"https://drive.google.com/uc?id=1YuhfrO3bKsygGjryy4cbu_JQxSLOuovn",
+					"https://drive.google.com/uc?id=10wvjutYFCPUsbtHTWXUE7cb7PnUjBx0S",
+					"https://drive.google.com/uc?id=1nxishWuy_D4A8e22RCMDo8E0fTgp2oX0"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"90": {
+			"title": "Chapter 090",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1-fE3UzEzFhfaM4Y1UBgyo7L93b4CMaFf",
+					"https://drive.google.com/uc?id=1GwrIkft9wZKbY7dnh-cW-RqHpWGJYunG",
+					"https://drive.google.com/uc?id=1Wb-jQ9GRgy7WVCRGShyfeC0er7ZSG0OX",
+					"https://drive.google.com/uc?id=1FUhLBMIbpoInDD8JGQuxlQ4Nvv_JK0UH",
+					"https://drive.google.com/uc?id=1gw_h1qD7pbSK1zr-krMvkR5Hth2BXHGr",
+					"https://drive.google.com/uc?id=1BixKPXllpyExZPXfJWzepMQ8i26fz5J7",
+					"https://drive.google.com/uc?id=1v7r0uOatt3EX_cHGlDVDWaEw2xAb7DQE",
+					"https://drive.google.com/uc?id=19EwoOaxDjRC0Bfnu7X8UM7tIjhBWXDtZ",
+					"https://drive.google.com/uc?id=1puaHNQ5JpADjrcNGIBWJl-Y0Npkz5vZE",
+					"https://drive.google.com/uc?id=1zyIX6TKRHHNwIzzI3cuBj-OAkQzs9loG",
+					"https://drive.google.com/uc?id=1fV_F7nP4jCAm0zh-d4aC0qUjPY_C_zSD",
+					"https://drive.google.com/uc?id=1rGW6aw1K78xqg1E065WKcGZIY9Ma-7BB",
+					"https://drive.google.com/uc?id=1FLINjL3W0P2E8IIlzTFMgLeyzNqKNV9q",
+					"https://drive.google.com/uc?id=1OtQNMRvvzOqK4Y3xAFtvsPWiMzSSpLTE",
+					"https://drive.google.com/uc?id=1ZcerdZsC6YRS7wgcgxhlu0eoRhrA80cz",
+					"https://drive.google.com/uc?id=1TRBINm357JCqmcqjeYF5aoLLPhzw56kV",
+					"https://drive.google.com/uc?id=1IRJaR-z4uxdnwVsTlJYKbNs61-yNdWuk",
+					"https://drive.google.com/uc?id=17GYxAddMxjrycVuCgdKw7fyYSMlKZKeN",
+					"https://drive.google.com/uc?id=1EwNcYaUK74jh5mqj6zlKmAfLwGs6E7GJ"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"91": {
+			"title": "Chapter 091",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1zlPgPRDWe6HHByMOwQEcsX_TW4yp-7ux",
+					"https://drive.google.com/uc?id=11Xlg6Ps7dUcc0ViMLmv8tXquvbPDhWt7",
+					"https://drive.google.com/uc?id=1LZnPVYzW5Pt8-xN7YIUHpMcR0zHhJgK3",
+					"https://drive.google.com/uc?id=1XuuypkBHYWitvc0b14CsSq-6mLmQored",
+					"https://drive.google.com/uc?id=1ohQb4fNFkKs6OK9zonCq3WMvXnP3EDBM",
+					"https://drive.google.com/uc?id=1L33zJjtCjUV7jw1p1zTAMd7aj1dmIsJg",
+					"https://drive.google.com/uc?id=1VvOwB51XASDX-fWJ_mKbeujCVzUpDeV8",
+					"https://drive.google.com/uc?id=1cIEQab0k27Cj6cPpIYX-e4i8emLKiYbf",
+					"https://drive.google.com/uc?id=1kjPz4181hTOl-76irBrqzWrzkY27OanL",
+					"https://drive.google.com/uc?id=11w4tw1q1ei2sD1RgfaqdYZ46v0_a9K9Q",
+					"https://drive.google.com/uc?id=1bdUcxOMsUWDVgKON04XNaGX1fh-PZByt",
+					"https://drive.google.com/uc?id=1FTNiz0N3S5TSgdF2NXuP-W3w_1EEqp2q",
+					"https://drive.google.com/uc?id=1EDpicxicXub2oaVPHFUud--oidEtYvG6",
+					"https://drive.google.com/uc?id=13SNGy8i8_bn9n9IIbYmDUvDygAQzPPvr",
+					"https://drive.google.com/uc?id=1zEB70B3d8gpjk9DZKhDo8S4UWzlE1VYc",
+					"https://drive.google.com/uc?id=1D5V_cLCvH5AACQajHpIq3dLwRMpZkaAB",
+					"https://drive.google.com/uc?id=1Nz0UlCEKkD5WWq9gR43miT9OrrNLwWaY",
+					"https://drive.google.com/uc?id=1YsGvppkTDWyvMzVDzjZu3n7oVjllDIqb",
+					"https://drive.google.com/uc?id=1uR1GLTMRl7cOc3Zr3p1Xy0SG0mheQVxO",
+					"https://drive.google.com/uc?id=1-vO8kqR0Q0Hamuv6_-H_4HygYvbB747s"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"92": {
+			"title": "Chapter 092",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1gUqc6MDLY-QIa-3OQYqDUGwCPDak1ZTr",
+					"https://drive.google.com/uc?id=1H5Ae1_pBzDSUVFtj_ZQq2Zfv8x9xsOTu",
+					"https://drive.google.com/uc?id=1eujwh2KUiRWufcNWH5GpSvSMN5pVcIqE",
+					"https://drive.google.com/uc?id=1R5wrfmvOp-n-Ln3to6eNRgAeZacSqgb2",
+					"https://drive.google.com/uc?id=1F0SBMFe8QZT3vG7Ztus9C9NaG49b2ztQ",
+					"https://drive.google.com/uc?id=1MjLEkNhxZn02ZVruJWtmlr5Dajc7KkVf",
+					"https://drive.google.com/uc?id=1AO62rviItCmZJ3RFFoWu8WFZPGTFQqkp",
+					"https://drive.google.com/uc?id=1zgh3Tf5SxFviGaTYoUJPPOOqV5qzJJy-",
+					"https://drive.google.com/uc?id=1tVIkj6_dZQHgR4eM_AYcZ6QnXCjT2GAr",
+					"https://drive.google.com/uc?id=1nLVZyF3dZL8LK98Au9hTjMMrUHal9dgT",
+					"https://drive.google.com/uc?id=1a477oahXnPMxObn6-Sxn6LuxIN9XldOZ",
+					"https://drive.google.com/uc?id=1UL64x4r2Wo1R-ltEVCkJeuKx8AJH2_0A",
+					"https://drive.google.com/uc?id=1PsOJa0Xu4AtO90PLz77Mj_QHgohzwSkA",
+					"https://drive.google.com/uc?id=1a9lAhFDkty_l904P9byYC7tqYqFS78Sy",
+					"https://drive.google.com/uc?id=13UpCzqzkuF54Jz2PPAbQhwYJk--cbwhU",
+					"https://drive.google.com/uc?id=1Zubr_CC18MfIwIG0nuOnSokqlh3nh7jX",
+					"https://drive.google.com/uc?id=1RS1wHlcAX_76U6UhzT-8PI7aK91PevCr",
+					"https://drive.google.com/uc?id=1e6PxdzJRLOCywYFNT_-Va77FPjiSGdJL",
+					"https://drive.google.com/uc?id=1JeDK8tlJvLjLRaWrMnZA5T1zMrSdF7zb",
+					"https://drive.google.com/uc?id=1EYa61i8RFE31A13woFVzhV117z-bZd9m"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"93": {
+			"title": "Chapter 093",
+			"volume": "11",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=14L-bgemZUbIGU1ckSSe1j3vcat0SiL6_",
+					"https://drive.google.com/uc?id=1_BD5Q_s0Fn0UcwrtKm8s8KrxCSsVwMxk",
+					"https://drive.google.com/uc?id=1rWSSmotXnzz4bboWtj1U0hSSHw6baqoC",
+					"https://drive.google.com/uc?id=1t9q4fCT4KeED_9WO_i8UzVOw9TC5BEbi",
+					"https://drive.google.com/uc?id=1qdMgrzYluo1_FCO9GWkg78WHrUFO-FbD",
+					"https://drive.google.com/uc?id=17lVuHmKMpTB_Z_WatnxymcDRDZx43zWs",
+					"https://drive.google.com/uc?id=1WB3OeraP8GSs7YSf-gdtYAfRsj_hZeKH",
+					"https://drive.google.com/uc?id=1NOX9JdlvjopmB2HEd-WfPKCxmJ77aujj",
+					"https://drive.google.com/uc?id=1SZD4XDkR5jpIF2FN--N-2LIJPo4BZcCs",
+					"https://drive.google.com/uc?id=1HoaNmyq0EKh4jDhbZzA6HLzah99t4Sk6",
+					"https://drive.google.com/uc?id=1NWB3Jgc8ahFNhAvqvtIEQc2cQ5hbTnar",
+					"https://drive.google.com/uc?id=1_MaUcbxKgC3vD9yH0uUsyH2DaXG4VEfr",
+					"https://drive.google.com/uc?id=1r-XuxDyifSHyvh-ea2g7P9KiZxqf-rrp",
+					"https://drive.google.com/uc?id=1yISuAFTjx-33vgPokuF9s-TJ-WXAMQiX",
+					"https://drive.google.com/uc?id=1UTg2N2ep2tOn71CB0ejt45dD0awgUbym",
+					"https://drive.google.com/uc?id=1a_-Y6fmeWM2Hax9LiqZ9aQAnxDol21u0",
+					"https://drive.google.com/uc?id=1F9TDNawAH3m5UdWq8Wm0mhTqzU5nkwn0",
+					"https://drive.google.com/uc?id=1CAhJxnLknx09OAl6DD4gjOlCcID4Go2o",
+					"https://drive.google.com/uc?id=1DUxTEbL0I2vGC__iJmMtvz9g0cFujoml",
+					"https://drive.google.com/uc?id=1M9jnSnQo884o47xN2K12LVIpl2S2lhgC"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"94": {
+			"title": "Chapter 094",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1N--UTrbjLzAvZEjFrDdfcEHOZBDAXc2D",
+					"https://drive.google.com/uc?id=1Laf9lZZKrooQ6LMrsXwuGzft3MgwU3yF",
+					"https://drive.google.com/uc?id=1bwxjWyjb2fykddScUvw7bkuwIriQkZuZ",
+					"https://drive.google.com/uc?id=15TWWBzkhfB6ZUEcxiXKSCXPA8ATbqE78",
+					"https://drive.google.com/uc?id=144N8FzXxwLQtrFMwtj7wS-f3Yvi4O1jp",
+					"https://drive.google.com/uc?id=1kOe6ib6J279k0Q1c5xz9pYa4d0H0YQAe",
+					"https://drive.google.com/uc?id=1VMM1m1Zo8yg9uEnool2-m7FdYkCp1Bdz",
+					"https://drive.google.com/uc?id=1Ix6T4XEk6dMsWtbZhpIIMLk7SEQh4pDR",
+					"https://drive.google.com/uc?id=1z88DeMWsQBlQ4zdBeRzZbCe62gVHAwvs",
+					"https://drive.google.com/uc?id=13g_dbB-hi6x0ZBaRWiQ6ahn0sXQ_0nbG",
+					"https://drive.google.com/uc?id=1IBhtQJWgN4eWJhSLo_693s3k9_b3tY-E",
+					"https://drive.google.com/uc?id=1HsIdvzGt193F8-ztArrxTbhSEYVZhZQ7",
+					"https://drive.google.com/uc?id=1j2N9UGRZj6pxbh5fs0Rp2wdHWOlhGlhs",
+					"https://drive.google.com/uc?id=1IUh0R5ll9SgaR35FuVr8_9YdWjy0AR3Q",
+					"https://drive.google.com/uc?id=1eXeBHNwDqoniLZ0K7L6CIIhw8BTqy9UE",
+					"https://drive.google.com/uc?id=1pu8DJjMrfuYeD6IHuJiQIvz7gjwGrdBA",
+					"https://drive.google.com/uc?id=1UPPAT2UyawbCq8z3qriHTmsCtV5nzTK9",
+					"https://drive.google.com/uc?id=1WSZu2HQKAJhTVbASGMkABDv-Imz8Ory4",
+					"https://drive.google.com/uc?id=1726qXEkE9ofIb4DZGBhj6TtqMORAVbxg",
+					"https://drive.google.com/uc?id=1BUqse0xImRwl89NG36bv-lafyDRLNbj1",
+					"https://drive.google.com/uc?id=12R5Wb4P6y_mX613ptw-PzaYnUJF5lTJL",
+					"https://drive.google.com/uc?id=1gsOnTR-rR7n3zysprGPLTq1we0zSe4xl",
+					"https://drive.google.com/uc?id=1CIY6ePJYNTJ7koLqJv9ERCJD-yoaCW_o",
+					"https://drive.google.com/uc?id=1_bhJvohjZlbuPPUBCwvDEx5gpzyHIMn2",
+					"https://drive.google.com/uc?id=1H6xQoEK0xmPWkM-6JqnjzZpA472lxa-H",
+					"https://drive.google.com/uc?id=1hWeyahduSywA61PCmcylzPP1n_DZLZru"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"95": {
+			"title": "Chapter 095",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1mpC-8ghMrOHYSicQiyzhbKev-ilnHbLO",
+					"https://drive.google.com/uc?id=1cWTsqokogNkFPcC0Px37XIpbJwjJDL9N",
+					"https://drive.google.com/uc?id=1PSG2rc3fO1WEZ6M2UXBdJTHJ-zl24sKx",
+					"https://drive.google.com/uc?id=18mKqZu1_f9c6RE04G-dCInzghy77QLwi",
+					"https://drive.google.com/uc?id=1J_qfMXkul14Xv86qRquw_oWfOSDG3Qc8",
+					"https://drive.google.com/uc?id=1sLH1hySlLiWY6weit0PTzt_tzK_9jiAK",
+					"https://drive.google.com/uc?id=1FXJ_dmmyTJvehxaT3Y8GaoX5b1MeeBbi",
+					"https://drive.google.com/uc?id=1wKaNO5F8bF1jEturEMI1SzUhn7Kv4Hgy",
+					"https://drive.google.com/uc?id=1JYt4Qc_DyvKfi0_yCleqCfoOSXmkIG7G",
+					"https://drive.google.com/uc?id=1bd8H-3zHwSoIKEfZZWCeAOrYtDT_fG7r",
+					"https://drive.google.com/uc?id=1gW7AoIqzJEXSfazvABQOeMkdNIhqgnpY",
+					"https://drive.google.com/uc?id=1E478itqYMySMGihI6jcOzyemfVQtbZ_J",
+					"https://drive.google.com/uc?id=14PAASXkoRs_L0-tPsHHSCiS1SdPvgH4b",
+					"https://drive.google.com/uc?id=1CUSgvRlbYyxtnobJlxwIIc9MpKlU6jtJ",
+					"https://drive.google.com/uc?id=1Sd82aFl6G1nTwppCiChMD5RkPFt6jk6X",
+					"https://drive.google.com/uc?id=1u5unNLaf5Rd0DRpRumAYdUrJJwENNFvo",
+					"https://drive.google.com/uc?id=1uDszvh8mXlYpsswTQ9XeOXpE0UP_7W45",
+					"https://drive.google.com/uc?id=1W7vPZDe_bg_OPgEKQBe_DKN1mYQXF3kz",
+					"https://drive.google.com/uc?id=1ffXZn-1wzjdqToXIvETXsW93Pbm8Ltx7",
+					"https://drive.google.com/uc?id=17UCE0aMFPBML6BoORwubaOd7vR0eS6rF",
+					"https://drive.google.com/uc?id=1mi2myi9WPweKsKAMYJ0iRcT5J40PCuLB",
+					"https://drive.google.com/uc?id=1Qu_dKJvnBR63qZ5boZjL_vz0B0ncAkDQ",
+					"https://drive.google.com/uc?id=1Vusxg8A5ZJvGZ9_Bvpe0GQHRMykelIkg",
+					"https://drive.google.com/uc?id=15kTL4tOe09QC_Is_qos84MdTqyH3_0HO",
+					"https://drive.google.com/uc?id=14TM-Ia18RzzhREGPDiASRkNmcRbxaYae"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"96": {
+			"title": "Chapter 096",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=10icdm0f0AYif_iuQKhba9I25XQ_Xs7mV",
+					"https://drive.google.com/uc?id=1Z9co8eU4qsEd89PZHCFpFDo4F1h19RFY",
+					"https://drive.google.com/uc?id=1ebsTz2Crfq4AMZU7dNFHG8dA7OsfmnZE",
+					"https://drive.google.com/uc?id=1Hjdo6m2htgJ3n6O-UWxlZeKmO0rEXeeg",
+					"https://drive.google.com/uc?id=11f_FOZAzlpnFio67vQGcJP3S0mF3ux38",
+					"https://drive.google.com/uc?id=18jY56_ybj975JyYb2Udrl-0l18ftEeUb",
+					"https://drive.google.com/uc?id=1tpWrPynWJNydc2VJC-zp9EXV4Q8t5r59",
+					"https://drive.google.com/uc?id=1436O7ju3--djJsl-xdSZueP509DHzVWz",
+					"https://drive.google.com/uc?id=1huFkm5NLFa4vuuo9i8jSR8JCXIu5F7Aw",
+					"https://drive.google.com/uc?id=1hJX_gRBa7kTxp0EwQeo_W2WdC1IPTJQK",
+					"https://drive.google.com/uc?id=1XaJ6HWmjHwdlwFprc8Ct4EEldc-Z5o3E",
+					"https://drive.google.com/uc?id=1bEg2KqlP3WA4QHx3YpKIIIES9egDx6al",
+					"https://drive.google.com/uc?id=1_mjZecCtyd7ai5y6vODEhvXKVpS7MVwf",
+					"https://drive.google.com/uc?id=1ExBtUxITPQHnBu-gSWk-YEG_3kQ1e-Xv",
+					"https://drive.google.com/uc?id=1p99y5WfXHyg24kPIKTiyRjduSaQuvcP1",
+					"https://drive.google.com/uc?id=1llB8mwt3EEihGEvIWVbUd8g1-WEp8lMu",
+					"https://drive.google.com/uc?id=1h1e9sD0wvJdtIrwCK3Dmklbh6-CAl1bj",
+					"https://drive.google.com/uc?id=1U8VDdyBb0RWXxUxLnKc7YdVWuw00SJMU",
+					"https://drive.google.com/uc?id=1DKJvg1jlxrScfOf5WIpSfVqnCfFovC9I"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"97": {
+			"title": "Chapter 097",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1u_zNoLwWfAI_wjZgMDKtHAl59l4QDfgw",
+					"https://drive.google.com/uc?id=1zAcTsYtZ91IrjyWYpLxuJa3F6psrdjE4",
+					"https://drive.google.com/uc?id=1TzmSJermBv8CvtM8uL6O6vq6M5zgZgpS",
+					"https://drive.google.com/uc?id=1a2tMUsQUUi6gf12gJ7Q8qZyZtN2Se_Ng",
+					"https://drive.google.com/uc?id=1o-FBBG9khA47FLCxobdnLCKTFHx3eUUj",
+					"https://drive.google.com/uc?id=1n0PJm8e3ugoQHaU3X1xXg_wyn8CL5b1b",
+					"https://drive.google.com/uc?id=103BVPCEobKHDqT7eNnWuw-2w9GiDwYcW",
+					"https://drive.google.com/uc?id=11dH-9-I-HQy0gJKMlF0CXIrqXeneUzNz",
+					"https://drive.google.com/uc?id=1x-OaCL0YAR2FFDiG9pgcNDwvcSoA_zVU",
+					"https://drive.google.com/uc?id=1mnbYsLFA9vBpc3XtYwhYbZ1V8P6gxFHx",
+					"https://drive.google.com/uc?id=1wk-nu_AGv0R4U9CBAkkl4ikkSBkre6YQ",
+					"https://drive.google.com/uc?id=17h70s_DN3YbOaWET_MuLYqKIYTrNMXZ4",
+					"https://drive.google.com/uc?id=14Qgq86nvM6Y0WzXq5valce1E9O9eKvX8",
+					"https://drive.google.com/uc?id=1tX-JgXc1_roAFxrS-2Bu1QT9uSy6VGzM",
+					"https://drive.google.com/uc?id=17pe0dwtNLnG7mjPJc6w6FS7eguV6fh7D",
+					"https://drive.google.com/uc?id=1SffycGHA1_P8K7CXVe-rDd4XEqmRUe0T",
+					"https://drive.google.com/uc?id=1CSGqsj1m2GGfDTPPFpuGqqAX5Cxj7BJu",
+					"https://drive.google.com/uc?id=1S7BQS-sX64-40cohO9NckMAn5fvSYymf",
+					"https://drive.google.com/uc?id=1uOXYPdkdgKiCaDxcjUxw9VV10_UeecGY",
+					"https://drive.google.com/uc?id=1lITV_N7FXg1PL2nEUpFR9y_PbzGifrNp",
+					"https://drive.google.com/uc?id=1jONtqEutQCjtIsXa3ABbBCOEXpPMbfhv",
+					"https://drive.google.com/uc?id=1u_qPN5NeyDDgAY6Cn9LqC6knPOd1B4d1"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"98": {
+			"title": "Chapter 098",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1BNtN2M3Qu-a-jLEmynF9XTgn0gK1O6Jd",
+					"https://drive.google.com/uc?id=1U-s901G2Q-W3MiP9rRU3haUvTERX9PeT",
+					"https://drive.google.com/uc?id=17RGZfsOg_XxyN0raZXxS5qA53nYdHsHk",
+					"https://drive.google.com/uc?id=1oZkaLL7qDeK0iFWEqbw76eAzII-GoBJH",
+					"https://drive.google.com/uc?id=1Ffgrvsjj02D06iK8ubnVQigSzpeoC2rv",
+					"https://drive.google.com/uc?id=1ePh0cp_ZH0iNToecWfiFAEu87NJ1k6EU",
+					"https://drive.google.com/uc?id=12EgOLqNkaDgBIJMf0d7gEvKdUj1KZqj1",
+					"https://drive.google.com/uc?id=1EN2ayhWr-HpnPnSCj7vhck-F2fNyX_IM",
+					"https://drive.google.com/uc?id=1vKfJfo3Y6D628thOQaZVn_jYcd8Ov7n_",
+					"https://drive.google.com/uc?id=1OGul-XSHCAGrSgqXDu6Z-Pc0ZEybjk5V",
+					"https://drive.google.com/uc?id=10GOkjNq2oFyJvGJ_lQ676fTHb0Elq7Ik",
+					"https://drive.google.com/uc?id=1s6vg33foA6wguiasqo3Q5Sv5IHM8VE8s",
+					"https://drive.google.com/uc?id=1mCHLOKvKMet5uXtov4ECoFuIsT6u5zyM",
+					"https://drive.google.com/uc?id=17EmaE1nHoNrzL83Z9TInH93UQsHYd88k",
+					"https://drive.google.com/uc?id=19d0_ytnd4ID2JvYORzRf6mEjm48fBuS8",
+					"https://drive.google.com/uc?id=1twDBsdXnyF-VH1KNZCQTNSIuDbJY3KOu",
+					"https://drive.google.com/uc?id=1tyD6dh-JbXhoXau0Ztiobx-7ueVMyh1i",
+					"https://drive.google.com/uc?id=1IUkzBLWpSQ6WBHxHq-CE2ZA-XKjoRqrh",
+					"https://drive.google.com/uc?id=1_qguh7Jjy7v8HvrZZhC8Qpd4fZiJSQG8",
+					"https://drive.google.com/uc?id=1hFevDHP1EbyWX2HnkuHpAS_uxqzpFbA6"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"99": {
+			"title": "Chapter 099",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1xY7ighxTPV-d6vYu-ipDacuOsD2uW7VE",
+					"https://drive.google.com/uc?id=1NuL9P3F7ryibnM2g6lbuf_J37-Pi3VrY",
+					"https://drive.google.com/uc?id=1xWzkVEYkZnRLKU6NTtwZd7zGBIMikNQZ",
+					"https://drive.google.com/uc?id=14gGJjj1geVg2GBxICvNVZSzQFA-2zHzk",
+					"https://drive.google.com/uc?id=1uCycVTeCQP43JLtFtFajWHqZUrGQ6PRd",
+					"https://drive.google.com/uc?id=14fVNh1-lXj7pti--X-Q43hqXV7nmHG2R",
+					"https://drive.google.com/uc?id=1LNRiV4E9MqDul8UtC9X5wyjsmDmxIzN2",
+					"https://drive.google.com/uc?id=1A6T55oFvxDQiZPIk7tT5gib5AJJYwPse",
+					"https://drive.google.com/uc?id=1K38S9feQ1xfHPaHb_XdHFdFL40XnaD1v",
+					"https://drive.google.com/uc?id=1JHw5hVtB6RH13cz8udw5CfKeDakzIIZM",
+					"https://drive.google.com/uc?id=1lpIGXVXI0mDDWY4ARKowHP3cSRTlSgLa",
+					"https://drive.google.com/uc?id=1133GqzzcdNWe4z7u-JpmXbRo4vm--uEu",
+					"https://drive.google.com/uc?id=1XOIojoLelo0o09T6q1X2vtDUAz0I4cDg",
+					"https://drive.google.com/uc?id=1kPD3HUp3ZvTYcm4JC2-AebkhP6CcyokG",
+					"https://drive.google.com/uc?id=1cBqmPTGbo_VU0IK-AWE2nsm5SP4rqX7l",
+					"https://drive.google.com/uc?id=1C9w7r4ztjK99iMl2ySFwA1Q6cS2EAQ9z",
+					"https://drive.google.com/uc?id=1PmDTWmboQB7ZRpU2QJFQxdEXUywMSKJ1",
+					"https://drive.google.com/uc?id=1-qgBmeahGOTKE-QUrcuFFynUH-FfEmXI",
+					"https://drive.google.com/uc?id=1kY6g4Yf90biLsxnSfd7RbHHNizBB0A9J",
+					"https://drive.google.com/uc?id=1W5GcDmWWGwnVZGhPA2oSyu7mnBJ4_OnE"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"100": {
+			"title": "Chapter 100",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1OF2fK0HrF1g9LMllf3CMjrcmiMKmCnyH",
+					"https://drive.google.com/uc?id=180cJtm1CeHeOljjTKuwXE4NoVKGHsWSe",
+					"https://drive.google.com/uc?id=1bx40D9Lry7w78dA34tkhK_LnZEBPCd71",
+					"https://drive.google.com/uc?id=1-B4INetLYmaajMj_h8hz8FNm10ZDr34K",
+					"https://drive.google.com/uc?id=1oaM2smo7dwhqcRAWLBYW89yducx6XCcm",
+					"https://drive.google.com/uc?id=1C6w2IHhpntjMvKt_jHdEWi55MpWtaY5d",
+					"https://drive.google.com/uc?id=1zA_TTm9OJwSHT-aZAa3T3ecHjMnakDat",
+					"https://drive.google.com/uc?id=1bYxrI8fWZ3xE58TYhc-NxzFWU6d-9iN9",
+					"https://drive.google.com/uc?id=1uleFcY_4OHfoH7tsGijz6YLZ4Clmwigi",
+					"https://drive.google.com/uc?id=1fvv7CS5iy0vZVZw8QPxWAfQpKHksSa1K",
+					"https://drive.google.com/uc?id=1hM-4DKTWCrMJTqWQWvdDPtXZsyDEN-9N",
+					"https://drive.google.com/uc?id=1v5Qkd9qdgYt805ufBsNPp6sMYKRKZOJf",
+					"https://drive.google.com/uc?id=1DdahobzlTpbBFG8pySy0_0LiB2WuKmP3",
+					"https://drive.google.com/uc?id=1X7zWmPP2UrIzS3ZARINmFBJyqsZHk-Iw",
+					"https://drive.google.com/uc?id=1kbCofryoOt7gPB6ct3sahkWonjBJwlIF",
+					"https://drive.google.com/uc?id=1rKjiZMSQZdUDgAy1ZPsnhHkq7VUzEl9p",
+					"https://drive.google.com/uc?id=1vzF_-9tSpg-2EMVztnRnjwimqXTRu3O7",
+					"https://drive.google.com/uc?id=1wvkcAOpfAxhc1KCuXlYCCjpsPp_sDpiI",
+					"https://drive.google.com/uc?id=1FRXzkMXdLEa3RLvqa0PEQ1SaAt8EDfJ7",
+					"https://drive.google.com/uc?id=15TC-hIdYaXw3M4M_IGlMUCHVir49DovJ"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"101": {
+			"title": "Chapter 101",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1bacav1D_kh8XNuz8RuXssH_1wBp6ml5x",
+					"https://drive.google.com/uc?id=1bt23p5-EnbBPEFq4R8AK_Fe7lNZtrAV-",
+					"https://drive.google.com/uc?id=18zhZghSuCmas-oTyfCCnKspBIRhWZX2k",
+					"https://drive.google.com/uc?id=1qGmkEjs-E9uSgFT0Lelkapp9pABFfQTf",
+					"https://drive.google.com/uc?id=1Y9IShwQx28VEHb-ygLYFFD3VyvB993iq",
+					"https://drive.google.com/uc?id=1nXXyxSR3crjGZ6CjU9HvPCZ_wHNrRfni",
+					"https://drive.google.com/uc?id=19-BVskQNokRs1d9aOwQi3qhGS0RhA2wh",
+					"https://drive.google.com/uc?id=1yMO0Pi0xeFRzefE73O0ZVXMf28vAuHJM",
+					"https://drive.google.com/uc?id=1-ZhADc_3SFY5aDgmXr9bzcPV9Xw4GUuQ",
+					"https://drive.google.com/uc?id=1Dpj9kY_O2D0vOCBHBy7Dz86cU7x_xtDu",
+					"https://drive.google.com/uc?id=1yCuSZIEt7MuSatk8CHdFgIN-s_BovI1K",
+					"https://drive.google.com/uc?id=1FLeWFUAwAA_2p10tFuzuaYGkfnYVEJby",
+					"https://drive.google.com/uc?id=12Km4FhIFljExIoZ9lj7E2rW-yzSApC9K",
+					"https://drive.google.com/uc?id=1bn58iKkyfHBKM5j_9hTS1738we5jvTXn",
+					"https://drive.google.com/uc?id=1OyYE5T1J6BAL8UmEaGtuf07X4aW8WCQQ",
+					"https://drive.google.com/uc?id=1mG7L1_oExH8MYLmfNtQccixQGrEUzNRv",
+					"https://drive.google.com/uc?id=17o-jqjAaf5OXa9EMwj0UJ39qpUZQ-t1N",
+					"https://drive.google.com/uc?id=1jScXlAhx_QiH2e_JPSdfpl0R13mqtIhL",
+					"https://drive.google.com/uc?id=1Iv7OENdrF8Iqd6toAijEMawi4ELMUOSP"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"102": {
+			"title": "Chapter 102",
+			"volume": "12",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1OlcnRJQGTbmSDoX5E_BKFWq6icyRqAqv",
+					"https://drive.google.com/uc?id=13Fi5wkFTeiNKZE222cuDZqgJCOIrrXo7",
+					"https://drive.google.com/uc?id=1OkIqNN3R3v3GUJQmmtdhuirNU2X48n5w",
+					"https://drive.google.com/uc?id=13C1GzdjnCpiLEuB818QlLe9JcZ55fuPS",
+					"https://drive.google.com/uc?id=1aagiDa_nGrYYvICwdohUUMM0OblFvx-2",
+					"https://drive.google.com/uc?id=1ytOlpbB3iePQEOQrXdKbza044YLiORD-",
+					"https://drive.google.com/uc?id=1k9ofd9Z1jY76wZy7aAWL0IDn4oxGBMRe",
+					"https://drive.google.com/uc?id=19RBTteMvGrkKGgH0ZfhjvSqIsrJygvIU",
+					"https://drive.google.com/uc?id=1U9mPkGllwresbSdIbzQtYK6Bbyuw0PnR",
+					"https://drive.google.com/uc?id=1IzHUXBhcj5SSomBsF5c7OgGmO_7Td3zC",
+					"https://drive.google.com/uc?id=1hrqGy6C3UIFk0tjtwGQ3AJZAtSMZR2QT",
+					"https://drive.google.com/uc?id=1cBB0Nc9rdomAeU5viSiW7ZCSBlK-FyLz",
+					"https://drive.google.com/uc?id=1kVlSyigUwxRrW2ujjnTvR20IkmwfzWOJ",
+					"https://drive.google.com/uc?id=1COO3HMtfFyW6S8rWLiM5HjfHmRR5JVna",
+					"https://drive.google.com/uc?id=15K44t_o9Zn_UTm1uhNcRqusefm-R84aw",
+					"https://drive.google.com/uc?id=1yY2fsxsfD5Gf1gOEaY8ebDBfmAVuJeYz",
+					"https://drive.google.com/uc?id=1hFOLTESccAXOo5dpnQI_dhewKUZjs9z5",
+					"https://drive.google.com/uc?id=1CO9SZojaYUs7V0jwIF3qxQBh26N0QZdE",
+					"https://drive.google.com/uc?id=1gwyKW3Mkcy7hA5ZMIu_8t0ClKq-cyKm0",
+					"https://drive.google.com/uc?id=12CBYmWpwrl8ZchvR6U1kcKpQQT97etWd"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"103": {
+			"title": "Chapter 103",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1PPHHbsHvZlu0shNMD4jJmAZtWhxARY2k",
+					"https://drive.google.com/uc?id=1DDooDeedqhhbrx1nuJO2Zb82hR9nUls2",
+					"https://drive.google.com/uc?id=1ibKSajKkyMrqO6CH-sOu1qkM-VaHfRI1",
+					"https://drive.google.com/uc?id=1mIRVPahJ_MWitooyXZuUJI9afCbAVb4o",
+					"https://drive.google.com/uc?id=1U1JsXBzZOCa-w6Xet83BdxfTOgCxCxkL",
+					"https://drive.google.com/uc?id=1HBcteyjTudl664ZzXpTinX6YdOezFRQU",
+					"https://drive.google.com/uc?id=1yOYIza5zrjfa6MJ_eoID2pXzy03dO5pa",
+					"https://drive.google.com/uc?id=1z0ZnKZxfhAZRl3krAbdtgvCnoP4Us409",
+					"https://drive.google.com/uc?id=1JJw_sLDgSs0LVnEOazoXii_cmz7jtiG5",
+					"https://drive.google.com/uc?id=14CCgDqYNRs9_iwL6M6bRISV-6fIXPOyz",
+					"https://drive.google.com/uc?id=1b3-B6Z6udxBhYfLz1Zh_6xypyU_cafeR",
+					"https://drive.google.com/uc?id=1lfkTIwSgVNa7Y9SRzY4VgxjGwiMSPmMS",
+					"https://drive.google.com/uc?id=1IW4cwtTFGQ2FJ1s_XPpjYL_8Z0egJ169",
+					"https://drive.google.com/uc?id=12TmfQbUd7u3EZS93t0jhUScV3Jztf2rb",
+					"https://drive.google.com/uc?id=17nHF7hNivVELdeauYMgzF6Jn2U9Imyr8",
+					"https://drive.google.com/uc?id=1Is7h9Pk4bHP0S2rjIBuAMkwalm9W_PYO",
+					"https://drive.google.com/uc?id=1CKWUTlvz-0Moc1ME--miJ9Q_XF84VDqk",
+					"https://drive.google.com/uc?id=1kWIReO-McY2UzkzidTALDs83tM3TEdIZ",
+					"https://drive.google.com/uc?id=1C90lvSbU6sSAuuJYf0GmFErRch7aaUej",
+					"https://drive.google.com/uc?id=1625srobFfzTTpt33e9ECtUBQ98lv2N4Y",
+					"https://drive.google.com/uc?id=1mYel5wUKDdVNCICSX9POiYBqSzywYpOX",
+					"https://drive.google.com/uc?id=1Q6k9dJwCAOzY4WiAzrOmeMXGgX8iT6uv",
+					"https://drive.google.com/uc?id=1tgsl8_efp0-CtbCKQAe-tvxTl5206kKD"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"104": {
+			"title": "Chapter 104",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1CUj-lIXjz6InxxwGXAO6J9erGzzZOqM0",
+					"https://drive.google.com/uc?id=1kMdAuTke--cXOT2VsLtOiuHHTXfsw5D9",
+					"https://drive.google.com/uc?id=1Pb-wcUlfmWDXLu8OZP3sR75fQEvfLQDT",
+					"https://drive.google.com/uc?id=1PB0EcO2-gx16_sBTGOvu4A80vbxZP9G8",
+					"https://drive.google.com/uc?id=1RGRjmCrN7IosCy-8h5yvtZ6sr-Gvdvbu",
+					"https://drive.google.com/uc?id=1pMuPBD8E4opVwgmkeoowDgBQp5DqYN4o",
+					"https://drive.google.com/uc?id=1Ok3_mJ3ORwW0buNJlAPQOHU00cH3I5NK",
+					"https://drive.google.com/uc?id=1CVD7rx_2VS5meC7cjvLlfRLc43DxB6tM",
+					"https://drive.google.com/uc?id=1MUey2wDHUr2Daq3jMX7mYT2X4AZj2qtl",
+					"https://drive.google.com/uc?id=1z-ESn5Lwi2_JSUtG9mXpvPxAq60EUzND",
+					"https://drive.google.com/uc?id=19wMIx8UzY2Y9ZCLT1L0hKBJraQYoPaSA",
+					"https://drive.google.com/uc?id=1x16YbdN1DtYY0VBZcsQ-ePkQ2tXIhgEQ",
+					"https://drive.google.com/uc?id=1d1Q21GGXrBc5bTNdrpAClXDoPvz19NKu",
+					"https://drive.google.com/uc?id=1kNOxm3O0LogVbyCvV3dBipfJZKBj6EF_",
+					"https://drive.google.com/uc?id=14XErPr5jPKSn8bsufrZx_uKccet7teZM",
+					"https://drive.google.com/uc?id=13BAizmLY6ByWfezuhZGzAg3HUC6X2mAO",
+					"https://drive.google.com/uc?id=1GRv-92cb2pcGmAanh516Jnz4gHhOTk5_",
+					"https://drive.google.com/uc?id=15zMRsJZnB3rZZcW1fBvX9I3H719Ih4CF",
+					"https://drive.google.com/uc?id=1Urp294oxQZwpY5nLHjhlEg9s-zNW6jK_",
+					"https://drive.google.com/uc?id=1Kn-lk-pZw-E55nuEclTPvbadOIOnnxoL"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"105": {
+			"title": "Chapter 105",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1ORnfCEu67UBKIaaj4KvGimvJLA0l8DWR",
+					"https://drive.google.com/uc?id=1PFZ86HzeOlB2ZZOSVld6SMDEPwUP0CS6",
+					"https://drive.google.com/uc?id=16Di1X6nZXDccRoVH9GSYUaYEfi50watT",
+					"https://drive.google.com/uc?id=126zfSvJBc2s-PPHy9OPG7tbzmg7vuK2j",
+					"https://drive.google.com/uc?id=1UKG3L0oYwBlzDDR_XyAkkpuDm10peR50",
+					"https://drive.google.com/uc?id=1C7kDXt-vSUhBmcducRTnZtM16ukbeabb",
+					"https://drive.google.com/uc?id=1wZ0NJ1NNj82J_e2R55ADzFt4jdOjnXpD",
+					"https://drive.google.com/uc?id=11uhe35fxtlL40N94uV39caePQP_FiFOK",
+					"https://drive.google.com/uc?id=1fS44L2GuxUA3fv7dkHP3h9SqNMW-tSQb",
+					"https://drive.google.com/uc?id=1C0wHgYy3yFGy0QV4sMWSLCtdTRuNqrZC",
+					"https://drive.google.com/uc?id=1nZ3bQs5u_z0nAH5GZyoQwydhbWYrMsns",
+					"https://drive.google.com/uc?id=17HZLI5Cqu7RKULXAmE_PYIim-_8zXb5N",
+					"https://drive.google.com/uc?id=16ZT-x4XG4gfUr-a3wKA1j9WbqtVV6tbv",
+					"https://drive.google.com/uc?id=1NoBNY2Rb2ItbIaz791RAD-oRBirJMLIf",
+					"https://drive.google.com/uc?id=18KjNkHGj5lOvqt76mMyIUnCC1DNZX6Ai",
+					"https://drive.google.com/uc?id=1WaTOWiDoALnwi1AgO4cs4D7ny0Utcnl_",
+					"https://drive.google.com/uc?id=1kpsd16V8bA-rWYNTZr-pTnBGcPel91vD",
+					"https://drive.google.com/uc?id=1eZNVe2Ch4z5j1xMRJ3yqcM1EF0M1Zj5q",
+					"https://drive.google.com/uc?id=1gBTWe0uEHzgi_aSwM-NDnyPF3MpIAc4w",
+					"https://drive.google.com/uc?id=1iDxYTRgmuVv9pgM4KILa-6gDvlIf6med"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"106": {
+			"title": "Chapter 106",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=12rg8_3Mr79bcGR8mmqzYfLEyYPuUTrAU",
+					"https://drive.google.com/uc?id=1utntbMuJLS3hiZHc4oHsPcAt_ZrPBzBV",
+					"https://drive.google.com/uc?id=1yj02VgCmo1ABzSk5-Itxkk57hGfRa9b0",
+					"https://drive.google.com/uc?id=1DvhmLhDuPsIHpePIwZeW7INcfpWNYavy",
+					"https://drive.google.com/uc?id=1XQUHSwq7hwPXUhA0_bheYfT1umoaxdRf",
+					"https://drive.google.com/uc?id=1IG2WTzcGsOg-bFY-Kw964ydj9S7Fo9n_",
+					"https://drive.google.com/uc?id=1G-xvBfUM_UpGMBoca00_i_KbeplSnFEc",
+					"https://drive.google.com/uc?id=12qRSYrMDdQ6OGtF1YdmYR4X_n1Gm6iDo",
+					"https://drive.google.com/uc?id=17bO_9sWNDHbm0sl4yYt2PZ-p3Is5Fn8k",
+					"https://drive.google.com/uc?id=1OAqU8aKpVsjxChz4WNFx_g7nd21ZApGh",
+					"https://drive.google.com/uc?id=1hhXKdc6J68yU6pWssyGIV3aW2M6D0YED",
+					"https://drive.google.com/uc?id=1X3qmEC3Nzjei9tzdgPitu6WN4MylSOhn",
+					"https://drive.google.com/uc?id=1UEPTtIOUKLrabcAqeV5iHjRlJOJPMi1s",
+					"https://drive.google.com/uc?id=16WwKjPUI3k-p2vXNdAmW6NEA_sen1NAQ",
+					"https://drive.google.com/uc?id=1KqSGAyfcwPGta1jtCc4cdeFPyh9Fkn-Y",
+					"https://drive.google.com/uc?id=1zfFF1tbP7EUIX9wckUcHLM-57KczuZWe",
+					"https://drive.google.com/uc?id=1C42jLtXiNvJq2hBQsJjUkndvolhLS97h",
+					"https://drive.google.com/uc?id=1TaH-H8xEcalsjhVSL9mEpywobGeoLwd2",
+					"https://drive.google.com/uc?id=1pjVS3Ucb6ofIta5SDQaWplTQ3iQOKqOa"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"107": {
+			"title": "Chapter 107",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1s5oFodR_AcqpucxVkn98NChqR2kJTgNu",
+					"https://drive.google.com/uc?id=14ZA7Bjk-fnjiceuw6y0pv0DxsA3KbNEM",
+					"https://drive.google.com/uc?id=1Xml_SU_m87oKFXGwySgA4eb1bsdHUcEN",
+					"https://drive.google.com/uc?id=1pkOqiEeVYRD0fR4_qmbsMJrnMYz1QrpW",
+					"https://drive.google.com/uc?id=18-sneUmX4z7edbefhbtUUp4dM_Jr2ug0",
+					"https://drive.google.com/uc?id=1DyQ5BSJtonMlfQ95dQ767-jNwDtf3y2t",
+					"https://drive.google.com/uc?id=1TrmgvQEmwRAsZf0FyuGuiBhLxW1S8XZB",
+					"https://drive.google.com/uc?id=15Uz_RftSihRoQ3nxGFAuLOHDVVDwLvAB",
+					"https://drive.google.com/uc?id=1FL8OxqA0fdciYKxflnqS4wv46-n8h16C",
+					"https://drive.google.com/uc?id=1-5NH3WSLbqzq4TTCICajhoR_UaiSyvOr",
+					"https://drive.google.com/uc?id=1SJXGGiz_HQeXuCeWkH3GBksSwGzCX2-V",
+					"https://drive.google.com/uc?id=1jG58CXPKfMzaAUnn4r13AXYewdfueJ1v",
+					"https://drive.google.com/uc?id=1Jiuw5xY1no9vdilNOrKiz02plaHz1oqU",
+					"https://drive.google.com/uc?id=1DNj6yKkzs2Ex5vYpCkP39OTxa1SqvEPW",
+					"https://drive.google.com/uc?id=1nCbscWTp4__qLn4k6SE9it9GpQgS1XmV",
+					"https://drive.google.com/uc?id=1BsTc2pWVDHx5n1MpATpK_ljkijYTr4Vm",
+					"https://drive.google.com/uc?id=1WPcnWRwYxUYKm0WeVlkgGkaXJXGaksyC",
+					"https://drive.google.com/uc?id=1lvoYIlAF1UhYVlsbbMuY09qHUmlFJW0B",
+					"https://drive.google.com/uc?id=14kp7A0gZUm5gF0BbwCp25ywxi28Fz12j",
+					"https://drive.google.com/uc?id=18b95I9t1ENx7kGQZqkO5m8LmTlxwi9Ps"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"108": {
+			"title": "Chapter 108",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=11dlHKdiSw1MPSqleHEl_YrI4AkoDWjC7",
+					"https://drive.google.com/uc?id=1WKFArxKMUG7ozleA_KqV3bWckHzaA4lA",
+					"https://drive.google.com/uc?id=1Ng950GGK9xuxAImKEi1-1pmyIKQp_clx",
+					"https://drive.google.com/uc?id=1iEUVg8_pZQB1haTFa2m29ui3n3a2SHC3",
+					"https://drive.google.com/uc?id=1g_zHRO-btks8txXi-MpPi3d3okJPgifx",
+					"https://drive.google.com/uc?id=1aggQa1cgB805irIUnvgetwSBK2SScwwG",
+					"https://drive.google.com/uc?id=1-9lF264thGHwS0ssu3ycoq7FtzM8e6hX",
+					"https://drive.google.com/uc?id=1WUqoU7mFYW2viW1DphX8WOyOqZY81q3Q",
+					"https://drive.google.com/uc?id=1Eot7_ZFuD3LV9v7fg5qyyG8u5cThwxRb",
+					"https://drive.google.com/uc?id=1BzDWAPzTSEVcJiTRepkyGh4IlWbAaet4",
+					"https://drive.google.com/uc?id=1YFtpLdRey-DbRxshfTZicghDGAKdewEo",
+					"https://drive.google.com/uc?id=1T9w7A0Yq5prz74CWTnpIBN4lTNO90tOB",
+					"https://drive.google.com/uc?id=1YaYZqW-w_Mhd2_bSnhHHMHDGDTP1-U_l",
+					"https://drive.google.com/uc?id=1ADBrBWzXTAuMDXR3vKuPR1b8RE0esLmP",
+					"https://drive.google.com/uc?id=1L_Sx9q97WU6SxqOXRw3GPrVpyGiTp-Fr",
+					"https://drive.google.com/uc?id=1icZL8oJm8Ud9rbRVtGif8Atv2JrU9ywL",
+					"https://drive.google.com/uc?id=1ymJq4uFeUtaw9T5Rh1oRvKdvAkVifWi0",
+					"https://drive.google.com/uc?id=1r7HRywbTxnGs179deuwSVF2KVO6Up5RK",
+					"https://drive.google.com/uc?id=17TlgXZWuQyepH8yDu8PdKgSqOIvyiGWI",
+					"https://drive.google.com/uc?id=1gkYL84hv7nMFLXI22pdkz92xzxcZZFjg"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"109": {
+			"title": "Chapter 109",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1wBZp7Od0KY4Uz9Mohb_Nz918DdeCsDnX",
+					"https://drive.google.com/uc?id=1px8JbnZ_tNXSf8wfqCLTPo0HMWAz-cxx",
+					"https://drive.google.com/uc?id=14F8PBjxYvuto2Ire1rZ9lDEF1Flk1V7B",
+					"https://drive.google.com/uc?id=1SS4wlKDSaRxayGGKTDl_lL-T0v3R3Bpj",
+					"https://drive.google.com/uc?id=1sRmpwet3yp-0XUleqARGN0ymHE5sXheI",
+					"https://drive.google.com/uc?id=1JaM97rK8sEaFMV701NqMLx9puau-7h6V",
+					"https://drive.google.com/uc?id=1fg4BKoiZ-_z4lpJybjh-J1hTxPYEmr_a",
+					"https://drive.google.com/uc?id=17pw-WHDHfuWDvopN14ryYNOwKqV6TqjX",
+					"https://drive.google.com/uc?id=1E8Arl4Zxjx0BL2HkrpRsIoPk6X3W3lfA",
+					"https://drive.google.com/uc?id=1g1fw9JsWknLFQJxg9anuLaBreVZrnVYq",
+					"https://drive.google.com/uc?id=1ibJvBA8YE5sHDlJi3TOyrdyRYthr7eNf",
+					"https://drive.google.com/uc?id=1AgiUpp0K0zXxpeqbngBqIPyM1dllzNL9",
+					"https://drive.google.com/uc?id=1blJ7uFGsbNoq9KCz3G91vxwt7nvDjgj-",
+					"https://drive.google.com/uc?id=1cfg_85qxnnUpB03cFXRNhyliv9QTtcdD",
+					"https://drive.google.com/uc?id=1rbsNMUfWekgXCRzBe5trLV15O_-XAoyt",
+					"https://drive.google.com/uc?id=13gU669jcVapCAs-e1wGntqA1Wi7Hhsde",
+					"https://drive.google.com/uc?id=1tcND0v77LI_-D4JPPVuIYpCvOxtx1K7N",
+					"https://drive.google.com/uc?id=1Tjmd_rtR0ma60wilPUOqcObm1Bi5sp-n",
+					"https://drive.google.com/uc?id=1R5JmI6gvoqm3fickwFvg7pA_B7OLXLY-",
+					"https://drive.google.com/uc?id=1AK4v3ldImFkQKCAcp8r2bBFG45KRCTwM"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"110": {
+			"title": "Chapter 110",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1_TIqFbDCqY-766GEz8suWcv9hHi3ZHgq",
+					"https://drive.google.com/uc?id=1TiR3MijFofTfWk8VC9me6k5i2UUnpCi_",
+					"https://drive.google.com/uc?id=15ruImhNNMLYFcBlH1Jhc5ExAyoFBQcWl",
+					"https://drive.google.com/uc?id=1plqbuo48KE_Nc12vBUNv8cFDU8CK26qx",
+					"https://drive.google.com/uc?id=1z7atYVN8XVxkIS5Y0Qr50DVa-ZFIfYgq",
+					"https://drive.google.com/uc?id=1kt0IY2kPPIxD7SqS-FFs5kMNftxdnYXG",
+					"https://drive.google.com/uc?id=1B2unctP8BnLe_YjG4zmetCCjyNVeQDNQ",
+					"https://drive.google.com/uc?id=1SEpFNkhIeblhFb6rLUCEb_BITt8TmLjm",
+					"https://drive.google.com/uc?id=17YE6bMpBrguIK-jFL1jo_Ax1suWm7opr",
+					"https://drive.google.com/uc?id=1tRUalg2sAQTzIMqnpvZbks2I7QzveNi6",
+					"https://drive.google.com/uc?id=17qgweEhgIi0Bd_ul6GRuVoPPSU37R9kB",
+					"https://drive.google.com/uc?id=1mc-ioRm7P8SeAIQi65HTzyEWYEBucI_0",
+					"https://drive.google.com/uc?id=19W_pw_PQ3yz78obfSszjHellAldPreEb",
+					"https://drive.google.com/uc?id=1_fFafd4g3Xe44mKAJIiBAPCHMCCFViQm",
+					"https://drive.google.com/uc?id=1NR-7f8vHMTMfHYB1ruZQukkU-eEP1fSk",
+					"https://drive.google.com/uc?id=1kQ35JScAVFG9h6jzlZniBDN8bR8sftWc",
+					"https://drive.google.com/uc?id=1sNmVUVB5e8xhrs6tZHG03HVk9VkEfqSx",
+					"https://drive.google.com/uc?id=1KO12xTUceOWPv8HtX8dqjZfSXm1vZ2z2",
+					"https://drive.google.com/uc?id=1CwELPMbDDMh0RZxl4X1v8FbEp_ClgrNK"
+				]
+			},
+			"last_updated": "1619836508"
+		},
+		"111": {
+			"title": "Chapter 111",
+			"volume": "13",
+			"groups": {
+				"KojoZero_Scans": [
+					"https://drive.google.com/uc?id=1KB9GBX-FAB-OZ2YcHExCUM_gSTJwOz69",
+					"https://drive.google.com/uc?id=1k8BCxRiVGp3SQlNAViYM2_3OHK8Nj8qG",
+					"https://drive.google.com/uc?id=1n-wV1Dj6TUuos559Rj8KbVhPt7oWiwr8",
+					"https://drive.google.com/uc?id=1efHVJGsWCCdp9oEWh9Tx54jHpnEEbWaQ",
+					"https://drive.google.com/uc?id=1NBBum8ougV5Vb3usvMlcYGK0_8FfDdmp",
+					"https://drive.google.com/uc?id=1n5RrCMNWCwO42xzZK9sTJfs1YhQIPK2k",
+					"https://drive.google.com/uc?id=1kSnL1wfTD0I0snNt_PXLO_bgDB3pAfZn",
+					"https://drive.google.com/uc?id=1SvLrt4fYYkS45Ad1WnjG9IliY5-v2hb1",
+					"https://drive.google.com/uc?id=1ut_gRLirHrn8OojoA5PEKIHq8RjmoVPm",
+					"https://drive.google.com/uc?id=1PVXqruok-r85rx0XC7B9g0_v902lcfqF",
+					"https://drive.google.com/uc?id=1AJbgBMlMpXIqnpl833rfAZ6rsUuStOBO",
+					"https://drive.google.com/uc?id=1vGuPljVdtJFU-beDHdH4dYMWVLHaeujY",
+					"https://drive.google.com/uc?id=1imBdvvECvFRV_brK1Ew0ONU1SCXh9zM5",
+					"https://drive.google.com/uc?id=1VFF0ekYqEED4vj3v9tGq-uxS7c8VKvTl",
+					"https://drive.google.com/uc?id=1Su_a1BAwBMBQuO0UA4KzDFGRNDu3yUER",
+					"https://drive.google.com/uc?id=1uXKheSKcymjK-jfJBCNnnhxKLEqP7jQ7",
+					"https://drive.google.com/uc?id=1Tm1aezgjkP-l6yXD10xkpCwKnoLQEVCg",
+					"https://drive.google.com/uc?id=1LeYwnbmSQTVUW76Ht7Z3KSYOoA5Ck-Pb",
+					"https://drive.google.com/uc?id=1dMF8z-mu4aXhlNwnVMXw3GIk30ymfX-f",
+					"https://drive.google.com/uc?id=15OXdg6-UFDGUwTYy6ixuU4igrpyYpy8b"
+				]
+			},
+			"last_updated": "1619836508"
+		}
+	}
 }
