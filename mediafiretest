@@ -1,1 +1,20 @@
-
+{
+	"title": "Mediafire Test",
+	"description": "This is a test of mediafire",
+	"artist": "Tite Kubo",
+	"author": "Tite Kubo",
+	"cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08873841873213325501/1200/08873841873213325501.jpg",
+	"chapters": {
+		"1": {
+			"title": "Chapter 01 - Death & Strawberry",
+			"volume": "1",
+			"groups": {
+				"KojoZero Scans": [
+					"https://www.mediafire.com/convkey/9336/5osr16edh4wvgoazg.jpg",
+					"https://www.mediafire.com/convkey/78b9/czeneu0vgvh3peezg.jpg"
+				]
+			},
+			"last_updated": "1620947898"
+		}
+  }
+}
