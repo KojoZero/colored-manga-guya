@@ -1,6 +1,6 @@
 {
-	"title": "Dropbox Test",
-	"description": "This is a test of dropbox",
+	"title": "AWS Test",
+	"description": "This is a test of AWS",
 	"artist": "Tite Kubo",
 	"author": "Tite Kubo",
 	"cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/08873841873213325501/1200/08873841873213325501.jpg",
@@ -10,18 +10,16 @@
 			"volume": "1",
 			"groups": {
 				"KojoZero Scans": [
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/001.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/002.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/003.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/004.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/005.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/006.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/007.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/008.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/009.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/010.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/011.jpg",
-					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/012.jpg"
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/10.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/11.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/12.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/13.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/14.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/15.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/16.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/17.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/18.jpg",
+					"https://cubaricoloredmanga.s3-us-west-1.amazonaws.com/Dragon Ball Super/Dragon Ball Super - Digital Colored Comics v01 (2021) (Horny Council)/Chapter 01 - God of Destruction's Premonition/19.jpg"
 				]
 			},
 			"last_updated": "1620947898"
