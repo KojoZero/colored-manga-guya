@@ -10,9 +10,18 @@
 			"volume": "1",
 			"groups": {
 				"KojoZero Scans": [
-					"https://www.dropbox.com/s/g3yxkgqxdr6szfs/001.jpg?raw=1",
-					"https://www.dropbox.com/s/4ro61rb7gqjvly8/002.jpg?raw=1",
-					"https://www.dropbox.com/s/4a7jxv6a1hh2ekx/003.jpg?raw=1"
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/001.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/002.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/003.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/004.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/005.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/006.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/007.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/008.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/009.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/010.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/011.jpg",
+					"https://s3.us-west-1.wasabisys.com/cubari/cubariManga/Bleach/Bleach%20-%20Digital%20Colored%20Comics%20v01%20(2021)%20(KojoZero%20Scans)/Chapter%2001%20-%20Death%20&%20Strawberry/012.jpg"
 				]
 			},
 			"last_updated": "1620947898"
